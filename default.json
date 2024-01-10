@@ -1,0 +1,4006 @@
+{
+    "providers": [
+        {
+            "file": "craftui:gui/slot/blank.png",
+            "chars": [
+                "\ue001"
+            ],
+            "height": 18,
+            "ascent": -4,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:gui/slot/blank.png",
+            "chars": [
+                "\ue002"
+            ],
+            "height": 18,
+            "ascent": -22,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:gui/slot/blank.png",
+            "chars": [
+                "\ue003"
+            ],
+            "height": 18,
+            "ascent": -40,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:gui/slot/blank.png",
+            "chars": [
+                "\ue004"
+            ],
+            "height": 18,
+            "ascent": -58,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:gui/slot/blank.png",
+            "chars": [
+                "\ue005"
+            ],
+            "height": 18,
+            "ascent": -76,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:gui/slot/blank.png",
+            "chars": [
+                "\ue006"
+            ],
+            "height": 18,
+            "ascent": -94,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:gui/slot/grid.png",
+            "chars": [
+                "\ue007"
+            ],
+            "height": 18,
+            "ascent": -4,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:gui/slot/grid.png",
+            "chars": [
+                "\ue008"
+            ],
+            "height": 18,
+            "ascent": -22,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:gui/slot/grid.png",
+            "chars": [
+                "\ue009"
+            ],
+            "height": 18,
+            "ascent": -40,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:gui/slot/grid.png",
+            "chars": [
+                "\ue00a"
+            ],
+            "height": 18,
+            "ascent": -58,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:gui/slot/grid.png",
+            "chars": [
+                "\ue00b"
+            ],
+            "height": 18,
+            "ascent": -76,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:gui/slot/grid.png",
+            "chars": [
+                "\ue00c"
+            ],
+            "height": 18,
+            "ascent": -94,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue00d"
+            ],
+            "height": 1,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue00e"
+            ],
+            "height": 0,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue00f"
+            ],
+            "height": -1,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue010"
+            ],
+            "height": -2,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue011"
+            ],
+            "height": -3,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue012"
+            ],
+            "height": -4,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue013"
+            ],
+            "height": -5,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue014"
+            ],
+            "height": -6,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue015"
+            ],
+            "height": -7,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue016"
+            ],
+            "height": -8,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue017"
+            ],
+            "height": -9,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue018"
+            ],
+            "height": -10,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue019"
+            ],
+            "height": -11,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue01a"
+            ],
+            "height": -12,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue01b"
+            ],
+            "height": -13,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue01c"
+            ],
+            "height": -14,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue01d"
+            ],
+            "height": -15,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue01e"
+            ],
+            "height": -16,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue01f"
+            ],
+            "height": -17,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue020"
+            ],
+            "height": -18,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue021"
+            ],
+            "height": -19,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue022"
+            ],
+            "height": -20,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue023"
+            ],
+            "height": -21,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue024"
+            ],
+            "height": -22,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue025"
+            ],
+            "height": -23,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue026"
+            ],
+            "height": -24,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue027"
+            ],
+            "height": -25,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue028"
+            ],
+            "height": -26,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue029"
+            ],
+            "height": -27,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue02a"
+            ],
+            "height": -28,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue02b"
+            ],
+            "height": -29,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue02c"
+            ],
+            "height": -30,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue02d"
+            ],
+            "height": -31,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue02e"
+            ],
+            "height": -32,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue02f"
+            ],
+            "height": -33,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue030"
+            ],
+            "height": -34,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue031"
+            ],
+            "height": -35,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue032"
+            ],
+            "height": -36,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue033"
+            ],
+            "height": -37,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue034"
+            ],
+            "height": -38,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue035"
+            ],
+            "height": -39,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue036"
+            ],
+            "height": -40,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue037"
+            ],
+            "height": -41,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue038"
+            ],
+            "height": -42,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue039"
+            ],
+            "height": -43,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue03a"
+            ],
+            "height": -44,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue03b"
+            ],
+            "height": -45,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue03c"
+            ],
+            "height": -46,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue03d"
+            ],
+            "height": -47,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue03e"
+            ],
+            "height": -48,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue03f"
+            ],
+            "height": -49,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue040"
+            ],
+            "height": -50,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue041"
+            ],
+            "height": -51,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue042"
+            ],
+            "height": -52,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue043"
+            ],
+            "height": -53,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue044"
+            ],
+            "height": -54,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue045"
+            ],
+            "height": -55,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue046"
+            ],
+            "height": -56,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue047"
+            ],
+            "height": -57,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue048"
+            ],
+            "height": -58,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue049"
+            ],
+            "height": -59,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue04a"
+            ],
+            "height": -60,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue04b"
+            ],
+            "height": -61,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue04c"
+            ],
+            "height": -62,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue04d"
+            ],
+            "height": -63,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue04e"
+            ],
+            "height": -64,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue04f"
+            ],
+            "height": -65,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue050"
+            ],
+            "height": -66,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue051"
+            ],
+            "height": -67,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue052"
+            ],
+            "height": -68,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue053"
+            ],
+            "height": -69,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue054"
+            ],
+            "height": -70,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue055"
+            ],
+            "height": -71,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue056"
+            ],
+            "height": -72,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue057"
+            ],
+            "height": -73,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue058"
+            ],
+            "height": -74,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue059"
+            ],
+            "height": -75,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue05a"
+            ],
+            "height": -76,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue05b"
+            ],
+            "height": -77,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue05c"
+            ],
+            "height": -78,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue05d"
+            ],
+            "height": -79,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue05e"
+            ],
+            "height": -80,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue05f"
+            ],
+            "height": -81,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue060"
+            ],
+            "height": -82,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue061"
+            ],
+            "height": -83,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue062"
+            ],
+            "height": -84,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue063"
+            ],
+            "height": -85,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue064"
+            ],
+            "height": -86,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue065"
+            ],
+            "height": -87,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue066"
+            ],
+            "height": -88,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue067"
+            ],
+            "height": -89,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue068"
+            ],
+            "height": -90,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue069"
+            ],
+            "height": -91,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue06a"
+            ],
+            "height": -92,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue06b"
+            ],
+            "height": -93,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue06c"
+            ],
+            "height": -94,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue06d"
+            ],
+            "height": -95,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue06e"
+            ],
+            "height": -96,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue06f"
+            ],
+            "height": -97,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue070"
+            ],
+            "height": -98,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue071"
+            ],
+            "height": -99,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue072"
+            ],
+            "height": -100,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue073"
+            ],
+            "height": -101,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue074"
+            ],
+            "height": -102,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue075"
+            ],
+            "height": -103,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue076"
+            ],
+            "height": -104,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue077"
+            ],
+            "height": -105,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue078"
+            ],
+            "height": -106,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue079"
+            ],
+            "height": -107,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue07a"
+            ],
+            "height": -108,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue07b"
+            ],
+            "height": -109,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue07c"
+            ],
+            "height": -110,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue07d"
+            ],
+            "height": -111,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue07e"
+            ],
+            "height": -112,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue07f"
+            ],
+            "height": -113,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue080"
+            ],
+            "height": -114,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue081"
+            ],
+            "height": -115,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue082"
+            ],
+            "height": -116,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue083"
+            ],
+            "height": -117,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue084"
+            ],
+            "height": -118,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue085"
+            ],
+            "height": -119,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue086"
+            ],
+            "height": -120,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue087"
+            ],
+            "height": -121,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue088"
+            ],
+            "height": -122,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue089"
+            ],
+            "height": -123,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue08a"
+            ],
+            "height": -124,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue08b"
+            ],
+            "height": -125,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue08c"
+            ],
+            "height": -126,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue08d"
+            ],
+            "height": -127,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue08e"
+            ],
+            "height": -128,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue08f"
+            ],
+            "height": -129,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue090"
+            ],
+            "height": -130,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue091"
+            ],
+            "height": -131,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue092"
+            ],
+            "height": -132,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue093"
+            ],
+            "height": -133,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue094"
+            ],
+            "height": -134,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue095"
+            ],
+            "height": -135,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue096"
+            ],
+            "height": -136,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue097"
+            ],
+            "height": -137,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue098"
+            ],
+            "height": -138,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue099"
+            ],
+            "height": -139,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue09a"
+            ],
+            "height": -140,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue09b"
+            ],
+            "height": -141,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue09c"
+            ],
+            "height": -142,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue09d"
+            ],
+            "height": -143,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue09e"
+            ],
+            "height": -144,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue09f"
+            ],
+            "height": -145,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0a0"
+            ],
+            "height": -146,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0a1"
+            ],
+            "height": -147,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0a2"
+            ],
+            "height": -148,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0a3"
+            ],
+            "height": -149,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0a4"
+            ],
+            "height": -150,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0a5"
+            ],
+            "height": -151,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0a6"
+            ],
+            "height": -152,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0a7"
+            ],
+            "height": -153,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0a8"
+            ],
+            "height": -154,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0a9"
+            ],
+            "height": -155,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0aa"
+            ],
+            "height": -156,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0ab"
+            ],
+            "height": -157,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0ac"
+            ],
+            "height": -158,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0ad"
+            ],
+            "height": -159,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0ae"
+            ],
+            "height": -160,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0af"
+            ],
+            "height": -161,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0b0"
+            ],
+            "height": -162,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0b1"
+            ],
+            "height": -163,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0b2"
+            ],
+            "height": -164,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0b3"
+            ],
+            "height": -165,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0b4"
+            ],
+            "height": -166,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0b5"
+            ],
+            "height": -167,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0b6"
+            ],
+            "height": -168,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0b7"
+            ],
+            "height": -169,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0b8"
+            ],
+            "height": -170,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0b9"
+            ],
+            "height": -171,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0ba"
+            ],
+            "height": -172,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0bb"
+            ],
+            "height": -173,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0bc"
+            ],
+            "height": -174,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0bd"
+            ],
+            "height": -175,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0be"
+            ],
+            "height": -176,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0bf"
+            ],
+            "height": -177,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0c0"
+            ],
+            "height": -178,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0c1"
+            ],
+            "height": -179,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0c2"
+            ],
+            "height": -180,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0c3"
+            ],
+            "height": -181,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0c4"
+            ],
+            "height": -182,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0c5"
+            ],
+            "height": -183,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0c6"
+            ],
+            "height": -184,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0c7"
+            ],
+            "height": -185,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0c8"
+            ],
+            "height": -186,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0c9"
+            ],
+            "height": -187,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0ca"
+            ],
+            "height": -188,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0cb"
+            ],
+            "height": -189,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0cc"
+            ],
+            "height": -190,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0cd"
+            ],
+            "height": -191,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0ce"
+            ],
+            "height": -192,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0cf"
+            ],
+            "height": -193,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0d0"
+            ],
+            "height": -194,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0d1"
+            ],
+            "height": -195,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0d2"
+            ],
+            "height": -196,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0d3"
+            ],
+            "height": -197,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0d4"
+            ],
+            "height": -198,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0d5"
+            ],
+            "height": 1,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0d6"
+            ],
+            "height": 2,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0d7"
+            ],
+            "height": 3,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0d8"
+            ],
+            "height": 4,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0d9"
+            ],
+            "height": 5,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0da"
+            ],
+            "height": 6,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0db"
+            ],
+            "height": 7,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0dc"
+            ],
+            "height": 8,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0dd"
+            ],
+            "height": 9,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0de"
+            ],
+            "height": 10,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0df"
+            ],
+            "height": 11,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0e0"
+            ],
+            "height": 12,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0e1"
+            ],
+            "height": 13,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0e2"
+            ],
+            "height": 14,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0e3"
+            ],
+            "height": 15,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0e4"
+            ],
+            "height": 16,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0e5"
+            ],
+            "height": 17,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0e6"
+            ],
+            "height": 18,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0e7"
+            ],
+            "height": 19,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0e8"
+            ],
+            "height": 20,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0e9"
+            ],
+            "height": 21,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0ea"
+            ],
+            "height": 22,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0eb"
+            ],
+            "height": 23,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0ec"
+            ],
+            "height": 24,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0ed"
+            ],
+            "height": 25,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0ee"
+            ],
+            "height": 26,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0ef"
+            ],
+            "height": 27,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0f0"
+            ],
+            "height": 28,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0f1"
+            ],
+            "height": 29,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0f2"
+            ],
+            "height": 30,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0f3"
+            ],
+            "height": 31,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0f4"
+            ],
+            "height": 32,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0f5"
+            ],
+            "height": 33,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0f6"
+            ],
+            "height": 34,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0f7"
+            ],
+            "height": 35,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0f8"
+            ],
+            "height": 36,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0f9"
+            ],
+            "height": 37,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0fa"
+            ],
+            "height": 38,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0fb"
+            ],
+            "height": 39,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0fc"
+            ],
+            "height": 40,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0fd"
+            ],
+            "height": 41,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0fe"
+            ],
+            "height": 42,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue0ff"
+            ],
+            "height": 43,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue100"
+            ],
+            "height": 44,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue101"
+            ],
+            "height": 45,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue102"
+            ],
+            "height": 46,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue103"
+            ],
+            "height": 47,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue104"
+            ],
+            "height": 48,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue105"
+            ],
+            "height": 49,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue106"
+            ],
+            "height": 50,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue107"
+            ],
+            "height": 51,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue108"
+            ],
+            "height": 52,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue109"
+            ],
+            "height": 53,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue10a"
+            ],
+            "height": 54,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue10b"
+            ],
+            "height": 55,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue10c"
+            ],
+            "height": 56,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue10d"
+            ],
+            "height": 57,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue10e"
+            ],
+            "height": 58,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue10f"
+            ],
+            "height": 59,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue110"
+            ],
+            "height": 60,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue111"
+            ],
+            "height": 61,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue112"
+            ],
+            "height": 62,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue113"
+            ],
+            "height": 63,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue114"
+            ],
+            "height": 64,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue115"
+            ],
+            "height": 65,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue116"
+            ],
+            "height": 66,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue117"
+            ],
+            "height": 67,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue118"
+            ],
+            "height": 68,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue119"
+            ],
+            "height": 69,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue11a"
+            ],
+            "height": 70,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue11b"
+            ],
+            "height": 71,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue11c"
+            ],
+            "height": 72,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue11d"
+            ],
+            "height": 73,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue11e"
+            ],
+            "height": 74,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue11f"
+            ],
+            "height": 75,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue120"
+            ],
+            "height": 76,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue121"
+            ],
+            "height": 77,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue122"
+            ],
+            "height": 78,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue123"
+            ],
+            "height": 79,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue124"
+            ],
+            "height": 80,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue125"
+            ],
+            "height": 81,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue126"
+            ],
+            "height": 82,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue127"
+            ],
+            "height": 83,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue128"
+            ],
+            "height": 84,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue129"
+            ],
+            "height": 85,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue12a"
+            ],
+            "height": 86,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue12b"
+            ],
+            "height": 87,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue12c"
+            ],
+            "height": 88,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue12d"
+            ],
+            "height": 89,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue12e"
+            ],
+            "height": 90,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue12f"
+            ],
+            "height": 91,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue130"
+            ],
+            "height": 92,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue131"
+            ],
+            "height": 93,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue132"
+            ],
+            "height": 94,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue133"
+            ],
+            "height": 95,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue134"
+            ],
+            "height": 96,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue135"
+            ],
+            "height": 97,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue136"
+            ],
+            "height": 98,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue137"
+            ],
+            "height": 99,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue138"
+            ],
+            "height": 100,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue139"
+            ],
+            "height": 101,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue13a"
+            ],
+            "height": 102,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue13b"
+            ],
+            "height": 103,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue13c"
+            ],
+            "height": 104,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue13d"
+            ],
+            "height": 105,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue13e"
+            ],
+            "height": 106,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue13f"
+            ],
+            "height": 107,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue140"
+            ],
+            "height": 108,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue141"
+            ],
+            "height": 109,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue142"
+            ],
+            "height": 110,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue143"
+            ],
+            "height": 111,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue144"
+            ],
+            "height": 112,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue145"
+            ],
+            "height": 113,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue146"
+            ],
+            "height": 114,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue147"
+            ],
+            "height": 115,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue148"
+            ],
+            "height": 116,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue149"
+            ],
+            "height": 117,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue14a"
+            ],
+            "height": 118,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue14b"
+            ],
+            "height": 119,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue14c"
+            ],
+            "height": 120,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue14d"
+            ],
+            "height": 121,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue14e"
+            ],
+            "height": 122,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue14f"
+            ],
+            "height": 123,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue150"
+            ],
+            "height": 124,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue151"
+            ],
+            "height": 125,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue152"
+            ],
+            "height": 126,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue153"
+            ],
+            "height": 127,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue154"
+            ],
+            "height": 128,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue155"
+            ],
+            "height": 129,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue156"
+            ],
+            "height": 130,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue157"
+            ],
+            "height": 131,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue158"
+            ],
+            "height": 132,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue159"
+            ],
+            "height": 133,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue15a"
+            ],
+            "height": 134,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue15b"
+            ],
+            "height": 135,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue15c"
+            ],
+            "height": 136,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue15d"
+            ],
+            "height": 137,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue15e"
+            ],
+            "height": 138,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue15f"
+            ],
+            "height": 139,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue160"
+            ],
+            "height": 140,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue161"
+            ],
+            "height": 141,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue162"
+            ],
+            "height": 142,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue163"
+            ],
+            "height": 143,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue164"
+            ],
+            "height": 144,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue165"
+            ],
+            "height": 145,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue166"
+            ],
+            "height": 146,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue167"
+            ],
+            "height": 147,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue168"
+            ],
+            "height": 148,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue169"
+            ],
+            "height": 149,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue16a"
+            ],
+            "height": 150,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue16b"
+            ],
+            "height": 151,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue16c"
+            ],
+            "height": 152,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue16d"
+            ],
+            "height": 153,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue16e"
+            ],
+            "height": 154,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue16f"
+            ],
+            "height": 155,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue170"
+            ],
+            "height": 156,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue171"
+            ],
+            "height": 157,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue172"
+            ],
+            "height": 158,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue173"
+            ],
+            "height": 159,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue174"
+            ],
+            "height": 160,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue175"
+            ],
+            "height": 161,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue176"
+            ],
+            "height": 162,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue177"
+            ],
+            "height": 163,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue178"
+            ],
+            "height": 164,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue179"
+            ],
+            "height": 165,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue17a"
+            ],
+            "height": 166,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue17b"
+            ],
+            "height": 167,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue17c"
+            ],
+            "height": 168,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue17d"
+            ],
+            "height": 169,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue17e"
+            ],
+            "height": 170,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue17f"
+            ],
+            "height": 171,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue180"
+            ],
+            "height": 172,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue181"
+            ],
+            "height": 173,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue182"
+            ],
+            "height": 174,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue183"
+            ],
+            "height": 175,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue184"
+            ],
+            "height": 176,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue185"
+            ],
+            "height": 177,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue186"
+            ],
+            "height": 178,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue187"
+            ],
+            "height": 179,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue188"
+            ],
+            "height": 180,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue189"
+            ],
+            "height": 181,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue18a"
+            ],
+            "height": 182,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue18b"
+            ],
+            "height": 183,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue18c"
+            ],
+            "height": 184,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue18d"
+            ],
+            "height": 185,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue18e"
+            ],
+            "height": 186,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue18f"
+            ],
+            "height": 187,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue190"
+            ],
+            "height": 188,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue191"
+            ],
+            "height": 189,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue192"
+            ],
+            "height": 190,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue193"
+            ],
+            "height": 191,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue194"
+            ],
+            "height": 192,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue195"
+            ],
+            "height": 193,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue196"
+            ],
+            "height": 194,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue197"
+            ],
+            "height": 195,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue198"
+            ],
+            "height": 196,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue199"
+            ],
+            "height": 197,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue19a"
+            ],
+            "height": 198,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue19b"
+            ],
+            "height": 199,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:font/space_split.png",
+            "chars": [
+                "\ue19c"
+            ],
+            "height": 200,
+            "ascent": -32768,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:gui/background/blank.png",
+            "chars": [
+                "\ue19d"
+            ],
+            "height": 222,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "craftui:gui/background/blank_inventory.png",
+            "chars": [
+                "\ue19e"
+            ],
+            "height": 222,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -14,
+            "type": "bitmap",
+            "file": "minecraft:font/ascii.png",
+            "chars": [
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\ue1c3\ue1c4\ue1c5\ue1c6\ue1c7\ue1c8\ue1c9\ue1ca\ue1cb\ue1cc\ue1cd\ue1ce\ue1cf\ue1d0\ue1d1",
+                "\ue1d2\ue1d3\ue1d4\ue1d5\ue1d6\ue1d7\ue1d8\ue1d9\ue1da\ue1db\ue1dc\ue1dd\ue1de\ue1df\ue1e0\ue1e1",
+                "\ue1e2\ue1e3\ue1e4\ue1e5\ue1e6\ue1e7\ue1e8\ue1e9\ue1ea\ue1eb\ue1ec\ue1ed\ue1ee\ue1ef\ue1f0\ue1f1",
+                "\ue1f2\ue1f3\ue1f4\ue1f5\ue1f6\ue1f7\ue1f8\ue1f9\ue1fa\ue1fb\ue1fc\ue1fd\ue1fe\ue1ff\ue200\ue201",
+                "\ue202\ue203\ue204\ue205\ue206\ue207\ue208\ue209\ue20a\ue20b\ue20c\ue20d\ue20e\ue20f\ue210\ue211",
+                "\ue212\ue213\ue214\ue215\ue216\ue217\ue218\ue219\ue21a\ue21b\ue21c\ue21d\ue21e\ue21f\ue220\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue232\ue233\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue242\ue243\ue244\ue245\ue246\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue252\ue253\ue254\ue255\ue256\ue257\ue258\ue259\ue25a\ue25b\ue25c\ue25d\ue25e\ue25f\ue260\ue261",
+                "\ue262\ue263\ue264\ue265\ue266\ue267\ue268\ue269\ue26a\ue26b\ue26c\ue26d\ue26e\ue26f\ue270\ue271",
+                "\ue272\ue273\ue274\ue275\ue276\ue277\ue278\ue279\ue27a\ue27b\ue27c\ue27d\ue27e\ue27f\ue280\ue281",
+                "\ue282\ue283\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue292\ue293\ue294\ue295\ue296\ue297\ue298\ue299\ue29a\ue29b\ue29c\ue29d\ue29e\ue29f\u0000\u0000"
+            ]
+        },
+        {
+            "ascent": -15,
+            "type": "bitmap",
+            "file": "minecraft:font/ascii.png",
+            "chars": [
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\ue2c3\ue2c4\ue2c5\ue2c6\ue2c7\ue2c8\ue2c9\ue2ca\ue2cb\ue2cc\ue2cd\ue2ce\ue2cf\ue2d0\ue2d1",
+                "\ue2d2\ue2d3\ue2d4\ue2d5\ue2d6\ue2d7\ue2d8\ue2d9\ue2da\ue2db\ue2dc\ue2dd\ue2de\ue2df\ue2e0\ue2e1",
+                "\ue2e2\ue2e3\ue2e4\ue2e5\ue2e6\ue2e7\ue2e8\ue2e9\ue2ea\ue2eb\ue2ec\ue2ed\ue2ee\ue2ef\ue2f0\ue2f1",
+                "\ue2f2\ue2f3\ue2f4\ue2f5\ue2f6\ue2f7\ue2f8\ue2f9\ue2fa\ue2fb\ue2fc\ue2fd\ue2fe\ue2ff\ue300\ue301",
+                "\ue302\ue303\ue304\ue305\ue306\ue307\ue308\ue309\ue30a\ue30b\ue30c\ue30d\ue30e\ue30f\ue310\ue311",
+                "\ue312\ue313\ue314\ue315\ue316\ue317\ue318\ue319\ue31a\ue31b\ue31c\ue31d\ue31e\ue31f\ue320\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue332\ue333\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue342\ue343\ue344\ue345\ue346\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue352\ue353\ue354\ue355\ue356\ue357\ue358\ue359\ue35a\ue35b\ue35c\ue35d\ue35e\ue35f\ue360\ue361",
+                "\ue362\ue363\ue364\ue365\ue366\ue367\ue368\ue369\ue36a\ue36b\ue36c\ue36d\ue36e\ue36f\ue370\ue371",
+                "\ue372\ue373\ue374\ue375\ue376\ue377\ue378\ue379\ue37a\ue37b\ue37c\ue37d\ue37e\ue37f\ue380\ue381",
+                "\ue382\ue383\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue392\ue393\ue394\ue395\ue396\ue397\ue398\ue399\ue39a\ue39b\ue39c\ue39d\ue39e\ue39f\u0000\u0000"
+            ]
+        },
+        {
+            "ascent": -32,
+            "type": "bitmap",
+            "file": "minecraft:font/ascii.png",
+            "chars": [
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\ue3c3\ue3c4\ue3c5\ue3c6\ue3c7\ue3c8\ue3c9\ue3ca\ue3cb\ue3cc\ue3cd\ue3ce\ue3cf\ue3d0\ue3d1",
+                "\ue3d2\ue3d3\ue3d4\ue3d5\ue3d6\ue3d7\ue3d8\ue3d9\ue3da\ue3db\ue3dc\ue3dd\ue3de\ue3df\ue3e0\ue3e1",
+                "\ue3e2\ue3e3\ue3e4\ue3e5\ue3e6\ue3e7\ue3e8\ue3e9\ue3ea\ue3eb\ue3ec\ue3ed\ue3ee\ue3ef\ue3f0\ue3f1",
+                "\ue3f2\ue3f3\ue3f4\ue3f5\ue3f6\ue3f7\ue3f8\ue3f9\ue3fa\ue3fb\ue3fc\ue3fd\ue3fe\ue3ff\ue400\ue401",
+                "\ue402\ue403\ue404\ue405\ue406\ue407\ue408\ue409\ue40a\ue40b\ue40c\ue40d\ue40e\ue40f\ue410\ue411",
+                "\ue412\ue413\ue414\ue415\ue416\ue417\ue418\ue419\ue41a\ue41b\ue41c\ue41d\ue41e\ue41f\ue420\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue432\ue433\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue442\ue443\ue444\ue445\ue446\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue452\ue453\ue454\ue455\ue456\ue457\ue458\ue459\ue45a\ue45b\ue45c\ue45d\ue45e\ue45f\ue460\ue461",
+                "\ue462\ue463\ue464\ue465\ue466\ue467\ue468\ue469\ue46a\ue46b\ue46c\ue46d\ue46e\ue46f\ue470\ue471",
+                "\ue472\ue473\ue474\ue475\ue476\ue477\ue478\ue479\ue47a\ue47b\ue47c\ue47d\ue47e\ue47f\ue480\ue481",
+                "\ue482\ue483\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue492\ue493\ue494\ue495\ue496\ue497\ue498\ue499\ue49a\ue49b\ue49c\ue49d\ue49e\ue49f\u0000\u0000"
+            ]
+        },
+        {
+            "ascent": -33,
+            "type": "bitmap",
+            "file": "minecraft:font/ascii.png",
+            "chars": [
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\ue4c3\ue4c4\ue4c5\ue4c6\ue4c7\ue4c8\ue4c9\ue4ca\ue4cb\ue4cc\ue4cd\ue4ce\ue4cf\ue4d0\ue4d1",
+                "\ue4d2\ue4d3\ue4d4\ue4d5\ue4d6\ue4d7\ue4d8\ue4d9\ue4da\ue4db\ue4dc\ue4dd\ue4de\ue4df\ue4e0\ue4e1",
+                "\ue4e2\ue4e3\ue4e4\ue4e5\ue4e6\ue4e7\ue4e8\ue4e9\ue4ea\ue4eb\ue4ec\ue4ed\ue4ee\ue4ef\ue4f0\ue4f1",
+                "\ue4f2\ue4f3\ue4f4\ue4f5\ue4f6\ue4f7\ue4f8\ue4f9\ue4fa\ue4fb\ue4fc\ue4fd\ue4fe\ue4ff\ue500\ue501",
+                "\ue502\ue503\ue504\ue505\ue506\ue507\ue508\ue509\ue50a\ue50b\ue50c\ue50d\ue50e\ue50f\ue510\ue511",
+                "\ue512\ue513\ue514\ue515\ue516\ue517\ue518\ue519\ue51a\ue51b\ue51c\ue51d\ue51e\ue51f\ue520\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue532\ue533\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue542\ue543\ue544\ue545\ue546\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue552\ue553\ue554\ue555\ue556\ue557\ue558\ue559\ue55a\ue55b\ue55c\ue55d\ue55e\ue55f\ue560\ue561",
+                "\ue562\ue563\ue564\ue565\ue566\ue567\ue568\ue569\ue56a\ue56b\ue56c\ue56d\ue56e\ue56f\ue570\ue571",
+                "\ue572\ue573\ue574\ue575\ue576\ue577\ue578\ue579\ue57a\ue57b\ue57c\ue57d\ue57e\ue57f\ue580\ue581",
+                "\ue582\ue583\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue592\ue593\ue594\ue595\ue596\ue597\ue598\ue599\ue59a\ue59b\ue59c\ue59d\ue59e\ue59f\u0000\u0000"
+            ]
+        },
+        {
+            "ascent": -50,
+            "type": "bitmap",
+            "file": "minecraft:font/ascii.png",
+            "chars": [
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\ue5c3\ue5c4\ue5c5\ue5c6\ue5c7\ue5c8\ue5c9\ue5ca\ue5cb\ue5cc\ue5cd\ue5ce\ue5cf\ue5d0\ue5d1",
+                "\ue5d2\ue5d3\ue5d4\ue5d5\ue5d6\ue5d7\ue5d8\ue5d9\ue5da\ue5db\ue5dc\ue5dd\ue5de\ue5df\ue5e0\ue5e1",
+                "\ue5e2\ue5e3\ue5e4\ue5e5\ue5e6\ue5e7\ue5e8\ue5e9\ue5ea\ue5eb\ue5ec\ue5ed\ue5ee\ue5ef\ue5f0\ue5f1",
+                "\ue5f2\ue5f3\ue5f4\ue5f5\ue5f6\ue5f7\ue5f8\ue5f9\ue5fa\ue5fb\ue5fc\ue5fd\ue5fe\ue5ff\ue600\ue601",
+                "\ue602\ue603\ue604\ue605\ue606\ue607\ue608\ue609\ue60a\ue60b\ue60c\ue60d\ue60e\ue60f\ue610\ue611",
+                "\ue612\ue613\ue614\ue615\ue616\ue617\ue618\ue619\ue61a\ue61b\ue61c\ue61d\ue61e\ue61f\ue620\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue632\ue633\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue642\ue643\ue644\ue645\ue646\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue652\ue653\ue654\ue655\ue656\ue657\ue658\ue659\ue65a\ue65b\ue65c\ue65d\ue65e\ue65f\ue660\ue661",
+                "\ue662\ue663\ue664\ue665\ue666\ue667\ue668\ue669\ue66a\ue66b\ue66c\ue66d\ue66e\ue66f\ue670\ue671",
+                "\ue672\ue673\ue674\ue675\ue676\ue677\ue678\ue679\ue67a\ue67b\ue67c\ue67d\ue67e\ue67f\ue680\ue681",
+                "\ue682\ue683\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue692\ue693\ue694\ue695\ue696\ue697\ue698\ue699\ue69a\ue69b\ue69c\ue69d\ue69e\ue69f\u0000\u0000"
+            ]
+        },
+        {
+            "ascent": -51,
+            "type": "bitmap",
+            "file": "minecraft:font/ascii.png",
+            "chars": [
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\ue6c3\ue6c4\ue6c5\ue6c6\ue6c7\ue6c8\ue6c9\ue6ca\ue6cb\ue6cc\ue6cd\ue6ce\ue6cf\ue6d0\ue6d1",
+                "\ue6d2\ue6d3\ue6d4\ue6d5\ue6d6\ue6d7\ue6d8\ue6d9\ue6da\ue6db\ue6dc\ue6dd\ue6de\ue6df\ue6e0\ue6e1",
+                "\ue6e2\ue6e3\ue6e4\ue6e5\ue6e6\ue6e7\ue6e8\ue6e9\ue6ea\ue6eb\ue6ec\ue6ed\ue6ee\ue6ef\ue6f0\ue6f1",
+                "\ue6f2\ue6f3\ue6f4\ue6f5\ue6f6\ue6f7\ue6f8\ue6f9\ue6fa\ue6fb\ue6fc\ue6fd\ue6fe\ue6ff\ue700\ue701",
+                "\ue702\ue703\ue704\ue705\ue706\ue707\ue708\ue709\ue70a\ue70b\ue70c\ue70d\ue70e\ue70f\ue710\ue711",
+                "\ue712\ue713\ue714\ue715\ue716\ue717\ue718\ue719\ue71a\ue71b\ue71c\ue71d\ue71e\ue71f\ue720\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue732\ue733\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue742\ue743\ue744\ue745\ue746\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue752\ue753\ue754\ue755\ue756\ue757\ue758\ue759\ue75a\ue75b\ue75c\ue75d\ue75e\ue75f\ue760\ue761",
+                "\ue762\ue763\ue764\ue765\ue766\ue767\ue768\ue769\ue76a\ue76b\ue76c\ue76d\ue76e\ue76f\ue770\ue771",
+                "\ue772\ue773\ue774\ue775\ue776\ue777\ue778\ue779\ue77a\ue77b\ue77c\ue77d\ue77e\ue77f\ue780\ue781",
+                "\ue782\ue783\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue792\ue793\ue794\ue795\ue796\ue797\ue798\ue799\ue79a\ue79b\ue79c\ue79d\ue79e\ue79f\u0000\u0000"
+            ]
+        },
+        {
+            "ascent": -68,
+            "type": "bitmap",
+            "file": "minecraft:font/ascii.png",
+            "chars": [
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\ue7c3\ue7c4\ue7c5\ue7c6\ue7c7\ue7c8\ue7c9\ue7ca\ue7cb\ue7cc\ue7cd\ue7ce\ue7cf\ue7d0\ue7d1",
+                "\ue7d2\ue7d3\ue7d4\ue7d5\ue7d6\ue7d7\ue7d8\ue7d9\ue7da\ue7db\ue7dc\ue7dd\ue7de\ue7df\ue7e0\ue7e1",
+                "\ue7e2\ue7e3\ue7e4\ue7e5\ue7e6\ue7e7\ue7e8\ue7e9\ue7ea\ue7eb\ue7ec\ue7ed\ue7ee\ue7ef\ue7f0\ue7f1",
+                "\ue7f2\ue7f3\ue7f4\ue7f5\ue7f6\ue7f7\ue7f8\ue7f9\ue7fa\ue7fb\ue7fc\ue7fd\ue7fe\ue7ff\ue800\ue801",
+                "\ue802\ue803\ue804\ue805\ue806\ue807\ue808\ue809\ue80a\ue80b\ue80c\ue80d\ue80e\ue80f\ue810\ue811",
+                "\ue812\ue813\ue814\ue815\ue816\ue817\ue818\ue819\ue81a\ue81b\ue81c\ue81d\ue81e\ue81f\ue820\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue832\ue833\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue842\ue843\ue844\ue845\ue846\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue852\ue853\ue854\ue855\ue856\ue857\ue858\ue859\ue85a\ue85b\ue85c\ue85d\ue85e\ue85f\ue860\ue861",
+                "\ue862\ue863\ue864\ue865\ue866\ue867\ue868\ue869\ue86a\ue86b\ue86c\ue86d\ue86e\ue86f\ue870\ue871",
+                "\ue872\ue873\ue874\ue875\ue876\ue877\ue878\ue879\ue87a\ue87b\ue87c\ue87d\ue87e\ue87f\ue880\ue881",
+                "\ue882\ue883\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue892\ue893\ue894\ue895\ue896\ue897\ue898\ue899\ue89a\ue89b\ue89c\ue89d\ue89e\ue89f\u0000\u0000"
+            ]
+        },
+        {
+            "ascent": -69,
+            "type": "bitmap",
+            "file": "minecraft:font/ascii.png",
+            "chars": [
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\ue8c3\ue8c4\ue8c5\ue8c6\ue8c7\ue8c8\ue8c9\ue8ca\ue8cb\ue8cc\ue8cd\ue8ce\ue8cf\ue8d0\ue8d1",
+                "\ue8d2\ue8d3\ue8d4\ue8d5\ue8d6\ue8d7\ue8d8\ue8d9\ue8da\ue8db\ue8dc\ue8dd\ue8de\ue8df\ue8e0\ue8e1",
+                "\ue8e2\ue8e3\ue8e4\ue8e5\ue8e6\ue8e7\ue8e8\ue8e9\ue8ea\ue8eb\ue8ec\ue8ed\ue8ee\ue8ef\ue8f0\ue8f1",
+                "\ue8f2\ue8f3\ue8f4\ue8f5\ue8f6\ue8f7\ue8f8\ue8f9\ue8fa\ue8fb\ue8fc\ue8fd\ue8fe\ue8ff\ue900\ue901",
+                "\ue902\ue903\ue904\ue905\ue906\ue907\ue908\ue909\ue90a\ue90b\ue90c\ue90d\ue90e\ue90f\ue910\ue911",
+                "\ue912\ue913\ue914\ue915\ue916\ue917\ue918\ue919\ue91a\ue91b\ue91c\ue91d\ue91e\ue91f\ue920\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue932\ue933\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue942\ue943\ue944\ue945\ue946\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue952\ue953\ue954\ue955\ue956\ue957\ue958\ue959\ue95a\ue95b\ue95c\ue95d\ue95e\ue95f\ue960\ue961",
+                "\ue962\ue963\ue964\ue965\ue966\ue967\ue968\ue969\ue96a\ue96b\ue96c\ue96d\ue96e\ue96f\ue970\ue971",
+                "\ue972\ue973\ue974\ue975\ue976\ue977\ue978\ue979\ue97a\ue97b\ue97c\ue97d\ue97e\ue97f\ue980\ue981",
+                "\ue982\ue983\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ue992\ue993\ue994\ue995\ue996\ue997\ue998\ue999\ue99a\ue99b\ue99c\ue99d\ue99e\ue99f\u0000\u0000"
+            ]
+        },
+        {
+            "ascent": -86,
+            "type": "bitmap",
+            "file": "minecraft:font/ascii.png",
+            "chars": [
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\ue9c3\ue9c4\ue9c5\ue9c6\ue9c7\ue9c8\ue9c9\ue9ca\ue9cb\ue9cc\ue9cd\ue9ce\ue9cf\ue9d0\ue9d1",
+                "\ue9d2\ue9d3\ue9d4\ue9d5\ue9d6\ue9d7\ue9d8\ue9d9\ue9da\ue9db\ue9dc\ue9dd\ue9de\ue9df\ue9e0\ue9e1",
+                "\ue9e2\ue9e3\ue9e4\ue9e5\ue9e6\ue9e7\ue9e8\ue9e9\ue9ea\ue9eb\ue9ec\ue9ed\ue9ee\ue9ef\ue9f0\ue9f1",
+                "\ue9f2\ue9f3\ue9f4\ue9f5\ue9f6\ue9f7\ue9f8\ue9f9\ue9fa\ue9fb\ue9fc\ue9fd\ue9fe\ue9ff\uea00\uea01",
+                "\uea02\uea03\uea04\uea05\uea06\uea07\uea08\uea09\uea0a\uea0b\uea0c\uea0d\uea0e\uea0f\uea10\uea11",
+                "\uea12\uea13\uea14\uea15\uea16\uea17\uea18\uea19\uea1a\uea1b\uea1c\uea1d\uea1e\uea1f\uea20\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\uea32\uea33\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\uea42\uea43\uea44\uea45\uea46\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\uea52\uea53\uea54\uea55\uea56\uea57\uea58\uea59\uea5a\uea5b\uea5c\uea5d\uea5e\uea5f\uea60\uea61",
+                "\uea62\uea63\uea64\uea65\uea66\uea67\uea68\uea69\uea6a\uea6b\uea6c\uea6d\uea6e\uea6f\uea70\uea71",
+                "\uea72\uea73\uea74\uea75\uea76\uea77\uea78\uea79\uea7a\uea7b\uea7c\uea7d\uea7e\uea7f\uea80\uea81",
+                "\uea82\uea83\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\uea92\uea93\uea94\uea95\uea96\uea97\uea98\uea99\uea9a\uea9b\uea9c\uea9d\uea9e\uea9f\u0000\u0000"
+            ]
+        },
+        {
+            "ascent": -87,
+            "type": "bitmap",
+            "file": "minecraft:font/ascii.png",
+            "chars": [
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\ueac3\ueac4\ueac5\ueac6\ueac7\ueac8\ueac9\ueaca\ueacb\ueacc\ueacd\ueace\ueacf\uead0\uead1",
+                "\uead2\uead3\uead4\uead5\uead6\uead7\uead8\uead9\ueada\ueadb\ueadc\ueadd\ueade\ueadf\ueae0\ueae1",
+                "\ueae2\ueae3\ueae4\ueae5\ueae6\ueae7\ueae8\ueae9\ueaea\ueaeb\ueaec\ueaed\ueaee\ueaef\ueaf0\ueaf1",
+                "\ueaf2\ueaf3\ueaf4\ueaf5\ueaf6\ueaf7\ueaf8\ueaf9\ueafa\ueafb\ueafc\ueafd\ueafe\ueaff\ueb00\ueb01",
+                "\ueb02\ueb03\ueb04\ueb05\ueb06\ueb07\ueb08\ueb09\ueb0a\ueb0b\ueb0c\ueb0d\ueb0e\ueb0f\ueb10\ueb11",
+                "\ueb12\ueb13\ueb14\ueb15\ueb16\ueb17\ueb18\ueb19\ueb1a\ueb1b\ueb1c\ueb1d\ueb1e\ueb1f\ueb20\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ueb32\ueb33\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ueb42\ueb43\ueb44\ueb45\ueb46\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ueb52\ueb53\ueb54\ueb55\ueb56\ueb57\ueb58\ueb59\ueb5a\ueb5b\ueb5c\ueb5d\ueb5e\ueb5f\ueb60\ueb61",
+                "\ueb62\ueb63\ueb64\ueb65\ueb66\ueb67\ueb68\ueb69\ueb6a\ueb6b\ueb6c\ueb6d\ueb6e\ueb6f\ueb70\ueb71",
+                "\ueb72\ueb73\ueb74\ueb75\ueb76\ueb77\ueb78\ueb79\ueb7a\ueb7b\ueb7c\ueb7d\ueb7e\ueb7f\ueb80\ueb81",
+                "\ueb82\ueb83\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ueb92\ueb93\ueb94\ueb95\ueb96\ueb97\ueb98\ueb99\ueb9a\ueb9b\ueb9c\ueb9d\ueb9e\ueb9f\u0000\u0000"
+            ]
+        },
+        {
+            "ascent": -104,
+            "type": "bitmap",
+            "file": "minecraft:font/ascii.png",
+            "chars": [
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\uebc3\uebc4\uebc5\uebc6\uebc7\uebc8\uebc9\uebca\uebcb\uebcc\uebcd\uebce\uebcf\uebd0\uebd1",
+                "\uebd2\uebd3\uebd4\uebd5\uebd6\uebd7\uebd8\uebd9\uebda\uebdb\uebdc\uebdd\uebde\uebdf\uebe0\uebe1",
+                "\uebe2\uebe3\uebe4\uebe5\uebe6\uebe7\uebe8\uebe9\uebea\uebeb\uebec\uebed\uebee\uebef\uebf0\uebf1",
+                "\uebf2\uebf3\uebf4\uebf5\uebf6\uebf7\uebf8\uebf9\uebfa\uebfb\uebfc\uebfd\uebfe\uebff\uec00\uec01",
+                "\uec02\uec03\uec04\uec05\uec06\uec07\uec08\uec09\uec0a\uec0b\uec0c\uec0d\uec0e\uec0f\uec10\uec11",
+                "\uec12\uec13\uec14\uec15\uec16\uec17\uec18\uec19\uec1a\uec1b\uec1c\uec1d\uec1e\uec1f\uec20\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\uec32\uec33\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\uec42\uec43\uec44\uec45\uec46\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\uec52\uec53\uec54\uec55\uec56\uec57\uec58\uec59\uec5a\uec5b\uec5c\uec5d\uec5e\uec5f\uec60\uec61",
+                "\uec62\uec63\uec64\uec65\uec66\uec67\uec68\uec69\uec6a\uec6b\uec6c\uec6d\uec6e\uec6f\uec70\uec71",
+                "\uec72\uec73\uec74\uec75\uec76\uec77\uec78\uec79\uec7a\uec7b\uec7c\uec7d\uec7e\uec7f\uec80\uec81",
+                "\uec82\uec83\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\uec92\uec93\uec94\uec95\uec96\uec97\uec98\uec99\uec9a\uec9b\uec9c\uec9d\uec9e\uec9f\u0000\u0000"
+            ]
+        },
+        {
+            "ascent": -105,
+            "type": "bitmap",
+            "file": "minecraft:font/ascii.png",
+            "chars": [
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\uecc3\uecc4\uecc5\uecc6\uecc7\uecc8\uecc9\uecca\ueccb\ueccc\ueccd\uecce\ueccf\uecd0\uecd1",
+                "\uecd2\uecd3\uecd4\uecd5\uecd6\uecd7\uecd8\uecd9\uecda\uecdb\uecdc\uecdd\uecde\uecdf\uece0\uece1",
+                "\uece2\uece3\uece4\uece5\uece6\uece7\uece8\uece9\uecea\ueceb\uecec\ueced\uecee\uecef\uecf0\uecf1",
+                "\uecf2\uecf3\uecf4\uecf5\uecf6\uecf7\uecf8\uecf9\uecfa\uecfb\uecfc\uecfd\uecfe\uecff\ued00\ued01",
+                "\ued02\ued03\ued04\ued05\ued06\ued07\ued08\ued09\ued0a\ued0b\ued0c\ued0d\ued0e\ued0f\ued10\ued11",
+                "\ued12\ued13\ued14\ued15\ued16\ued17\ued18\ued19\ued1a\ued1b\ued1c\ued1d\ued1e\ued1f\ued20\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ued32\ued33\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ued42\ued43\ued44\ued45\ued46\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ued52\ued53\ued54\ued55\ued56\ued57\ued58\ued59\ued5a\ued5b\ued5c\ued5d\ued5e\ued5f\ued60\ued61",
+                "\ued62\ued63\ued64\ued65\ued66\ued67\ued68\ued69\ued6a\ued6b\ued6c\ued6d\ued6e\ued6f\ued70\ued71",
+                "\ued72\ued73\ued74\ued75\ued76\ued77\ued78\ued79\ued7a\ued7b\ued7c\ued7d\ued7e\ued7f\ued80\ued81",
+                "\ued82\ued83\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\ued92\ued93\ued94\ued95\ued96\ued97\ued98\ued99\ued9a\ued9b\ued9c\ued9d\ued9e\ued9f\u0000\u0000"
+            ]
+        }
+    ]
+}
