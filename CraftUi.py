@@ -2,6 +2,7 @@ import json
 import yaml
 import shutil
 import os
+import minecraft_render
 
 global currentChar
 
@@ -27,7 +28,7 @@ default = {
     ]
 }
 
-item_font = {
+items = {
     "providers": [
 
     ]
@@ -156,7 +157,7 @@ def appendMinecraftTextures(folder_path):
     
     for filename in os.listdir(folder_path):
         if os.path.splitext(filename)[1].lower() in image_extensions:
-            appendCharacter(filename, 16, 13, f"minecraft:item/{filename}", font=item_font)
+            appendCharacter(filename, 16, 13, f"minecraft:item/{filename}", font=items)
 
 appendCharacterAscentImgRange("slot/blank", 18, -14, 6, f"{id}:gui/slot/blank.png")
 appendCharacterAscentImgRange("slot/grid", 18, -14, 6, f"{id}:gui/slot/grid.png")
@@ -174,12 +175,16 @@ appendCharacter("gui/blank_inventory", 222, 13, f"{id}:gui/background/blank_inve
 
 appendMinecraftTextures("C:/Users/nicks/Documents/Minecraft-projects/Minecraft Resources/1.20.4/assets/minecraft/textures/item")
 
+
+
+
+
 for i in range(0, 6):
     appendAplha(f"slot/{i}", -14 -(18 * i))
     appendAplha(f"shadow/{i}", -15 -(18 * i))
 
 with open("pack/assets/craftui/font/items.json", "w") as file:
-    json.dump(item_font, file, skipkeys=True, indent=4)
+    json.dump(items, file, skipkeys=True, indent=4)
 
 with open("pack/assets/minecraft/font/default.json", "w") as file:
     json.dump(default, file, skipkeys=True, indent=4)
