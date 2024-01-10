@@ -1,6 +1,7 @@
 import json
 import yaml
 import shutil
+import os
 
 global currentChar
 
@@ -20,7 +21,13 @@ character = {
 }
 
 
-dataList = {
+default = {
+    "providers": [
+
+    ]
+}
+
+item_font = {
     "providers": [
 
     ]
@@ -60,7 +67,7 @@ def getLastChar():
     global currentChar
     return chr(currentChar - 1)
 
-def appendCharacter(name, height, ascent, file):
+def appendCharacter(name, height, ascent, file, font=default):
     ch = getCurrentChar()
 
     if name in legend:
@@ -73,7 +80,7 @@ def appendCharacter(name, height, ascent, file):
     data["height"] = height
     data["ascent"] = ascent
     data["file"] = file
-    dataList["providers"].append(data)
+    font["providers"].append(data)
 
     legendData["chars"].append(ch)
     legend[name] = legendData
@@ -139,9 +146,17 @@ def appendAplha(name, ascent):
 
     alphaCopy["chars"], legendData = getCharList()
 
-    dataList["providers"].append(alphaCopy)
+    default["providers"].append(alphaCopy)
     legend[name] = legendData
 
+
+#Loop Though All Minecraft image textures and add them to the atlas
+def appendMinecraftTextures(folder_path):
+    image_extensions = ['.jpg', '.jpeg', '.png', '.gif', '.bmp']
+    
+    for filename in os.listdir(folder_path):
+        if os.path.splitext(filename)[1].lower() in image_extensions:
+            appendCharacter(filename, 16, 13, f"minecraft:item/{filename}", font=item_font)
 
 appendCharacterAscentImgRange("slot/blank", 18, -14, 6, f"{id}:gui/slot/blank.png")
 appendCharacterAscentImgRange("slot/grid", 18, -14, 6, f"{id}:gui/slot/grid.png")
@@ -157,24 +172,28 @@ appendCharacterHeightRange("space/positive", 1, -32768, 200, f"{id}:font/space_s
 appendCharacter("gui/blank", 222, 13, f"{id}:gui/background/blank.png")
 appendCharacter("gui/blank_inventory", 222, 13, f"{id}:gui/background/blank_inventory.png")
 
-
+appendMinecraftTextures("C:/Users/nicks/Documents/Minecraft-projects/Minecraft Resources/1.20.4/assets/minecraft/textures/item")
 
 for i in range(0, 6):
     appendAplha(f"slot/{i}", -14 -(18 * i))
     appendAplha(f"shadow/{i}", -15 -(18 * i))
 
-
+with open("pack/assets/craftui/font/items.json", "w") as file:
+    json.dump(item_font, file, skipkeys=True, indent=4)
 
 with open("pack/assets/minecraft/font/default.json", "w") as file:
-    json.dump(dataList, file, skipkeys=True, indent=4)
+    json.dump(default, file, skipkeys=True, indent=4)
 
 shutil.make_archive("C:/Users/nicks/AppData/Roaming/com.modrinth.theseus/profiles/Plugin Testing/resourcepacks/CraftUi", 'zip', "pack")
 
 with open("default.json", "w") as file:
-    json.dump(dataList, file, indent=4)
+    json.dump(default, file, indent=4)
 
 with open("atlas.yml", "w") as file:
     yaml.dump(legend, file, default_flow_style=False)
     
 with open("C:/Users/nicks/Documents/Minecraft-projects/CraftUI/CraftUi/src/main/resources/assets/atlas.yml", "w") as file:
     yaml.dump(legend, file, default_flow_style=True)
+
+
+print(f"Done: {currentChar} characters")

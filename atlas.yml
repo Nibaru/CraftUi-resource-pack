@@ -1,2001 +1,3561 @@
+acacia_boat.png:
+  chars:
+  - "\uE19F"
+acacia_chest_boat.png:
+  chars:
+  - "\uE1A0"
+acacia_door.png:
+  chars:
+  - "\uE1A1"
+acacia_hanging_sign.png:
+  chars:
+  - "\uE1A2"
+acacia_sign.png:
+  chars:
+  - "\uE1A3"
+amethyst_shard.png:
+  chars:
+  - "\uE1A4"
+angler_pottery_sherd.png:
+  chars:
+  - "\uE1A5"
+apple.png:
+  chars:
+  - "\uE1A6"
+archer_pottery_sherd.png:
+  chars:
+  - "\uE1A7"
+armor_stand.png:
+  chars:
+  - "\uE1A8"
+arms_up_pottery_sherd.png:
+  chars:
+  - "\uE1A9"
+arrow.png:
+  chars:
+  - "\uE1AA"
+axolotl_bucket.png:
+  chars:
+  - "\uE1AB"
+baked_potato.png:
+  chars:
+  - "\uE1AC"
+bamboo.png:
+  chars:
+  - "\uE1AD"
+bamboo_chest_raft.png:
+  chars:
+  - "\uE1AE"
+bamboo_door.png:
+  chars:
+  - "\uE1AF"
+bamboo_hanging_sign.png:
+  chars:
+  - "\uE1B0"
+bamboo_raft.png:
+  chars:
+  - "\uE1B1"
+bamboo_sign.png:
+  chars:
+  - "\uE1B2"
+barrier.png:
+  chars:
+  - "\uE1B3"
+beef.png:
+  chars:
+  - "\uE1B4"
+beetroot.png:
+  chars:
+  - "\uE1B5"
+beetroot_seeds.png:
+  chars:
+  - "\uE1B6"
+beetroot_soup.png:
+  chars:
+  - "\uE1B7"
+bell.png:
+  chars:
+  - "\uE1B8"
+birch_boat.png:
+  chars:
+  - "\uE1B9"
+birch_chest_boat.png:
+  chars:
+  - "\uE1BA"
+birch_door.png:
+  chars:
+  - "\uE1BB"
+birch_hanging_sign.png:
+  chars:
+  - "\uE1BC"
+birch_sign.png:
+  chars:
+  - "\uE1BD"
+black_candle.png:
+  chars:
+  - "\uE1BE"
+black_dye.png:
+  chars:
+  - "\uE1BF"
+blade_pottery_sherd.png:
+  chars:
+  - "\uE1C0"
+blaze_powder.png:
+  chars:
+  - "\uE1C1"
+blaze_rod.png:
+  chars:
+  - "\uE1C2"
+blue_candle.png:
+  chars:
+  - "\uE1C3"
+blue_dye.png:
+  chars:
+  - "\uE1C4"
+bone.png:
+  chars:
+  - "\uE1C5"
+bone_meal.png:
+  chars:
+  - "\uE1C6"
+book.png:
+  chars:
+  - "\uE1C7"
+bow.png:
+  chars:
+  - "\uE1C8"
+bow_pulling_0.png:
+  chars:
+  - "\uE1CA"
+bow_pulling_1.png:
+  chars:
+  - "\uE1CB"
+bow_pulling_2.png:
+  chars:
+  - "\uE1CC"
+bowl.png:
+  chars:
+  - "\uE1C9"
+bread.png:
+  chars:
+  - "\uE1CD"
+brewer_pottery_sherd.png:
+  chars:
+  - "\uE1CE"
+brewing_stand.png:
+  chars:
+  - "\uE1CF"
+brick.png:
+  chars:
+  - "\uE1D0"
+broken_elytra.png:
+  chars:
+  - "\uE1D1"
+brown_candle.png:
+  chars:
+  - "\uE1D2"
+brown_dye.png:
+  chars:
+  - "\uE1D3"
+brush.png:
+  chars:
+  - "\uE1D4"
+bucket.png:
+  chars:
+  - "\uE1D5"
+bundle.png:
+  chars:
+  - "\uE1D6"
+bundle_filled.png:
+  chars:
+  - "\uE1D7"
+burn_pottery_sherd.png:
+  chars:
+  - "\uE1D8"
+cake.png:
+  chars:
+  - "\uE1D9"
+campfire.png:
+  chars:
+  - "\uE1DA"
+candle.png:
+  chars:
+  - "\uE1DB"
+carrot.png:
+  chars:
+  - "\uE1DC"
+carrot_on_a_stick.png:
+  chars:
+  - "\uE1DD"
+cauldron.png:
+  chars:
+  - "\uE1DE"
+chain.png:
+  chars:
+  - "\uE1DF"
+chainmail_boots.png:
+  chars:
+  - "\uE1E0"
+chainmail_chestplate.png:
+  chars:
+  - "\uE1E1"
+chainmail_helmet.png:
+  chars:
+  - "\uE1E2"
+chainmail_leggings.png:
+  chars:
+  - "\uE1E3"
+charcoal.png:
+  chars:
+  - "\uE1E4"
+cherry_boat.png:
+  chars:
+  - "\uE1E5"
+cherry_chest_boat.png:
+  chars:
+  - "\uE1E6"
+cherry_door.png:
+  chars:
+  - "\uE1E7"
+cherry_hanging_sign.png:
+  chars:
+  - "\uE1E8"
+cherry_sign.png:
+  chars:
+  - "\uE1E9"
+chest_minecart.png:
+  chars:
+  - "\uE1EA"
+chicken.png:
+  chars:
+  - "\uE1EB"
+chorus_fruit.png:
+  chars:
+  - "\uE1EC"
+clay_ball.png:
+  chars:
+  - "\uE1ED"
+clock_00.png:
+  chars:
+  - "\uE1EE"
+clock_01.png:
+  chars:
+  - "\uE1EF"
+clock_02.png:
+  chars:
+  - "\uE1F0"
+clock_03.png:
+  chars:
+  - "\uE1F1"
+clock_04.png:
+  chars:
+  - "\uE1F2"
+clock_05.png:
+  chars:
+  - "\uE1F3"
+clock_06.png:
+  chars:
+  - "\uE1F4"
+clock_07.png:
+  chars:
+  - "\uE1F5"
+clock_08.png:
+  chars:
+  - "\uE1F6"
+clock_09.png:
+  chars:
+  - "\uE1F7"
+clock_10.png:
+  chars:
+  - "\uE1F8"
+clock_11.png:
+  chars:
+  - "\uE1F9"
+clock_12.png:
+  chars:
+  - "\uE1FA"
+clock_13.png:
+  chars:
+  - "\uE1FB"
+clock_14.png:
+  chars:
+  - "\uE1FC"
+clock_15.png:
+  chars:
+  - "\uE1FD"
+clock_16.png:
+  chars:
+  - "\uE1FE"
+clock_17.png:
+  chars:
+  - "\uE1FF"
+clock_18.png:
+  chars:
+  - "\uE200"
+clock_19.png:
+  chars:
+  - "\uE201"
+clock_20.png:
+  chars:
+  - "\uE202"
+clock_21.png:
+  chars:
+  - "\uE203"
+clock_22.png:
+  chars:
+  - "\uE204"
+clock_23.png:
+  chars:
+  - "\uE205"
+clock_24.png:
+  chars:
+  - "\uE206"
+clock_25.png:
+  chars:
+  - "\uE207"
+clock_26.png:
+  chars:
+  - "\uE208"
+clock_27.png:
+  chars:
+  - "\uE209"
+clock_28.png:
+  chars:
+  - "\uE20A"
+clock_29.png:
+  chars:
+  - "\uE20B"
+clock_30.png:
+  chars:
+  - "\uE20C"
+clock_31.png:
+  chars:
+  - "\uE20D"
+clock_32.png:
+  chars:
+  - "\uE20E"
+clock_33.png:
+  chars:
+  - "\uE20F"
+clock_34.png:
+  chars:
+  - "\uE210"
+clock_35.png:
+  chars:
+  - "\uE211"
+clock_36.png:
+  chars:
+  - "\uE212"
+clock_37.png:
+  chars:
+  - "\uE213"
+clock_38.png:
+  chars:
+  - "\uE214"
+clock_39.png:
+  chars:
+  - "\uE215"
+clock_40.png:
+  chars:
+  - "\uE216"
+clock_41.png:
+  chars:
+  - "\uE217"
+clock_42.png:
+  chars:
+  - "\uE218"
+clock_43.png:
+  chars:
+  - "\uE219"
+clock_44.png:
+  chars:
+  - "\uE21A"
+clock_45.png:
+  chars:
+  - "\uE21B"
+clock_46.png:
+  chars:
+  - "\uE21C"
+clock_47.png:
+  chars:
+  - "\uE21D"
+clock_48.png:
+  chars:
+  - "\uE21E"
+clock_49.png:
+  chars:
+  - "\uE21F"
+clock_50.png:
+  chars:
+  - "\uE220"
+clock_51.png:
+  chars:
+  - "\uE221"
+clock_52.png:
+  chars:
+  - "\uE222"
+clock_53.png:
+  chars:
+  - "\uE223"
+clock_54.png:
+  chars:
+  - "\uE224"
+clock_55.png:
+  chars:
+  - "\uE225"
+clock_56.png:
+  chars:
+  - "\uE226"
+clock_57.png:
+  chars:
+  - "\uE227"
+clock_58.png:
+  chars:
+  - "\uE228"
+clock_59.png:
+  chars:
+  - "\uE229"
+clock_60.png:
+  chars:
+  - "\uE22A"
+clock_61.png:
+  chars:
+  - "\uE22B"
+clock_62.png:
+  chars:
+  - "\uE22C"
+clock_63.png:
+  chars:
+  - "\uE22D"
+coal.png:
+  chars:
+  - "\uE22E"
+coast_armor_trim_smithing_template.png:
+  chars:
+  - "\uE22F"
+cocoa_beans.png:
+  chars:
+  - "\uE230"
+cod.png:
+  chars:
+  - "\uE231"
+cod_bucket.png:
+  chars:
+  - "\uE232"
+command_block_minecart.png:
+  chars:
+  - "\uE233"
+comparator.png:
+  chars:
+  - "\uE234"
+compass_00.png:
+  chars:
+  - "\uE235"
+compass_01.png:
+  chars:
+  - "\uE236"
+compass_02.png:
+  chars:
+  - "\uE237"
+compass_03.png:
+  chars:
+  - "\uE238"
+compass_04.png:
+  chars:
+  - "\uE239"
+compass_05.png:
+  chars:
+  - "\uE23A"
+compass_06.png:
+  chars:
+  - "\uE23B"
+compass_07.png:
+  chars:
+  - "\uE23C"
+compass_08.png:
+  chars:
+  - "\uE23D"
+compass_09.png:
+  chars:
+  - "\uE23E"
+compass_10.png:
+  chars:
+  - "\uE23F"
+compass_11.png:
+  chars:
+  - "\uE240"
+compass_12.png:
+  chars:
+  - "\uE241"
+compass_13.png:
+  chars:
+  - "\uE242"
+compass_14.png:
+  chars:
+  - "\uE243"
+compass_15.png:
+  chars:
+  - "\uE244"
+compass_16.png:
+  chars:
+  - "\uE245"
+compass_17.png:
+  chars:
+  - "\uE246"
+compass_18.png:
+  chars:
+  - "\uE247"
+compass_19.png:
+  chars:
+  - "\uE248"
+compass_20.png:
+  chars:
+  - "\uE249"
+compass_21.png:
+  chars:
+  - "\uE24A"
+compass_22.png:
+  chars:
+  - "\uE24B"
+compass_23.png:
+  chars:
+  - "\uE24C"
+compass_24.png:
+  chars:
+  - "\uE24D"
+compass_25.png:
+  chars:
+  - "\uE24E"
+compass_26.png:
+  chars:
+  - "\uE24F"
+compass_27.png:
+  chars:
+  - "\uE250"
+compass_28.png:
+  chars:
+  - "\uE251"
+compass_29.png:
+  chars:
+  - "\uE252"
+compass_30.png:
+  chars:
+  - "\uE253"
+compass_31.png:
+  chars:
+  - "\uE254"
+cooked_beef.png:
+  chars:
+  - "\uE255"
+cooked_chicken.png:
+  chars:
+  - "\uE256"
+cooked_cod.png:
+  chars:
+  - "\uE257"
+cooked_mutton.png:
+  chars:
+  - "\uE258"
+cooked_porkchop.png:
+  chars:
+  - "\uE259"
+cooked_rabbit.png:
+  chars:
+  - "\uE25A"
+cooked_salmon.png:
+  chars:
+  - "\uE25B"
+cookie.png:
+  chars:
+  - "\uE25C"
+copper_door.png:
+  chars:
+  - "\uE25D"
+copper_ingot.png:
+  chars:
+  - "\uE25E"
+creeper_banner_pattern.png:
+  chars:
+  - "\uE25F"
+crimson_door.png:
+  chars:
+  - "\uE260"
+crimson_hanging_sign.png:
+  chars:
+  - "\uE261"
+crimson_sign.png:
+  chars:
+  - "\uE262"
+crossbow_arrow.png:
+  chars:
+  - "\uE263"
+crossbow_firework.png:
+  chars:
+  - "\uE264"
+crossbow_pulling_0.png:
+  chars:
+  - "\uE265"
+crossbow_pulling_1.png:
+  chars:
+  - "\uE266"
+crossbow_pulling_2.png:
+  chars:
+  - "\uE267"
+crossbow_standby.png:
+  chars:
+  - "\uE268"
+cyan_candle.png:
+  chars:
+  - "\uE269"
+cyan_dye.png:
+  chars:
+  - "\uE26A"
+danger_pottery_sherd.png:
+  chars:
+  - "\uE26B"
+dark_oak_boat.png:
+  chars:
+  - "\uE26C"
+dark_oak_chest_boat.png:
+  chars:
+  - "\uE26D"
+dark_oak_door.png:
+  chars:
+  - "\uE26E"
+dark_oak_hanging_sign.png:
+  chars:
+  - "\uE26F"
+dark_oak_sign.png:
+  chars:
+  - "\uE270"
+diamond.png:
+  chars:
+  - "\uE271"
+diamond_axe.png:
+  chars:
+  - "\uE272"
+diamond_boots.png:
+  chars:
+  - "\uE273"
+diamond_chestplate.png:
+  chars:
+  - "\uE274"
+diamond_helmet.png:
+  chars:
+  - "\uE275"
+diamond_hoe.png:
+  chars:
+  - "\uE276"
+diamond_horse_armor.png:
+  chars:
+  - "\uE277"
+diamond_leggings.png:
+  chars:
+  - "\uE278"
+diamond_pickaxe.png:
+  chars:
+  - "\uE279"
+diamond_shovel.png:
+  chars:
+  - "\uE27A"
+diamond_sword.png:
+  chars:
+  - "\uE27B"
+disc_fragment_5.png:
+  chars:
+  - "\uE27C"
+dragon_breath.png:
+  chars:
+  - "\uE27D"
+dried_kelp.png:
+  chars:
+  - "\uE27E"
+dune_armor_trim_smithing_template.png:
+  chars:
+  - "\uE27F"
+echo_shard.png:
+  chars:
+  - "\uE280"
+egg.png:
+  chars:
+  - "\uE281"
+elytra.png:
+  chars:
+  - "\uE282"
+emerald.png:
+  chars:
+  - "\uE283"
+empty_armor_slot_boots.png:
+  chars:
+  - "\uE284"
+empty_armor_slot_chestplate.png:
+  chars:
+  - "\uE285"
+empty_armor_slot_helmet.png:
+  chars:
+  - "\uE286"
+empty_armor_slot_leggings.png:
+  chars:
+  - "\uE287"
+empty_armor_slot_shield.png:
+  chars:
+  - "\uE288"
+empty_slot_amethyst_shard.png:
+  chars:
+  - "\uE289"
+empty_slot_axe.png:
+  chars:
+  - "\uE28A"
+empty_slot_diamond.png:
+  chars:
+  - "\uE28B"
+empty_slot_emerald.png:
+  chars:
+  - "\uE28C"
+empty_slot_hoe.png:
+  chars:
+  - "\uE28D"
+empty_slot_ingot.png:
+  chars:
+  - "\uE28E"
+empty_slot_lapis_lazuli.png:
+  chars:
+  - "\uE28F"
+empty_slot_pickaxe.png:
+  chars:
+  - "\uE290"
+empty_slot_quartz.png:
+  chars:
+  - "\uE291"
+empty_slot_redstone_dust.png:
+  chars:
+  - "\uE292"
+empty_slot_shovel.png:
+  chars:
+  - "\uE293"
+empty_slot_smithing_template_armor_trim.png:
+  chars:
+  - "\uE294"
+empty_slot_smithing_template_netherite_upgrade.png:
+  chars:
+  - "\uE295"
+empty_slot_sword.png:
+  chars:
+  - "\uE296"
+enchanted_book.png:
+  chars:
+  - "\uE297"
+end_crystal.png:
+  chars:
+  - "\uE29A"
+ender_eye.png:
+  chars:
+  - "\uE298"
+ender_pearl.png:
+  chars:
+  - "\uE299"
+experience_bottle.png:
+  chars:
+  - "\uE29B"
+explorer_pottery_sherd.png:
+  chars:
+  - "\uE29C"
+exposed_copper_door.png:
+  chars:
+  - "\uE29D"
+eye_armor_trim_smithing_template.png:
+  chars:
+  - "\uE29E"
+feather.png:
+  chars:
+  - "\uE29F"
+fermented_spider_eye.png:
+  chars:
+  - "\uE2A0"
+filled_map.png:
+  chars:
+  - "\uE2A1"
+filled_map_markings.png:
+  chars:
+  - "\uE2A2"
+fire_charge.png:
+  chars:
+  - "\uE2A6"
+firework_rocket.png:
+  chars:
+  - "\uE2A3"
+firework_star.png:
+  chars:
+  - "\uE2A4"
+firework_star_overlay.png:
+  chars:
+  - "\uE2A5"
+fishing_rod.png:
+  chars:
+  - "\uE2A7"
+fishing_rod_cast.png:
+  chars:
+  - "\uE2A8"
+flint.png:
+  chars:
+  - "\uE2A9"
+flint_and_steel.png:
+  chars:
+  - "\uE2AA"
+flower_banner_pattern.png:
+  chars:
+  - "\uE2AB"
+flower_pot.png:
+  chars:
+  - "\uE2AC"
+friend_pottery_sherd.png:
+  chars:
+  - "\uE2AD"
+furnace_minecart.png:
+  chars:
+  - "\uE2AE"
+ghast_tear.png:
+  chars:
+  - "\uE2AF"
+glass_bottle.png:
+  chars:
+  - "\uE2B0"
+glistering_melon_slice.png:
+  chars:
+  - "\uE2B1"
+globe_banner_pattern.png:
+  chars:
+  - "\uE2B2"
+glow_berries.png:
+  chars:
+  - "\uE2B4"
+glow_ink_sac.png:
+  chars:
+  - "\uE2B5"
+glow_item_frame.png:
+  chars:
+  - "\uE2B6"
+glowstone_dust.png:
+  chars:
+  - "\uE2B3"
+goat_horn.png:
+  chars:
+  - "\uE2B7"
+gold_ingot.png:
+  chars:
+  - "\uE2C4"
+gold_nugget.png:
+  chars:
+  - "\uE2C5"
+golden_apple.png:
+  chars:
+  - "\uE2B8"
+golden_axe.png:
+  chars:
+  - "\uE2B9"
+golden_boots.png:
+  chars:
+  - "\uE2BA"
+golden_carrot.png:
+  chars:
+  - "\uE2BB"
+golden_chestplate.png:
+  chars:
+  - "\uE2BC"
+golden_helmet.png:
+  chars:
+  - "\uE2BD"
+golden_hoe.png:
+  chars:
+  - "\uE2BE"
+golden_horse_armor.png:
+  chars:
+  - "\uE2BF"
+golden_leggings.png:
+  chars:
+  - "\uE2C0"
+golden_pickaxe.png:
+  chars:
+  - "\uE2C1"
+golden_shovel.png:
+  chars:
+  - "\uE2C2"
+golden_sword.png:
+  chars:
+  - "\uE2C3"
+gray_candle.png:
+  chars:
+  - "\uE2C6"
+gray_dye.png:
+  chars:
+  - "\uE2C7"
+green_candle.png:
+  chars:
+  - "\uE2C8"
+green_dye.png:
+  chars:
+  - "\uE2C9"
 gui/blank:
   chars:
   - "\uE19D"
 gui/blank_inventory:
   chars:
   - "\uE19E"
+gunpowder.png:
+  chars:
+  - "\uE2CA"
+heart_of_the_sea.png:
+  chars:
+  - "\uE2CC"
+heart_pottery_sherd.png:
+  chars:
+  - "\uE2CD"
+heartbreak_pottery_sherd.png:
+  chars:
+  - "\uE2CB"
+honey_bottle.png:
+  chars:
+  - "\uE2CF"
+honeycomb.png:
+  chars:
+  - "\uE2CE"
+hopper.png:
+  chars:
+  - "\uE2D0"
+hopper_minecart.png:
+  chars:
+  - "\uE2D1"
+host_armor_trim_smithing_template.png:
+  chars:
+  - "\uE2D2"
+howl_pottery_sherd.png:
+  chars:
+  - "\uE2D3"
+ink_sac.png:
+  chars:
+  - "\uE2D4"
+iron_axe.png:
+  chars:
+  - "\uE2D5"
+iron_boots.png:
+  chars:
+  - "\uE2D6"
+iron_chestplate.png:
+  chars:
+  - "\uE2D7"
+iron_door.png:
+  chars:
+  - "\uE2D8"
+iron_helmet.png:
+  chars:
+  - "\uE2D9"
+iron_hoe.png:
+  chars:
+  - "\uE2DA"
+iron_horse_armor.png:
+  chars:
+  - "\uE2DB"
+iron_ingot.png:
+  chars:
+  - "\uE2DC"
+iron_leggings.png:
+  chars:
+  - "\uE2DD"
+iron_nugget.png:
+  chars:
+  - "\uE2DE"
+iron_pickaxe.png:
+  chars:
+  - "\uE2DF"
+iron_shovel.png:
+  chars:
+  - "\uE2E0"
+iron_sword.png:
+  chars:
+  - "\uE2E1"
+item_frame.png:
+  chars:
+  - "\uE2E2"
+jungle_boat.png:
+  chars:
+  - "\uE2E3"
+jungle_chest_boat.png:
+  chars:
+  - "\uE2E4"
+jungle_door.png:
+  chars:
+  - "\uE2E5"
+jungle_hanging_sign.png:
+  chars:
+  - "\uE2E6"
+jungle_sign.png:
+  chars:
+  - "\uE2E7"
+kelp.png:
+  chars:
+  - "\uE2E8"
+knowledge_book.png:
+  chars:
+  - "\uE2E9"
+lantern.png:
+  chars:
+  - "\uE2EA"
+lapis_lazuli.png:
+  chars:
+  - "\uE2EB"
+lava_bucket.png:
+  chars:
+  - "\uE2EC"
+lead.png:
+  chars:
+  - "\uE2ED"
+leather.png:
+  chars:
+  - "\uE2EE"
+leather_boots.png:
+  chars:
+  - "\uE2EF"
+leather_boots_overlay.png:
+  chars:
+  - "\uE2F0"
+leather_chestplate.png:
+  chars:
+  - "\uE2F1"
+leather_chestplate_overlay.png:
+  chars:
+  - "\uE2F2"
+leather_helmet.png:
+  chars:
+  - "\uE2F3"
+leather_helmet_overlay.png:
+  chars:
+  - "\uE2F4"
+leather_horse_armor.png:
+  chars:
+  - "\uE2F5"
+leather_leggings.png:
+  chars:
+  - "\uE2F6"
+leather_leggings_overlay.png:
+  chars:
+  - "\uE2F7"
+light.png:
+  chars:
+  - "\uE2F8"
+light_00.png:
+  chars:
+  - "\uE2F9"
+light_01.png:
+  chars:
+  - "\uE2FA"
+light_02.png:
+  chars:
+  - "\uE2FB"
+light_03.png:
+  chars:
+  - "\uE2FC"
+light_04.png:
+  chars:
+  - "\uE2FD"
+light_05.png:
+  chars:
+  - "\uE2FE"
+light_06.png:
+  chars:
+  - "\uE2FF"
+light_07.png:
+  chars:
+  - "\uE300"
+light_08.png:
+  chars:
+  - "\uE301"
+light_09.png:
+  chars:
+  - "\uE302"
+light_10.png:
+  chars:
+  - "\uE303"
+light_11.png:
+  chars:
+  - "\uE304"
+light_12.png:
+  chars:
+  - "\uE305"
+light_13.png:
+  chars:
+  - "\uE306"
+light_14.png:
+  chars:
+  - "\uE307"
+light_15.png:
+  chars:
+  - "\uE308"
+light_blue_candle.png:
+  chars:
+  - "\uE309"
+light_blue_dye.png:
+  chars:
+  - "\uE30A"
+light_gray_candle.png:
+  chars:
+  - "\uE30B"
+light_gray_dye.png:
+  chars:
+  - "\uE30C"
+lime_candle.png:
+  chars:
+  - "\uE30D"
+lime_dye.png:
+  chars:
+  - "\uE30E"
+lingering_potion.png:
+  chars:
+  - "\uE30F"
+magenta_candle.png:
+  chars:
+  - "\uE310"
+magenta_dye.png:
+  chars:
+  - "\uE311"
+magma_cream.png:
+  chars:
+  - "\uE312"
+mangrove_boat.png:
+  chars:
+  - "\uE313"
+mangrove_chest_boat.png:
+  chars:
+  - "\uE314"
+mangrove_door.png:
+  chars:
+  - "\uE315"
+mangrove_hanging_sign.png:
+  chars:
+  - "\uE316"
+mangrove_propagule.png:
+  chars:
+  - "\uE317"
+mangrove_sign.png:
+  chars:
+  - "\uE318"
+map.png:
+  chars:
+  - "\uE319"
+melon_seeds.png:
+  chars:
+  - "\uE31A"
+melon_slice.png:
+  chars:
+  - "\uE31B"
+milk_bucket.png:
+  chars:
+  - "\uE31C"
+minecart.png:
+  chars:
+  - "\uE31D"
+miner_pottery_sherd.png:
+  chars:
+  - "\uE31E"
+mojang_banner_pattern.png:
+  chars:
+  - "\uE31F"
+mourner_pottery_sherd.png:
+  chars:
+  - "\uE320"
+mushroom_stew.png:
+  chars:
+  - "\uE321"
+music_disc_11.png:
+  chars:
+  - "\uE322"
+music_disc_13.png:
+  chars:
+  - "\uE323"
+music_disc_5.png:
+  chars:
+  - "\uE324"
+music_disc_blocks.png:
+  chars:
+  - "\uE325"
+music_disc_cat.png:
+  chars:
+  - "\uE326"
+music_disc_chirp.png:
+  chars:
+  - "\uE327"
+music_disc_far.png:
+  chars:
+  - "\uE328"
+music_disc_mall.png:
+  chars:
+  - "\uE329"
+music_disc_mellohi.png:
+  chars:
+  - "\uE32A"
+music_disc_otherside.png:
+  chars:
+  - "\uE32B"
+music_disc_pigstep.png:
+  chars:
+  - "\uE32C"
+music_disc_relic.png:
+  chars:
+  - "\uE32D"
+music_disc_stal.png:
+  chars:
+  - "\uE32E"
+music_disc_strad.png:
+  chars:
+  - "\uE32F"
+music_disc_wait.png:
+  chars:
+  - "\uE330"
+music_disc_ward.png:
+  chars:
+  - "\uE331"
+mutton.png:
+  chars:
+  - "\uE332"
+name_tag.png:
+  chars:
+  - "\uE333"
+nautilus_shell.png:
+  chars:
+  - "\uE334"
+nether_brick.png:
+  chars:
+  - "\uE341"
+nether_sprouts.png:
+  chars:
+  - "\uE342"
+nether_star.png:
+  chars:
+  - "\uE343"
+nether_wart.png:
+  chars:
+  - "\uE344"
+netherite_axe.png:
+  chars:
+  - "\uE335"
+netherite_boots.png:
+  chars:
+  - "\uE336"
+netherite_chestplate.png:
+  chars:
+  - "\uE337"
+netherite_helmet.png:
+  chars:
+  - "\uE338"
+netherite_hoe.png:
+  chars:
+  - "\uE339"
+netherite_ingot.png:
+  chars:
+  - "\uE33A"
+netherite_leggings.png:
+  chars:
+  - "\uE33B"
+netherite_pickaxe.png:
+  chars:
+  - "\uE33C"
+netherite_scrap.png:
+  chars:
+  - "\uE33D"
+netherite_shovel.png:
+  chars:
+  - "\uE33E"
+netherite_sword.png:
+  chars:
+  - "\uE33F"
+netherite_upgrade_smithing_template.png:
+  chars:
+  - "\uE340"
+oak_boat.png:
+  chars:
+  - "\uE345"
+oak_chest_boat.png:
+  chars:
+  - "\uE346"
+oak_door.png:
+  chars:
+  - "\uE347"
+oak_hanging_sign.png:
+  chars:
+  - "\uE348"
+oak_sign.png:
+  chars:
+  - "\uE349"
+orange_candle.png:
+  chars:
+  - "\uE34A"
+orange_dye.png:
+  chars:
+  - "\uE34B"
+oxidized_copper_door.png:
+  chars:
+  - "\uE34C"
+painting.png:
+  chars:
+  - "\uE34D"
+paper.png:
+  chars:
+  - "\uE34E"
+phantom_membrane.png:
+  chars:
+  - "\uE34F"
+piglin_banner_pattern.png:
+  chars:
+  - "\uE350"
+pink_candle.png:
+  chars:
+  - "\uE351"
+pink_dye.png:
+  chars:
+  - "\uE352"
+pink_petals.png:
+  chars:
+  - "\uE353"
+pitcher_plant.png:
+  chars:
+  - "\uE354"
+pitcher_pod.png:
+  chars:
+  - "\uE355"
+plenty_pottery_sherd.png:
+  chars:
+  - "\uE356"
+pointed_dripstone.png:
+  chars:
+  - "\uE357"
+poisonous_potato.png:
+  chars:
+  - "\uE358"
+popped_chorus_fruit.png:
+  chars:
+  - "\uE359"
+porkchop.png:
+  chars:
+  - "\uE35A"
+potato.png:
+  chars:
+  - "\uE35B"
+potion.png:
+  chars:
+  - "\uE35C"
+potion_overlay.png:
+  chars:
+  - "\uE35D"
+powder_snow_bucket.png:
+  chars:
+  - "\uE35E"
+prismarine_crystals.png:
+  chars:
+  - "\uE35F"
+prismarine_shard.png:
+  chars:
+  - "\uE360"
+prize_pottery_sherd.png:
+  chars:
+  - "\uE361"
+pufferfish.png:
+  chars:
+  - "\uE362"
+pufferfish_bucket.png:
+  chars:
+  - "\uE363"
+pumpkin_pie.png:
+  chars:
+  - "\uE364"
+pumpkin_seeds.png:
+  chars:
+  - "\uE365"
+purple_candle.png:
+  chars:
+  - "\uE366"
+purple_dye.png:
+  chars:
+  - "\uE367"
+quartz.png:
+  chars:
+  - "\uE368"
+rabbit.png:
+  chars:
+  - "\uE369"
+rabbit_foot.png:
+  chars:
+  - "\uE36A"
+rabbit_hide.png:
+  chars:
+  - "\uE36B"
+rabbit_stew.png:
+  chars:
+  - "\uE36C"
+raiser_armor_trim_smithing_template.png:
+  chars:
+  - "\uE36D"
+raw_copper.png:
+  chars:
+  - "\uE36E"
+raw_gold.png:
+  chars:
+  - "\uE36F"
+raw_iron.png:
+  chars:
+  - "\uE370"
+recovery_compass_00.png:
+  chars:
+  - "\uE371"
+recovery_compass_01.png:
+  chars:
+  - "\uE372"
+recovery_compass_02.png:
+  chars:
+  - "\uE373"
+recovery_compass_03.png:
+  chars:
+  - "\uE374"
+recovery_compass_04.png:
+  chars:
+  - "\uE375"
+recovery_compass_05.png:
+  chars:
+  - "\uE376"
+recovery_compass_06.png:
+  chars:
+  - "\uE377"
+recovery_compass_07.png:
+  chars:
+  - "\uE378"
+recovery_compass_08.png:
+  chars:
+  - "\uE379"
+recovery_compass_09.png:
+  chars:
+  - "\uE37A"
+recovery_compass_10.png:
+  chars:
+  - "\uE37B"
+recovery_compass_11.png:
+  chars:
+  - "\uE37C"
+recovery_compass_12.png:
+  chars:
+  - "\uE37D"
+recovery_compass_13.png:
+  chars:
+  - "\uE37E"
+recovery_compass_14.png:
+  chars:
+  - "\uE37F"
+recovery_compass_15.png:
+  chars:
+  - "\uE380"
+recovery_compass_16.png:
+  chars:
+  - "\uE381"
+recovery_compass_17.png:
+  chars:
+  - "\uE382"
+recovery_compass_18.png:
+  chars:
+  - "\uE383"
+recovery_compass_19.png:
+  chars:
+  - "\uE384"
+recovery_compass_20.png:
+  chars:
+  - "\uE385"
+recovery_compass_21.png:
+  chars:
+  - "\uE386"
+recovery_compass_22.png:
+  chars:
+  - "\uE387"
+recovery_compass_23.png:
+  chars:
+  - "\uE388"
+recovery_compass_24.png:
+  chars:
+  - "\uE389"
+recovery_compass_25.png:
+  chars:
+  - "\uE38A"
+recovery_compass_26.png:
+  chars:
+  - "\uE38B"
+recovery_compass_27.png:
+  chars:
+  - "\uE38C"
+recovery_compass_28.png:
+  chars:
+  - "\uE38D"
+recovery_compass_29.png:
+  chars:
+  - "\uE38E"
+recovery_compass_30.png:
+  chars:
+  - "\uE38F"
+recovery_compass_31.png:
+  chars:
+  - "\uE390"
+red_candle.png:
+  chars:
+  - "\uE392"
+red_dye.png:
+  chars:
+  - "\uE393"
+redstone.png:
+  chars:
+  - "\uE391"
+repeater.png:
+  chars:
+  - "\uE394"
+rib_armor_trim_smithing_template.png:
+  chars:
+  - "\uE395"
+rotten_flesh.png:
+  chars:
+  - "\uE396"
+saddle.png:
+  chars:
+  - "\uE397"
+salmon.png:
+  chars:
+  - "\uE398"
+salmon_bucket.png:
+  chars:
+  - "\uE399"
+scute.png:
+  chars:
+  - "\uE39A"
+sea_pickle.png:
+  chars:
+  - "\uE39C"
+seagrass.png:
+  chars:
+  - "\uE39B"
+sentry_armor_trim_smithing_template.png:
+  chars:
+  - "\uE39D"
 shadow/0:
-  '!': "\uE2C3"
-  '"': "\uE2C4"
-  '#': "\uE2C5"
-  $: "\uE2C6"
-  '%': "\uE2C7"
-  '&': "\uE2C8"
-  '''': "\uE2C9"
-  (: "\uE2CA"
-  ): "\uE2CB"
-  '*': "\uE2CC"
-  +: "\uE2CD"
-  ',': "\uE2CE"
-  '-': "\uE2CF"
-  .: "\uE2D0"
-  /: "\uE2D1"
-  '0': "\uE2D2"
-  '1': "\uE2D3"
-  '2': "\uE2D4"
-  '3': "\uE2D5"
-  '4': "\uE2D6"
-  '5': "\uE2D7"
-  '6': "\uE2D8"
-  '7': "\uE2D9"
-  '8': "\uE2DA"
-  '9': "\uE2DB"
-  ':': "\uE2DC"
-  ;: "\uE2DD"
-  <: "\uE2DE"
-  '=': "\uE2DF"
-  '>': "\uE2E0"
-  '?': "\uE2E1"
-  '@': "\uE2E2"
-  A: "\uE2E3"
-  B: "\uE2E4"
-  C: "\uE2E5"
-  D: "\uE2E6"
-  E: "\uE2E7"
-  F: "\uE2E8"
-  G: "\uE2E9"
-  H: "\uE2EA"
-  I: "\uE2EB"
-  J: "\uE2EC"
-  K: "\uE2ED"
-  L: "\uE2EE"
-  M: "\uE2EF"
-  N: "\uE2F0"
-  O: "\uE2F1"
-  P: "\uE2F2"
-  Q: "\uE2F3"
-  R: "\uE2F4"
-  S: "\uE2F5"
-  T: "\uE2F6"
-  U: "\uE2F7"
-  V: "\uE2F8"
-  W: "\uE2F9"
-  X: "\uE2FA"
-  Y: "\uE2FB"
-  Z: "\uE2FC"
-  '[': "\uE2FD"
-  \: "\uE2FE"
-  ']': "\uE2FF"
-  ^: "\uE300"
-  _: "\uE301"
-  '`': "\uE302"
-  a: "\uE303"
-  b: "\uE304"
-  c: "\uE305"
-  d: "\uE306"
-  e: "\uE307"
-  f: "\uE308"
-  g: "\uE309"
-  h: "\uE30A"
-  i: "\uE30B"
-  j: "\uE30C"
-  k: "\uE30D"
-  l: "\uE30E"
-  m: "\uE30F"
-  n: "\uE310"
-  o: "\uE311"
-  p: "\uE312"
-  q: "\uE313"
-  r: "\uE314"
-  s: "\uE315"
-  t: "\uE316"
-  u: "\uE317"
-  v: "\uE318"
-  w: "\uE319"
-  x: "\uE31A"
-  y: "\uE31B"
-  z: "\uE31C"
-  '{': "\uE31D"
-  '|': "\uE31E"
-  '}': "\uE31F"
-  '~': "\uE320"
-  "\xA3": "\uE332"
-  "\xAA": "\uE342"
-  "\xAB": "\uE345"
-  "\xAC": "\uE344"
-  "\xB0": "\uE39A"
-  "\xB1": "\uE393"
-  "\xB2": "\uE39E"
-  "\xBA": "\uE343"
-  "\xBB": "\uE346"
-  "\xF7": "\uE398"
-  "\u0192": "\uE333"
-  "\u207F": "\uE39D"
-  "\u2205": "\uE382"
-  "\u2208": "\uE383"
-  "\u2219": "\uE39B"
-  "\u221A": "\uE39C"
-  "\u2248": "\uE399"
-  "\u2261": "\uE392"
-  "\u2264": "\uE395"
-  "\u2265": "\uE394"
-  "\u2320": "\uE396"
-  "\u2321": "\uE397"
-  "\u2500": "\uE366"
-  "\u2502": "\uE355"
-  "\u250C": "\uE37C"
-  "\u2510": "\uE361"
-  "\u2514": "\uE362"
-  "\u2518": "\uE37B"
-  "\u251C": "\uE365"
-  "\u2524": "\uE356"
-  "\u252C": "\uE364"
-  "\u2534": "\uE363"
-  "\u253C": "\uE367"
-  "\u2550": "\uE36F"
-  "\u2551": "\uE35C"
-  "\u2552": "\uE377"
-  "\u2553": "\uE378"
-  "\u2554": "\uE36B"
-  "\u2555": "\uE35A"
-  "\u2556": "\uE359"
-  "\u2557": "\uE35D"
-  "\u2558": "\uE376"
-  "\u2559": "\uE375"
-  "\u255A": "\uE36A"
-  "\u255B": "\uE360"
-  "\u255C": "\uE35F"
-  "\u255D": "\uE35E"
-  "\u255E": "\uE368"
-  "\u255F": "\uE369"
-  "\u2560": "\uE36E"
-  "\u2561": "\uE357"
-  "\u2562": "\uE358"
-  "\u2563": "\uE35B"
-  "\u2564": "\uE373"
-  "\u2565": "\uE374"
-  "\u2566": "\uE36D"
-  "\u2567": "\uE371"
-  "\u2568": "\uE372"
-  "\u2569": "\uE36C"
-  "\u256A": "\uE37A"
-  "\u256B": "\uE379"
-  "\u256C": "\uE370"
-  "\u2580": "\uE381"
-  "\u2584": "\uE37E"
-  "\u2588": "\uE37D"
-  "\u258C": "\uE37F"
-  "\u2590": "\uE380"
-  "\u2591": "\uE352"
-  "\u2592": "\uE353"
-  "\u2593": "\uE354"
-  "\u25A0": "\uE39F"
+  '!': "\uE50E"
+  '"': "\uE50F"
+  '#': "\uE510"
+  $: "\uE511"
+  '%': "\uE512"
+  '&': "\uE513"
+  '''': "\uE514"
+  (: "\uE515"
+  ): "\uE516"
+  '*': "\uE517"
+  +: "\uE518"
+  ',': "\uE519"
+  '-': "\uE51A"
+  .: "\uE51B"
+  /: "\uE51C"
+  '0': "\uE51D"
+  '1': "\uE51E"
+  '2': "\uE51F"
+  '3': "\uE520"
+  '4': "\uE521"
+  '5': "\uE522"
+  '6': "\uE523"
+  '7': "\uE524"
+  '8': "\uE525"
+  '9': "\uE526"
+  ':': "\uE527"
+  ;: "\uE528"
+  <: "\uE529"
+  '=': "\uE52A"
+  '>': "\uE52B"
+  '?': "\uE52C"
+  '@': "\uE52D"
+  A: "\uE52E"
+  B: "\uE52F"
+  C: "\uE530"
+  D: "\uE531"
+  E: "\uE532"
+  F: "\uE533"
+  G: "\uE534"
+  H: "\uE535"
+  I: "\uE536"
+  J: "\uE537"
+  K: "\uE538"
+  L: "\uE539"
+  M: "\uE53A"
+  N: "\uE53B"
+  O: "\uE53C"
+  P: "\uE53D"
+  Q: "\uE53E"
+  R: "\uE53F"
+  S: "\uE540"
+  T: "\uE541"
+  U: "\uE542"
+  V: "\uE543"
+  W: "\uE544"
+  X: "\uE545"
+  Y: "\uE546"
+  Z: "\uE547"
+  '[': "\uE548"
+  \: "\uE549"
+  ']': "\uE54A"
+  ^: "\uE54B"
+  _: "\uE54C"
+  '`': "\uE54D"
+  a: "\uE54E"
+  b: "\uE54F"
+  c: "\uE550"
+  d: "\uE551"
+  e: "\uE552"
+  f: "\uE553"
+  g: "\uE554"
+  h: "\uE555"
+  i: "\uE556"
+  j: "\uE557"
+  k: "\uE558"
+  l: "\uE559"
+  m: "\uE55A"
+  n: "\uE55B"
+  o: "\uE55C"
+  p: "\uE55D"
+  q: "\uE55E"
+  r: "\uE55F"
+  s: "\uE560"
+  t: "\uE561"
+  u: "\uE562"
+  v: "\uE563"
+  w: "\uE564"
+  x: "\uE565"
+  y: "\uE566"
+  z: "\uE567"
+  '{': "\uE568"
+  '|': "\uE569"
+  '}': "\uE56A"
+  '~': "\uE56B"
+  "\xA3": "\uE57D"
+  "\xAA": "\uE58D"
+  "\xAB": "\uE590"
+  "\xAC": "\uE58F"
+  "\xB0": "\uE5E5"
+  "\xB1": "\uE5DE"
+  "\xB2": "\uE5E9"
+  "\xBA": "\uE58E"
+  "\xBB": "\uE591"
+  "\xF7": "\uE5E3"
+  "\u0192": "\uE57E"
+  "\u207F": "\uE5E8"
+  "\u2205": "\uE5CD"
+  "\u2208": "\uE5CE"
+  "\u2219": "\uE5E6"
+  "\u221A": "\uE5E7"
+  "\u2248": "\uE5E4"
+  "\u2261": "\uE5DD"
+  "\u2264": "\uE5E0"
+  "\u2265": "\uE5DF"
+  "\u2320": "\uE5E1"
+  "\u2321": "\uE5E2"
+  "\u2500": "\uE5B1"
+  "\u2502": "\uE5A0"
+  "\u250C": "\uE5C7"
+  "\u2510": "\uE5AC"
+  "\u2514": "\uE5AD"
+  "\u2518": "\uE5C6"
+  "\u251C": "\uE5B0"
+  "\u2524": "\uE5A1"
+  "\u252C": "\uE5AF"
+  "\u2534": "\uE5AE"
+  "\u253C": "\uE5B2"
+  "\u2550": "\uE5BA"
+  "\u2551": "\uE5A7"
+  "\u2552": "\uE5C2"
+  "\u2553": "\uE5C3"
+  "\u2554": "\uE5B6"
+  "\u2555": "\uE5A5"
+  "\u2556": "\uE5A4"
+  "\u2557": "\uE5A8"
+  "\u2558": "\uE5C1"
+  "\u2559": "\uE5C0"
+  "\u255A": "\uE5B5"
+  "\u255B": "\uE5AB"
+  "\u255C": "\uE5AA"
+  "\u255D": "\uE5A9"
+  "\u255E": "\uE5B3"
+  "\u255F": "\uE5B4"
+  "\u2560": "\uE5B9"
+  "\u2561": "\uE5A2"
+  "\u2562": "\uE5A3"
+  "\u2563": "\uE5A6"
+  "\u2564": "\uE5BE"
+  "\u2565": "\uE5BF"
+  "\u2566": "\uE5B8"
+  "\u2567": "\uE5BC"
+  "\u2568": "\uE5BD"
+  "\u2569": "\uE5B7"
+  "\u256A": "\uE5C5"
+  "\u256B": "\uE5C4"
+  "\u256C": "\uE5BB"
+  "\u2580": "\uE5CC"
+  "\u2584": "\uE5C9"
+  "\u2588": "\uE5C8"
+  "\u258C": "\uE5CA"
+  "\u2590": "\uE5CB"
+  "\u2591": "\uE59D"
+  "\u2592": "\uE59E"
+  "\u2593": "\uE59F"
+  "\u25A0": "\uE5EA"
 shadow/1:
-  '!': "\uE4C3"
-  '"': "\uE4C4"
-  '#': "\uE4C5"
-  $: "\uE4C6"
-  '%': "\uE4C7"
-  '&': "\uE4C8"
-  '''': "\uE4C9"
-  (: "\uE4CA"
-  ): "\uE4CB"
-  '*': "\uE4CC"
-  +: "\uE4CD"
-  ',': "\uE4CE"
-  '-': "\uE4CF"
-  .: "\uE4D0"
-  /: "\uE4D1"
-  '0': "\uE4D2"
-  '1': "\uE4D3"
-  '2': "\uE4D4"
-  '3': "\uE4D5"
-  '4': "\uE4D6"
-  '5': "\uE4D7"
-  '6': "\uE4D8"
-  '7': "\uE4D9"
-  '8': "\uE4DA"
-  '9': "\uE4DB"
-  ':': "\uE4DC"
-  ;: "\uE4DD"
-  <: "\uE4DE"
-  '=': "\uE4DF"
-  '>': "\uE4E0"
-  '?': "\uE4E1"
-  '@': "\uE4E2"
-  A: "\uE4E3"
-  B: "\uE4E4"
-  C: "\uE4E5"
-  D: "\uE4E6"
-  E: "\uE4E7"
-  F: "\uE4E8"
-  G: "\uE4E9"
-  H: "\uE4EA"
-  I: "\uE4EB"
-  J: "\uE4EC"
-  K: "\uE4ED"
-  L: "\uE4EE"
-  M: "\uE4EF"
-  N: "\uE4F0"
-  O: "\uE4F1"
-  P: "\uE4F2"
-  Q: "\uE4F3"
-  R: "\uE4F4"
-  S: "\uE4F5"
-  T: "\uE4F6"
-  U: "\uE4F7"
-  V: "\uE4F8"
-  W: "\uE4F9"
-  X: "\uE4FA"
-  Y: "\uE4FB"
-  Z: "\uE4FC"
-  '[': "\uE4FD"
-  \: "\uE4FE"
-  ']': "\uE4FF"
-  ^: "\uE500"
-  _: "\uE501"
-  '`': "\uE502"
-  a: "\uE503"
-  b: "\uE504"
-  c: "\uE505"
-  d: "\uE506"
-  e: "\uE507"
-  f: "\uE508"
-  g: "\uE509"
-  h: "\uE50A"
-  i: "\uE50B"
-  j: "\uE50C"
-  k: "\uE50D"
-  l: "\uE50E"
-  m: "\uE50F"
-  n: "\uE510"
-  o: "\uE511"
-  p: "\uE512"
-  q: "\uE513"
-  r: "\uE514"
-  s: "\uE515"
-  t: "\uE516"
-  u: "\uE517"
-  v: "\uE518"
-  w: "\uE519"
-  x: "\uE51A"
-  y: "\uE51B"
-  z: "\uE51C"
-  '{': "\uE51D"
-  '|': "\uE51E"
-  '}': "\uE51F"
-  '~': "\uE520"
-  "\xA3": "\uE532"
-  "\xAA": "\uE542"
-  "\xAB": "\uE545"
-  "\xAC": "\uE544"
-  "\xB0": "\uE59A"
-  "\xB1": "\uE593"
-  "\xB2": "\uE59E"
-  "\xBA": "\uE543"
-  "\xBB": "\uE546"
-  "\xF7": "\uE598"
-  "\u0192": "\uE533"
-  "\u207F": "\uE59D"
-  "\u2205": "\uE582"
-  "\u2208": "\uE583"
-  "\u2219": "\uE59B"
-  "\u221A": "\uE59C"
-  "\u2248": "\uE599"
-  "\u2261": "\uE592"
-  "\u2264": "\uE595"
-  "\u2265": "\uE594"
-  "\u2320": "\uE596"
-  "\u2321": "\uE597"
-  "\u2500": "\uE566"
-  "\u2502": "\uE555"
-  "\u250C": "\uE57C"
-  "\u2510": "\uE561"
-  "\u2514": "\uE562"
-  "\u2518": "\uE57B"
-  "\u251C": "\uE565"
-  "\u2524": "\uE556"
-  "\u252C": "\uE564"
-  "\u2534": "\uE563"
-  "\u253C": "\uE567"
-  "\u2550": "\uE56F"
-  "\u2551": "\uE55C"
-  "\u2552": "\uE577"
-  "\u2553": "\uE578"
-  "\u2554": "\uE56B"
-  "\u2555": "\uE55A"
-  "\u2556": "\uE559"
-  "\u2557": "\uE55D"
-  "\u2558": "\uE576"
-  "\u2559": "\uE575"
-  "\u255A": "\uE56A"
-  "\u255B": "\uE560"
-  "\u255C": "\uE55F"
-  "\u255D": "\uE55E"
-  "\u255E": "\uE568"
-  "\u255F": "\uE569"
-  "\u2560": "\uE56E"
-  "\u2561": "\uE557"
-  "\u2562": "\uE558"
-  "\u2563": "\uE55B"
-  "\u2564": "\uE573"
-  "\u2565": "\uE574"
-  "\u2566": "\uE56D"
-  "\u2567": "\uE571"
-  "\u2568": "\uE572"
-  "\u2569": "\uE56C"
-  "\u256A": "\uE57A"
-  "\u256B": "\uE579"
-  "\u256C": "\uE570"
-  "\u2580": "\uE581"
-  "\u2584": "\uE57E"
-  "\u2588": "\uE57D"
-  "\u258C": "\uE57F"
-  "\u2590": "\uE580"
-  "\u2591": "\uE552"
-  "\u2592": "\uE553"
-  "\u2593": "\uE554"
-  "\u25A0": "\uE59F"
+  '!': "\uE70E"
+  '"': "\uE70F"
+  '#': "\uE710"
+  $: "\uE711"
+  '%': "\uE712"
+  '&': "\uE713"
+  '''': "\uE714"
+  (: "\uE715"
+  ): "\uE716"
+  '*': "\uE717"
+  +: "\uE718"
+  ',': "\uE719"
+  '-': "\uE71A"
+  .: "\uE71B"
+  /: "\uE71C"
+  '0': "\uE71D"
+  '1': "\uE71E"
+  '2': "\uE71F"
+  '3': "\uE720"
+  '4': "\uE721"
+  '5': "\uE722"
+  '6': "\uE723"
+  '7': "\uE724"
+  '8': "\uE725"
+  '9': "\uE726"
+  ':': "\uE727"
+  ;: "\uE728"
+  <: "\uE729"
+  '=': "\uE72A"
+  '>': "\uE72B"
+  '?': "\uE72C"
+  '@': "\uE72D"
+  A: "\uE72E"
+  B: "\uE72F"
+  C: "\uE730"
+  D: "\uE731"
+  E: "\uE732"
+  F: "\uE733"
+  G: "\uE734"
+  H: "\uE735"
+  I: "\uE736"
+  J: "\uE737"
+  K: "\uE738"
+  L: "\uE739"
+  M: "\uE73A"
+  N: "\uE73B"
+  O: "\uE73C"
+  P: "\uE73D"
+  Q: "\uE73E"
+  R: "\uE73F"
+  S: "\uE740"
+  T: "\uE741"
+  U: "\uE742"
+  V: "\uE743"
+  W: "\uE744"
+  X: "\uE745"
+  Y: "\uE746"
+  Z: "\uE747"
+  '[': "\uE748"
+  \: "\uE749"
+  ']': "\uE74A"
+  ^: "\uE74B"
+  _: "\uE74C"
+  '`': "\uE74D"
+  a: "\uE74E"
+  b: "\uE74F"
+  c: "\uE750"
+  d: "\uE751"
+  e: "\uE752"
+  f: "\uE753"
+  g: "\uE754"
+  h: "\uE755"
+  i: "\uE756"
+  j: "\uE757"
+  k: "\uE758"
+  l: "\uE759"
+  m: "\uE75A"
+  n: "\uE75B"
+  o: "\uE75C"
+  p: "\uE75D"
+  q: "\uE75E"
+  r: "\uE75F"
+  s: "\uE760"
+  t: "\uE761"
+  u: "\uE762"
+  v: "\uE763"
+  w: "\uE764"
+  x: "\uE765"
+  y: "\uE766"
+  z: "\uE767"
+  '{': "\uE768"
+  '|': "\uE769"
+  '}': "\uE76A"
+  '~': "\uE76B"
+  "\xA3": "\uE77D"
+  "\xAA": "\uE78D"
+  "\xAB": "\uE790"
+  "\xAC": "\uE78F"
+  "\xB0": "\uE7E5"
+  "\xB1": "\uE7DE"
+  "\xB2": "\uE7E9"
+  "\xBA": "\uE78E"
+  "\xBB": "\uE791"
+  "\xF7": "\uE7E3"
+  "\u0192": "\uE77E"
+  "\u207F": "\uE7E8"
+  "\u2205": "\uE7CD"
+  "\u2208": "\uE7CE"
+  "\u2219": "\uE7E6"
+  "\u221A": "\uE7E7"
+  "\u2248": "\uE7E4"
+  "\u2261": "\uE7DD"
+  "\u2264": "\uE7E0"
+  "\u2265": "\uE7DF"
+  "\u2320": "\uE7E1"
+  "\u2321": "\uE7E2"
+  "\u2500": "\uE7B1"
+  "\u2502": "\uE7A0"
+  "\u250C": "\uE7C7"
+  "\u2510": "\uE7AC"
+  "\u2514": "\uE7AD"
+  "\u2518": "\uE7C6"
+  "\u251C": "\uE7B0"
+  "\u2524": "\uE7A1"
+  "\u252C": "\uE7AF"
+  "\u2534": "\uE7AE"
+  "\u253C": "\uE7B2"
+  "\u2550": "\uE7BA"
+  "\u2551": "\uE7A7"
+  "\u2552": "\uE7C2"
+  "\u2553": "\uE7C3"
+  "\u2554": "\uE7B6"
+  "\u2555": "\uE7A5"
+  "\u2556": "\uE7A4"
+  "\u2557": "\uE7A8"
+  "\u2558": "\uE7C1"
+  "\u2559": "\uE7C0"
+  "\u255A": "\uE7B5"
+  "\u255B": "\uE7AB"
+  "\u255C": "\uE7AA"
+  "\u255D": "\uE7A9"
+  "\u255E": "\uE7B3"
+  "\u255F": "\uE7B4"
+  "\u2560": "\uE7B9"
+  "\u2561": "\uE7A2"
+  "\u2562": "\uE7A3"
+  "\u2563": "\uE7A6"
+  "\u2564": "\uE7BE"
+  "\u2565": "\uE7BF"
+  "\u2566": "\uE7B8"
+  "\u2567": "\uE7BC"
+  "\u2568": "\uE7BD"
+  "\u2569": "\uE7B7"
+  "\u256A": "\uE7C5"
+  "\u256B": "\uE7C4"
+  "\u256C": "\uE7BB"
+  "\u2580": "\uE7CC"
+  "\u2584": "\uE7C9"
+  "\u2588": "\uE7C8"
+  "\u258C": "\uE7CA"
+  "\u2590": "\uE7CB"
+  "\u2591": "\uE79D"
+  "\u2592": "\uE79E"
+  "\u2593": "\uE79F"
+  "\u25A0": "\uE7EA"
 shadow/2:
-  '!': "\uE6C3"
-  '"': "\uE6C4"
-  '#': "\uE6C5"
-  $: "\uE6C6"
-  '%': "\uE6C7"
-  '&': "\uE6C8"
-  '''': "\uE6C9"
-  (: "\uE6CA"
-  ): "\uE6CB"
-  '*': "\uE6CC"
-  +: "\uE6CD"
-  ',': "\uE6CE"
-  '-': "\uE6CF"
-  .: "\uE6D0"
-  /: "\uE6D1"
-  '0': "\uE6D2"
-  '1': "\uE6D3"
-  '2': "\uE6D4"
-  '3': "\uE6D5"
-  '4': "\uE6D6"
-  '5': "\uE6D7"
-  '6': "\uE6D8"
-  '7': "\uE6D9"
-  '8': "\uE6DA"
-  '9': "\uE6DB"
-  ':': "\uE6DC"
-  ;: "\uE6DD"
-  <: "\uE6DE"
-  '=': "\uE6DF"
-  '>': "\uE6E0"
-  '?': "\uE6E1"
-  '@': "\uE6E2"
-  A: "\uE6E3"
-  B: "\uE6E4"
-  C: "\uE6E5"
-  D: "\uE6E6"
-  E: "\uE6E7"
-  F: "\uE6E8"
-  G: "\uE6E9"
-  H: "\uE6EA"
-  I: "\uE6EB"
-  J: "\uE6EC"
-  K: "\uE6ED"
-  L: "\uE6EE"
-  M: "\uE6EF"
-  N: "\uE6F0"
-  O: "\uE6F1"
-  P: "\uE6F2"
-  Q: "\uE6F3"
-  R: "\uE6F4"
-  S: "\uE6F5"
-  T: "\uE6F6"
-  U: "\uE6F7"
-  V: "\uE6F8"
-  W: "\uE6F9"
-  X: "\uE6FA"
-  Y: "\uE6FB"
-  Z: "\uE6FC"
-  '[': "\uE6FD"
-  \: "\uE6FE"
-  ']': "\uE6FF"
-  ^: "\uE700"
-  _: "\uE701"
-  '`': "\uE702"
-  a: "\uE703"
-  b: "\uE704"
-  c: "\uE705"
-  d: "\uE706"
-  e: "\uE707"
-  f: "\uE708"
-  g: "\uE709"
-  h: "\uE70A"
-  i: "\uE70B"
-  j: "\uE70C"
-  k: "\uE70D"
-  l: "\uE70E"
-  m: "\uE70F"
-  n: "\uE710"
-  o: "\uE711"
-  p: "\uE712"
-  q: "\uE713"
-  r: "\uE714"
-  s: "\uE715"
-  t: "\uE716"
-  u: "\uE717"
-  v: "\uE718"
-  w: "\uE719"
-  x: "\uE71A"
-  y: "\uE71B"
-  z: "\uE71C"
-  '{': "\uE71D"
-  '|': "\uE71E"
-  '}': "\uE71F"
-  '~': "\uE720"
-  "\xA3": "\uE732"
-  "\xAA": "\uE742"
-  "\xAB": "\uE745"
-  "\xAC": "\uE744"
-  "\xB0": "\uE79A"
-  "\xB1": "\uE793"
-  "\xB2": "\uE79E"
-  "\xBA": "\uE743"
-  "\xBB": "\uE746"
-  "\xF7": "\uE798"
-  "\u0192": "\uE733"
-  "\u207F": "\uE79D"
-  "\u2205": "\uE782"
-  "\u2208": "\uE783"
-  "\u2219": "\uE79B"
-  "\u221A": "\uE79C"
-  "\u2248": "\uE799"
-  "\u2261": "\uE792"
-  "\u2264": "\uE795"
-  "\u2265": "\uE794"
-  "\u2320": "\uE796"
-  "\u2321": "\uE797"
-  "\u2500": "\uE766"
-  "\u2502": "\uE755"
-  "\u250C": "\uE77C"
-  "\u2510": "\uE761"
-  "\u2514": "\uE762"
-  "\u2518": "\uE77B"
-  "\u251C": "\uE765"
-  "\u2524": "\uE756"
-  "\u252C": "\uE764"
-  "\u2534": "\uE763"
-  "\u253C": "\uE767"
-  "\u2550": "\uE76F"
-  "\u2551": "\uE75C"
-  "\u2552": "\uE777"
-  "\u2553": "\uE778"
-  "\u2554": "\uE76B"
-  "\u2555": "\uE75A"
-  "\u2556": "\uE759"
-  "\u2557": "\uE75D"
-  "\u2558": "\uE776"
-  "\u2559": "\uE775"
-  "\u255A": "\uE76A"
-  "\u255B": "\uE760"
-  "\u255C": "\uE75F"
-  "\u255D": "\uE75E"
-  "\u255E": "\uE768"
-  "\u255F": "\uE769"
-  "\u2560": "\uE76E"
-  "\u2561": "\uE757"
-  "\u2562": "\uE758"
-  "\u2563": "\uE75B"
-  "\u2564": "\uE773"
-  "\u2565": "\uE774"
-  "\u2566": "\uE76D"
-  "\u2567": "\uE771"
-  "\u2568": "\uE772"
-  "\u2569": "\uE76C"
-  "\u256A": "\uE77A"
-  "\u256B": "\uE779"
-  "\u256C": "\uE770"
-  "\u2580": "\uE781"
-  "\u2584": "\uE77E"
-  "\u2588": "\uE77D"
-  "\u258C": "\uE77F"
-  "\u2590": "\uE780"
-  "\u2591": "\uE752"
-  "\u2592": "\uE753"
-  "\u2593": "\uE754"
-  "\u25A0": "\uE79F"
+  '!': "\uE90E"
+  '"': "\uE90F"
+  '#': "\uE910"
+  $: "\uE911"
+  '%': "\uE912"
+  '&': "\uE913"
+  '''': "\uE914"
+  (: "\uE915"
+  ): "\uE916"
+  '*': "\uE917"
+  +: "\uE918"
+  ',': "\uE919"
+  '-': "\uE91A"
+  .: "\uE91B"
+  /: "\uE91C"
+  '0': "\uE91D"
+  '1': "\uE91E"
+  '2': "\uE91F"
+  '3': "\uE920"
+  '4': "\uE921"
+  '5': "\uE922"
+  '6': "\uE923"
+  '7': "\uE924"
+  '8': "\uE925"
+  '9': "\uE926"
+  ':': "\uE927"
+  ;: "\uE928"
+  <: "\uE929"
+  '=': "\uE92A"
+  '>': "\uE92B"
+  '?': "\uE92C"
+  '@': "\uE92D"
+  A: "\uE92E"
+  B: "\uE92F"
+  C: "\uE930"
+  D: "\uE931"
+  E: "\uE932"
+  F: "\uE933"
+  G: "\uE934"
+  H: "\uE935"
+  I: "\uE936"
+  J: "\uE937"
+  K: "\uE938"
+  L: "\uE939"
+  M: "\uE93A"
+  N: "\uE93B"
+  O: "\uE93C"
+  P: "\uE93D"
+  Q: "\uE93E"
+  R: "\uE93F"
+  S: "\uE940"
+  T: "\uE941"
+  U: "\uE942"
+  V: "\uE943"
+  W: "\uE944"
+  X: "\uE945"
+  Y: "\uE946"
+  Z: "\uE947"
+  '[': "\uE948"
+  \: "\uE949"
+  ']': "\uE94A"
+  ^: "\uE94B"
+  _: "\uE94C"
+  '`': "\uE94D"
+  a: "\uE94E"
+  b: "\uE94F"
+  c: "\uE950"
+  d: "\uE951"
+  e: "\uE952"
+  f: "\uE953"
+  g: "\uE954"
+  h: "\uE955"
+  i: "\uE956"
+  j: "\uE957"
+  k: "\uE958"
+  l: "\uE959"
+  m: "\uE95A"
+  n: "\uE95B"
+  o: "\uE95C"
+  p: "\uE95D"
+  q: "\uE95E"
+  r: "\uE95F"
+  s: "\uE960"
+  t: "\uE961"
+  u: "\uE962"
+  v: "\uE963"
+  w: "\uE964"
+  x: "\uE965"
+  y: "\uE966"
+  z: "\uE967"
+  '{': "\uE968"
+  '|': "\uE969"
+  '}': "\uE96A"
+  '~': "\uE96B"
+  "\xA3": "\uE97D"
+  "\xAA": "\uE98D"
+  "\xAB": "\uE990"
+  "\xAC": "\uE98F"
+  "\xB0": "\uE9E5"
+  "\xB1": "\uE9DE"
+  "\xB2": "\uE9E9"
+  "\xBA": "\uE98E"
+  "\xBB": "\uE991"
+  "\xF7": "\uE9E3"
+  "\u0192": "\uE97E"
+  "\u207F": "\uE9E8"
+  "\u2205": "\uE9CD"
+  "\u2208": "\uE9CE"
+  "\u2219": "\uE9E6"
+  "\u221A": "\uE9E7"
+  "\u2248": "\uE9E4"
+  "\u2261": "\uE9DD"
+  "\u2264": "\uE9E0"
+  "\u2265": "\uE9DF"
+  "\u2320": "\uE9E1"
+  "\u2321": "\uE9E2"
+  "\u2500": "\uE9B1"
+  "\u2502": "\uE9A0"
+  "\u250C": "\uE9C7"
+  "\u2510": "\uE9AC"
+  "\u2514": "\uE9AD"
+  "\u2518": "\uE9C6"
+  "\u251C": "\uE9B0"
+  "\u2524": "\uE9A1"
+  "\u252C": "\uE9AF"
+  "\u2534": "\uE9AE"
+  "\u253C": "\uE9B2"
+  "\u2550": "\uE9BA"
+  "\u2551": "\uE9A7"
+  "\u2552": "\uE9C2"
+  "\u2553": "\uE9C3"
+  "\u2554": "\uE9B6"
+  "\u2555": "\uE9A5"
+  "\u2556": "\uE9A4"
+  "\u2557": "\uE9A8"
+  "\u2558": "\uE9C1"
+  "\u2559": "\uE9C0"
+  "\u255A": "\uE9B5"
+  "\u255B": "\uE9AB"
+  "\u255C": "\uE9AA"
+  "\u255D": "\uE9A9"
+  "\u255E": "\uE9B3"
+  "\u255F": "\uE9B4"
+  "\u2560": "\uE9B9"
+  "\u2561": "\uE9A2"
+  "\u2562": "\uE9A3"
+  "\u2563": "\uE9A6"
+  "\u2564": "\uE9BE"
+  "\u2565": "\uE9BF"
+  "\u2566": "\uE9B8"
+  "\u2567": "\uE9BC"
+  "\u2568": "\uE9BD"
+  "\u2569": "\uE9B7"
+  "\u256A": "\uE9C5"
+  "\u256B": "\uE9C4"
+  "\u256C": "\uE9BB"
+  "\u2580": "\uE9CC"
+  "\u2584": "\uE9C9"
+  "\u2588": "\uE9C8"
+  "\u258C": "\uE9CA"
+  "\u2590": "\uE9CB"
+  "\u2591": "\uE99D"
+  "\u2592": "\uE99E"
+  "\u2593": "\uE99F"
+  "\u25A0": "\uE9EA"
 shadow/3:
-  '!': "\uE8C3"
-  '"': "\uE8C4"
-  '#': "\uE8C5"
-  $: "\uE8C6"
-  '%': "\uE8C7"
-  '&': "\uE8C8"
-  '''': "\uE8C9"
-  (: "\uE8CA"
-  ): "\uE8CB"
-  '*': "\uE8CC"
-  +: "\uE8CD"
-  ',': "\uE8CE"
-  '-': "\uE8CF"
-  .: "\uE8D0"
-  /: "\uE8D1"
-  '0': "\uE8D2"
-  '1': "\uE8D3"
-  '2': "\uE8D4"
-  '3': "\uE8D5"
-  '4': "\uE8D6"
-  '5': "\uE8D7"
-  '6': "\uE8D8"
-  '7': "\uE8D9"
-  '8': "\uE8DA"
-  '9': "\uE8DB"
-  ':': "\uE8DC"
-  ;: "\uE8DD"
-  <: "\uE8DE"
-  '=': "\uE8DF"
-  '>': "\uE8E0"
-  '?': "\uE8E1"
-  '@': "\uE8E2"
-  A: "\uE8E3"
-  B: "\uE8E4"
-  C: "\uE8E5"
-  D: "\uE8E6"
-  E: "\uE8E7"
-  F: "\uE8E8"
-  G: "\uE8E9"
-  H: "\uE8EA"
-  I: "\uE8EB"
-  J: "\uE8EC"
-  K: "\uE8ED"
-  L: "\uE8EE"
-  M: "\uE8EF"
-  N: "\uE8F0"
-  O: "\uE8F1"
-  P: "\uE8F2"
-  Q: "\uE8F3"
-  R: "\uE8F4"
-  S: "\uE8F5"
-  T: "\uE8F6"
-  U: "\uE8F7"
-  V: "\uE8F8"
-  W: "\uE8F9"
-  X: "\uE8FA"
-  Y: "\uE8FB"
-  Z: "\uE8FC"
-  '[': "\uE8FD"
-  \: "\uE8FE"
-  ']': "\uE8FF"
-  ^: "\uE900"
-  _: "\uE901"
-  '`': "\uE902"
-  a: "\uE903"
-  b: "\uE904"
-  c: "\uE905"
-  d: "\uE906"
-  e: "\uE907"
-  f: "\uE908"
-  g: "\uE909"
-  h: "\uE90A"
-  i: "\uE90B"
-  j: "\uE90C"
-  k: "\uE90D"
-  l: "\uE90E"
-  m: "\uE90F"
-  n: "\uE910"
-  o: "\uE911"
-  p: "\uE912"
-  q: "\uE913"
-  r: "\uE914"
-  s: "\uE915"
-  t: "\uE916"
-  u: "\uE917"
-  v: "\uE918"
-  w: "\uE919"
-  x: "\uE91A"
-  y: "\uE91B"
-  z: "\uE91C"
-  '{': "\uE91D"
-  '|': "\uE91E"
-  '}': "\uE91F"
-  '~': "\uE920"
-  "\xA3": "\uE932"
-  "\xAA": "\uE942"
-  "\xAB": "\uE945"
-  "\xAC": "\uE944"
-  "\xB0": "\uE99A"
-  "\xB1": "\uE993"
-  "\xB2": "\uE99E"
-  "\xBA": "\uE943"
-  "\xBB": "\uE946"
-  "\xF7": "\uE998"
-  "\u0192": "\uE933"
-  "\u207F": "\uE99D"
-  "\u2205": "\uE982"
-  "\u2208": "\uE983"
-  "\u2219": "\uE99B"
-  "\u221A": "\uE99C"
-  "\u2248": "\uE999"
-  "\u2261": "\uE992"
-  "\u2264": "\uE995"
-  "\u2265": "\uE994"
-  "\u2320": "\uE996"
-  "\u2321": "\uE997"
-  "\u2500": "\uE966"
-  "\u2502": "\uE955"
-  "\u250C": "\uE97C"
-  "\u2510": "\uE961"
-  "\u2514": "\uE962"
-  "\u2518": "\uE97B"
-  "\u251C": "\uE965"
-  "\u2524": "\uE956"
-  "\u252C": "\uE964"
-  "\u2534": "\uE963"
-  "\u253C": "\uE967"
-  "\u2550": "\uE96F"
-  "\u2551": "\uE95C"
-  "\u2552": "\uE977"
-  "\u2553": "\uE978"
-  "\u2554": "\uE96B"
-  "\u2555": "\uE95A"
-  "\u2556": "\uE959"
-  "\u2557": "\uE95D"
-  "\u2558": "\uE976"
-  "\u2559": "\uE975"
-  "\u255A": "\uE96A"
-  "\u255B": "\uE960"
-  "\u255C": "\uE95F"
-  "\u255D": "\uE95E"
-  "\u255E": "\uE968"
-  "\u255F": "\uE969"
-  "\u2560": "\uE96E"
-  "\u2561": "\uE957"
-  "\u2562": "\uE958"
-  "\u2563": "\uE95B"
-  "\u2564": "\uE973"
-  "\u2565": "\uE974"
-  "\u2566": "\uE96D"
-  "\u2567": "\uE971"
-  "\u2568": "\uE972"
-  "\u2569": "\uE96C"
-  "\u256A": "\uE97A"
-  "\u256B": "\uE979"
-  "\u256C": "\uE970"
-  "\u2580": "\uE981"
-  "\u2584": "\uE97E"
-  "\u2588": "\uE97D"
-  "\u258C": "\uE97F"
-  "\u2590": "\uE980"
-  "\u2591": "\uE952"
-  "\u2592": "\uE953"
-  "\u2593": "\uE954"
-  "\u25A0": "\uE99F"
+  '!': "\uEB0E"
+  '"': "\uEB0F"
+  '#': "\uEB10"
+  $: "\uEB11"
+  '%': "\uEB12"
+  '&': "\uEB13"
+  '''': "\uEB14"
+  (: "\uEB15"
+  ): "\uEB16"
+  '*': "\uEB17"
+  +: "\uEB18"
+  ',': "\uEB19"
+  '-': "\uEB1A"
+  .: "\uEB1B"
+  /: "\uEB1C"
+  '0': "\uEB1D"
+  '1': "\uEB1E"
+  '2': "\uEB1F"
+  '3': "\uEB20"
+  '4': "\uEB21"
+  '5': "\uEB22"
+  '6': "\uEB23"
+  '7': "\uEB24"
+  '8': "\uEB25"
+  '9': "\uEB26"
+  ':': "\uEB27"
+  ;: "\uEB28"
+  <: "\uEB29"
+  '=': "\uEB2A"
+  '>': "\uEB2B"
+  '?': "\uEB2C"
+  '@': "\uEB2D"
+  A: "\uEB2E"
+  B: "\uEB2F"
+  C: "\uEB30"
+  D: "\uEB31"
+  E: "\uEB32"
+  F: "\uEB33"
+  G: "\uEB34"
+  H: "\uEB35"
+  I: "\uEB36"
+  J: "\uEB37"
+  K: "\uEB38"
+  L: "\uEB39"
+  M: "\uEB3A"
+  N: "\uEB3B"
+  O: "\uEB3C"
+  P: "\uEB3D"
+  Q: "\uEB3E"
+  R: "\uEB3F"
+  S: "\uEB40"
+  T: "\uEB41"
+  U: "\uEB42"
+  V: "\uEB43"
+  W: "\uEB44"
+  X: "\uEB45"
+  Y: "\uEB46"
+  Z: "\uEB47"
+  '[': "\uEB48"
+  \: "\uEB49"
+  ']': "\uEB4A"
+  ^: "\uEB4B"
+  _: "\uEB4C"
+  '`': "\uEB4D"
+  a: "\uEB4E"
+  b: "\uEB4F"
+  c: "\uEB50"
+  d: "\uEB51"
+  e: "\uEB52"
+  f: "\uEB53"
+  g: "\uEB54"
+  h: "\uEB55"
+  i: "\uEB56"
+  j: "\uEB57"
+  k: "\uEB58"
+  l: "\uEB59"
+  m: "\uEB5A"
+  n: "\uEB5B"
+  o: "\uEB5C"
+  p: "\uEB5D"
+  q: "\uEB5E"
+  r: "\uEB5F"
+  s: "\uEB60"
+  t: "\uEB61"
+  u: "\uEB62"
+  v: "\uEB63"
+  w: "\uEB64"
+  x: "\uEB65"
+  y: "\uEB66"
+  z: "\uEB67"
+  '{': "\uEB68"
+  '|': "\uEB69"
+  '}': "\uEB6A"
+  '~': "\uEB6B"
+  "\xA3": "\uEB7D"
+  "\xAA": "\uEB8D"
+  "\xAB": "\uEB90"
+  "\xAC": "\uEB8F"
+  "\xB0": "\uEBE5"
+  "\xB1": "\uEBDE"
+  "\xB2": "\uEBE9"
+  "\xBA": "\uEB8E"
+  "\xBB": "\uEB91"
+  "\xF7": "\uEBE3"
+  "\u0192": "\uEB7E"
+  "\u207F": "\uEBE8"
+  "\u2205": "\uEBCD"
+  "\u2208": "\uEBCE"
+  "\u2219": "\uEBE6"
+  "\u221A": "\uEBE7"
+  "\u2248": "\uEBE4"
+  "\u2261": "\uEBDD"
+  "\u2264": "\uEBE0"
+  "\u2265": "\uEBDF"
+  "\u2320": "\uEBE1"
+  "\u2321": "\uEBE2"
+  "\u2500": "\uEBB1"
+  "\u2502": "\uEBA0"
+  "\u250C": "\uEBC7"
+  "\u2510": "\uEBAC"
+  "\u2514": "\uEBAD"
+  "\u2518": "\uEBC6"
+  "\u251C": "\uEBB0"
+  "\u2524": "\uEBA1"
+  "\u252C": "\uEBAF"
+  "\u2534": "\uEBAE"
+  "\u253C": "\uEBB2"
+  "\u2550": "\uEBBA"
+  "\u2551": "\uEBA7"
+  "\u2552": "\uEBC2"
+  "\u2553": "\uEBC3"
+  "\u2554": "\uEBB6"
+  "\u2555": "\uEBA5"
+  "\u2556": "\uEBA4"
+  "\u2557": "\uEBA8"
+  "\u2558": "\uEBC1"
+  "\u2559": "\uEBC0"
+  "\u255A": "\uEBB5"
+  "\u255B": "\uEBAB"
+  "\u255C": "\uEBAA"
+  "\u255D": "\uEBA9"
+  "\u255E": "\uEBB3"
+  "\u255F": "\uEBB4"
+  "\u2560": "\uEBB9"
+  "\u2561": "\uEBA2"
+  "\u2562": "\uEBA3"
+  "\u2563": "\uEBA6"
+  "\u2564": "\uEBBE"
+  "\u2565": "\uEBBF"
+  "\u2566": "\uEBB8"
+  "\u2567": "\uEBBC"
+  "\u2568": "\uEBBD"
+  "\u2569": "\uEBB7"
+  "\u256A": "\uEBC5"
+  "\u256B": "\uEBC4"
+  "\u256C": "\uEBBB"
+  "\u2580": "\uEBCC"
+  "\u2584": "\uEBC9"
+  "\u2588": "\uEBC8"
+  "\u258C": "\uEBCA"
+  "\u2590": "\uEBCB"
+  "\u2591": "\uEB9D"
+  "\u2592": "\uEB9E"
+  "\u2593": "\uEB9F"
+  "\u25A0": "\uEBEA"
 shadow/4:
-  '!': "\uEAC3"
-  '"': "\uEAC4"
-  '#': "\uEAC5"
-  $: "\uEAC6"
-  '%': "\uEAC7"
-  '&': "\uEAC8"
-  '''': "\uEAC9"
-  (: "\uEACA"
-  ): "\uEACB"
-  '*': "\uEACC"
-  +: "\uEACD"
-  ',': "\uEACE"
-  '-': "\uEACF"
-  .: "\uEAD0"
-  /: "\uEAD1"
-  '0': "\uEAD2"
-  '1': "\uEAD3"
-  '2': "\uEAD4"
-  '3': "\uEAD5"
-  '4': "\uEAD6"
-  '5': "\uEAD7"
-  '6': "\uEAD8"
-  '7': "\uEAD9"
-  '8': "\uEADA"
-  '9': "\uEADB"
-  ':': "\uEADC"
-  ;: "\uEADD"
-  <: "\uEADE"
-  '=': "\uEADF"
-  '>': "\uEAE0"
-  '?': "\uEAE1"
-  '@': "\uEAE2"
-  A: "\uEAE3"
-  B: "\uEAE4"
-  C: "\uEAE5"
-  D: "\uEAE6"
-  E: "\uEAE7"
-  F: "\uEAE8"
-  G: "\uEAE9"
-  H: "\uEAEA"
-  I: "\uEAEB"
-  J: "\uEAEC"
-  K: "\uEAED"
-  L: "\uEAEE"
-  M: "\uEAEF"
-  N: "\uEAF0"
-  O: "\uEAF1"
-  P: "\uEAF2"
-  Q: "\uEAF3"
-  R: "\uEAF4"
-  S: "\uEAF5"
-  T: "\uEAF6"
-  U: "\uEAF7"
-  V: "\uEAF8"
-  W: "\uEAF9"
-  X: "\uEAFA"
-  Y: "\uEAFB"
-  Z: "\uEAFC"
-  '[': "\uEAFD"
-  \: "\uEAFE"
-  ']': "\uEAFF"
-  ^: "\uEB00"
-  _: "\uEB01"
-  '`': "\uEB02"
-  a: "\uEB03"
-  b: "\uEB04"
-  c: "\uEB05"
-  d: "\uEB06"
-  e: "\uEB07"
-  f: "\uEB08"
-  g: "\uEB09"
-  h: "\uEB0A"
-  i: "\uEB0B"
-  j: "\uEB0C"
-  k: "\uEB0D"
-  l: "\uEB0E"
-  m: "\uEB0F"
-  n: "\uEB10"
-  o: "\uEB11"
-  p: "\uEB12"
-  q: "\uEB13"
-  r: "\uEB14"
-  s: "\uEB15"
-  t: "\uEB16"
-  u: "\uEB17"
-  v: "\uEB18"
-  w: "\uEB19"
-  x: "\uEB1A"
-  y: "\uEB1B"
-  z: "\uEB1C"
-  '{': "\uEB1D"
-  '|': "\uEB1E"
-  '}': "\uEB1F"
-  '~': "\uEB20"
-  "\xA3": "\uEB32"
-  "\xAA": "\uEB42"
-  "\xAB": "\uEB45"
-  "\xAC": "\uEB44"
-  "\xB0": "\uEB9A"
-  "\xB1": "\uEB93"
-  "\xB2": "\uEB9E"
-  "\xBA": "\uEB43"
-  "\xBB": "\uEB46"
-  "\xF7": "\uEB98"
-  "\u0192": "\uEB33"
-  "\u207F": "\uEB9D"
-  "\u2205": "\uEB82"
-  "\u2208": "\uEB83"
-  "\u2219": "\uEB9B"
-  "\u221A": "\uEB9C"
-  "\u2248": "\uEB99"
-  "\u2261": "\uEB92"
-  "\u2264": "\uEB95"
-  "\u2265": "\uEB94"
-  "\u2320": "\uEB96"
-  "\u2321": "\uEB97"
-  "\u2500": "\uEB66"
-  "\u2502": "\uEB55"
-  "\u250C": "\uEB7C"
-  "\u2510": "\uEB61"
-  "\u2514": "\uEB62"
-  "\u2518": "\uEB7B"
-  "\u251C": "\uEB65"
-  "\u2524": "\uEB56"
-  "\u252C": "\uEB64"
-  "\u2534": "\uEB63"
-  "\u253C": "\uEB67"
-  "\u2550": "\uEB6F"
-  "\u2551": "\uEB5C"
-  "\u2552": "\uEB77"
-  "\u2553": "\uEB78"
-  "\u2554": "\uEB6B"
-  "\u2555": "\uEB5A"
-  "\u2556": "\uEB59"
-  "\u2557": "\uEB5D"
-  "\u2558": "\uEB76"
-  "\u2559": "\uEB75"
-  "\u255A": "\uEB6A"
-  "\u255B": "\uEB60"
-  "\u255C": "\uEB5F"
-  "\u255D": "\uEB5E"
-  "\u255E": "\uEB68"
-  "\u255F": "\uEB69"
-  "\u2560": "\uEB6E"
-  "\u2561": "\uEB57"
-  "\u2562": "\uEB58"
-  "\u2563": "\uEB5B"
-  "\u2564": "\uEB73"
-  "\u2565": "\uEB74"
-  "\u2566": "\uEB6D"
-  "\u2567": "\uEB71"
-  "\u2568": "\uEB72"
-  "\u2569": "\uEB6C"
-  "\u256A": "\uEB7A"
-  "\u256B": "\uEB79"
-  "\u256C": "\uEB70"
-  "\u2580": "\uEB81"
-  "\u2584": "\uEB7E"
-  "\u2588": "\uEB7D"
-  "\u258C": "\uEB7F"
-  "\u2590": "\uEB80"
-  "\u2591": "\uEB52"
-  "\u2592": "\uEB53"
-  "\u2593": "\uEB54"
-  "\u25A0": "\uEB9F"
+  '!': "\uED0E"
+  '"': "\uED0F"
+  '#': "\uED10"
+  $: "\uED11"
+  '%': "\uED12"
+  '&': "\uED13"
+  '''': "\uED14"
+  (: "\uED15"
+  ): "\uED16"
+  '*': "\uED17"
+  +: "\uED18"
+  ',': "\uED19"
+  '-': "\uED1A"
+  .: "\uED1B"
+  /: "\uED1C"
+  '0': "\uED1D"
+  '1': "\uED1E"
+  '2': "\uED1F"
+  '3': "\uED20"
+  '4': "\uED21"
+  '5': "\uED22"
+  '6': "\uED23"
+  '7': "\uED24"
+  '8': "\uED25"
+  '9': "\uED26"
+  ':': "\uED27"
+  ;: "\uED28"
+  <: "\uED29"
+  '=': "\uED2A"
+  '>': "\uED2B"
+  '?': "\uED2C"
+  '@': "\uED2D"
+  A: "\uED2E"
+  B: "\uED2F"
+  C: "\uED30"
+  D: "\uED31"
+  E: "\uED32"
+  F: "\uED33"
+  G: "\uED34"
+  H: "\uED35"
+  I: "\uED36"
+  J: "\uED37"
+  K: "\uED38"
+  L: "\uED39"
+  M: "\uED3A"
+  N: "\uED3B"
+  O: "\uED3C"
+  P: "\uED3D"
+  Q: "\uED3E"
+  R: "\uED3F"
+  S: "\uED40"
+  T: "\uED41"
+  U: "\uED42"
+  V: "\uED43"
+  W: "\uED44"
+  X: "\uED45"
+  Y: "\uED46"
+  Z: "\uED47"
+  '[': "\uED48"
+  \: "\uED49"
+  ']': "\uED4A"
+  ^: "\uED4B"
+  _: "\uED4C"
+  '`': "\uED4D"
+  a: "\uED4E"
+  b: "\uED4F"
+  c: "\uED50"
+  d: "\uED51"
+  e: "\uED52"
+  f: "\uED53"
+  g: "\uED54"
+  h: "\uED55"
+  i: "\uED56"
+  j: "\uED57"
+  k: "\uED58"
+  l: "\uED59"
+  m: "\uED5A"
+  n: "\uED5B"
+  o: "\uED5C"
+  p: "\uED5D"
+  q: "\uED5E"
+  r: "\uED5F"
+  s: "\uED60"
+  t: "\uED61"
+  u: "\uED62"
+  v: "\uED63"
+  w: "\uED64"
+  x: "\uED65"
+  y: "\uED66"
+  z: "\uED67"
+  '{': "\uED68"
+  '|': "\uED69"
+  '}': "\uED6A"
+  '~': "\uED6B"
+  "\xA3": "\uED7D"
+  "\xAA": "\uED8D"
+  "\xAB": "\uED90"
+  "\xAC": "\uED8F"
+  "\xB0": "\uEDE5"
+  "\xB1": "\uEDDE"
+  "\xB2": "\uEDE9"
+  "\xBA": "\uED8E"
+  "\xBB": "\uED91"
+  "\xF7": "\uEDE3"
+  "\u0192": "\uED7E"
+  "\u207F": "\uEDE8"
+  "\u2205": "\uEDCD"
+  "\u2208": "\uEDCE"
+  "\u2219": "\uEDE6"
+  "\u221A": "\uEDE7"
+  "\u2248": "\uEDE4"
+  "\u2261": "\uEDDD"
+  "\u2264": "\uEDE0"
+  "\u2265": "\uEDDF"
+  "\u2320": "\uEDE1"
+  "\u2321": "\uEDE2"
+  "\u2500": "\uEDB1"
+  "\u2502": "\uEDA0"
+  "\u250C": "\uEDC7"
+  "\u2510": "\uEDAC"
+  "\u2514": "\uEDAD"
+  "\u2518": "\uEDC6"
+  "\u251C": "\uEDB0"
+  "\u2524": "\uEDA1"
+  "\u252C": "\uEDAF"
+  "\u2534": "\uEDAE"
+  "\u253C": "\uEDB2"
+  "\u2550": "\uEDBA"
+  "\u2551": "\uEDA7"
+  "\u2552": "\uEDC2"
+  "\u2553": "\uEDC3"
+  "\u2554": "\uEDB6"
+  "\u2555": "\uEDA5"
+  "\u2556": "\uEDA4"
+  "\u2557": "\uEDA8"
+  "\u2558": "\uEDC1"
+  "\u2559": "\uEDC0"
+  "\u255A": "\uEDB5"
+  "\u255B": "\uEDAB"
+  "\u255C": "\uEDAA"
+  "\u255D": "\uEDA9"
+  "\u255E": "\uEDB3"
+  "\u255F": "\uEDB4"
+  "\u2560": "\uEDB9"
+  "\u2561": "\uEDA2"
+  "\u2562": "\uEDA3"
+  "\u2563": "\uEDA6"
+  "\u2564": "\uEDBE"
+  "\u2565": "\uEDBF"
+  "\u2566": "\uEDB8"
+  "\u2567": "\uEDBC"
+  "\u2568": "\uEDBD"
+  "\u2569": "\uEDB7"
+  "\u256A": "\uEDC5"
+  "\u256B": "\uEDC4"
+  "\u256C": "\uEDBB"
+  "\u2580": "\uEDCC"
+  "\u2584": "\uEDC9"
+  "\u2588": "\uEDC8"
+  "\u258C": "\uEDCA"
+  "\u2590": "\uEDCB"
+  "\u2591": "\uED9D"
+  "\u2592": "\uED9E"
+  "\u2593": "\uED9F"
+  "\u25A0": "\uEDEA"
 shadow/5:
-  '!': "\uECC3"
-  '"': "\uECC4"
-  '#': "\uECC5"
-  $: "\uECC6"
-  '%': "\uECC7"
-  '&': "\uECC8"
-  '''': "\uECC9"
-  (: "\uECCA"
-  ): "\uECCB"
-  '*': "\uECCC"
-  +: "\uECCD"
-  ',': "\uECCE"
-  '-': "\uECCF"
-  .: "\uECD0"
-  /: "\uECD1"
-  '0': "\uECD2"
-  '1': "\uECD3"
-  '2': "\uECD4"
-  '3': "\uECD5"
-  '4': "\uECD6"
-  '5': "\uECD7"
-  '6': "\uECD8"
-  '7': "\uECD9"
-  '8': "\uECDA"
-  '9': "\uECDB"
-  ':': "\uECDC"
-  ;: "\uECDD"
-  <: "\uECDE"
-  '=': "\uECDF"
-  '>': "\uECE0"
-  '?': "\uECE1"
-  '@': "\uECE2"
-  A: "\uECE3"
-  B: "\uECE4"
-  C: "\uECE5"
-  D: "\uECE6"
-  E: "\uECE7"
-  F: "\uECE8"
-  G: "\uECE9"
-  H: "\uECEA"
-  I: "\uECEB"
-  J: "\uECEC"
-  K: "\uECED"
-  L: "\uECEE"
-  M: "\uECEF"
-  N: "\uECF0"
-  O: "\uECF1"
-  P: "\uECF2"
-  Q: "\uECF3"
-  R: "\uECF4"
-  S: "\uECF5"
-  T: "\uECF6"
-  U: "\uECF7"
-  V: "\uECF8"
-  W: "\uECF9"
-  X: "\uECFA"
-  Y: "\uECFB"
-  Z: "\uECFC"
-  '[': "\uECFD"
-  \: "\uECFE"
-  ']': "\uECFF"
-  ^: "\uED00"
-  _: "\uED01"
-  '`': "\uED02"
-  a: "\uED03"
-  b: "\uED04"
-  c: "\uED05"
-  d: "\uED06"
-  e: "\uED07"
-  f: "\uED08"
-  g: "\uED09"
-  h: "\uED0A"
-  i: "\uED0B"
-  j: "\uED0C"
-  k: "\uED0D"
-  l: "\uED0E"
-  m: "\uED0F"
-  n: "\uED10"
-  o: "\uED11"
-  p: "\uED12"
-  q: "\uED13"
-  r: "\uED14"
-  s: "\uED15"
-  t: "\uED16"
-  u: "\uED17"
-  v: "\uED18"
-  w: "\uED19"
-  x: "\uED1A"
-  y: "\uED1B"
-  z: "\uED1C"
-  '{': "\uED1D"
-  '|': "\uED1E"
-  '}': "\uED1F"
-  '~': "\uED20"
-  "\xA3": "\uED32"
-  "\xAA": "\uED42"
-  "\xAB": "\uED45"
-  "\xAC": "\uED44"
-  "\xB0": "\uED9A"
-  "\xB1": "\uED93"
-  "\xB2": "\uED9E"
-  "\xBA": "\uED43"
-  "\xBB": "\uED46"
-  "\xF7": "\uED98"
-  "\u0192": "\uED33"
-  "\u207F": "\uED9D"
-  "\u2205": "\uED82"
-  "\u2208": "\uED83"
-  "\u2219": "\uED9B"
-  "\u221A": "\uED9C"
-  "\u2248": "\uED99"
-  "\u2261": "\uED92"
-  "\u2264": "\uED95"
-  "\u2265": "\uED94"
-  "\u2320": "\uED96"
-  "\u2321": "\uED97"
-  "\u2500": "\uED66"
-  "\u2502": "\uED55"
-  "\u250C": "\uED7C"
-  "\u2510": "\uED61"
-  "\u2514": "\uED62"
-  "\u2518": "\uED7B"
-  "\u251C": "\uED65"
-  "\u2524": "\uED56"
-  "\u252C": "\uED64"
-  "\u2534": "\uED63"
-  "\u253C": "\uED67"
-  "\u2550": "\uED6F"
-  "\u2551": "\uED5C"
-  "\u2552": "\uED77"
-  "\u2553": "\uED78"
-  "\u2554": "\uED6B"
-  "\u2555": "\uED5A"
-  "\u2556": "\uED59"
-  "\u2557": "\uED5D"
-  "\u2558": "\uED76"
-  "\u2559": "\uED75"
-  "\u255A": "\uED6A"
-  "\u255B": "\uED60"
-  "\u255C": "\uED5F"
-  "\u255D": "\uED5E"
-  "\u255E": "\uED68"
-  "\u255F": "\uED69"
-  "\u2560": "\uED6E"
-  "\u2561": "\uED57"
-  "\u2562": "\uED58"
-  "\u2563": "\uED5B"
-  "\u2564": "\uED73"
-  "\u2565": "\uED74"
-  "\u2566": "\uED6D"
-  "\u2567": "\uED71"
-  "\u2568": "\uED72"
-  "\u2569": "\uED6C"
-  "\u256A": "\uED7A"
-  "\u256B": "\uED79"
-  "\u256C": "\uED70"
-  "\u2580": "\uED81"
-  "\u2584": "\uED7E"
-  "\u2588": "\uED7D"
-  "\u258C": "\uED7F"
-  "\u2590": "\uED80"
-  "\u2591": "\uED52"
-  "\u2592": "\uED53"
-  "\u2593": "\uED54"
-  "\u25A0": "\uED9F"
+  '!': "\uEF0E"
+  '"': "\uEF0F"
+  '#': "\uEF10"
+  $: "\uEF11"
+  '%': "\uEF12"
+  '&': "\uEF13"
+  '''': "\uEF14"
+  (: "\uEF15"
+  ): "\uEF16"
+  '*': "\uEF17"
+  +: "\uEF18"
+  ',': "\uEF19"
+  '-': "\uEF1A"
+  .: "\uEF1B"
+  /: "\uEF1C"
+  '0': "\uEF1D"
+  '1': "\uEF1E"
+  '2': "\uEF1F"
+  '3': "\uEF20"
+  '4': "\uEF21"
+  '5': "\uEF22"
+  '6': "\uEF23"
+  '7': "\uEF24"
+  '8': "\uEF25"
+  '9': "\uEF26"
+  ':': "\uEF27"
+  ;: "\uEF28"
+  <: "\uEF29"
+  '=': "\uEF2A"
+  '>': "\uEF2B"
+  '?': "\uEF2C"
+  '@': "\uEF2D"
+  A: "\uEF2E"
+  B: "\uEF2F"
+  C: "\uEF30"
+  D: "\uEF31"
+  E: "\uEF32"
+  F: "\uEF33"
+  G: "\uEF34"
+  H: "\uEF35"
+  I: "\uEF36"
+  J: "\uEF37"
+  K: "\uEF38"
+  L: "\uEF39"
+  M: "\uEF3A"
+  N: "\uEF3B"
+  O: "\uEF3C"
+  P: "\uEF3D"
+  Q: "\uEF3E"
+  R: "\uEF3F"
+  S: "\uEF40"
+  T: "\uEF41"
+  U: "\uEF42"
+  V: "\uEF43"
+  W: "\uEF44"
+  X: "\uEF45"
+  Y: "\uEF46"
+  Z: "\uEF47"
+  '[': "\uEF48"
+  \: "\uEF49"
+  ']': "\uEF4A"
+  ^: "\uEF4B"
+  _: "\uEF4C"
+  '`': "\uEF4D"
+  a: "\uEF4E"
+  b: "\uEF4F"
+  c: "\uEF50"
+  d: "\uEF51"
+  e: "\uEF52"
+  f: "\uEF53"
+  g: "\uEF54"
+  h: "\uEF55"
+  i: "\uEF56"
+  j: "\uEF57"
+  k: "\uEF58"
+  l: "\uEF59"
+  m: "\uEF5A"
+  n: "\uEF5B"
+  o: "\uEF5C"
+  p: "\uEF5D"
+  q: "\uEF5E"
+  r: "\uEF5F"
+  s: "\uEF60"
+  t: "\uEF61"
+  u: "\uEF62"
+  v: "\uEF63"
+  w: "\uEF64"
+  x: "\uEF65"
+  y: "\uEF66"
+  z: "\uEF67"
+  '{': "\uEF68"
+  '|': "\uEF69"
+  '}': "\uEF6A"
+  '~': "\uEF6B"
+  "\xA3": "\uEF7D"
+  "\xAA": "\uEF8D"
+  "\xAB": "\uEF90"
+  "\xAC": "\uEF8F"
+  "\xB0": "\uEFE5"
+  "\xB1": "\uEFDE"
+  "\xB2": "\uEFE9"
+  "\xBA": "\uEF8E"
+  "\xBB": "\uEF91"
+  "\xF7": "\uEFE3"
+  "\u0192": "\uEF7E"
+  "\u207F": "\uEFE8"
+  "\u2205": "\uEFCD"
+  "\u2208": "\uEFCE"
+  "\u2219": "\uEFE6"
+  "\u221A": "\uEFE7"
+  "\u2248": "\uEFE4"
+  "\u2261": "\uEFDD"
+  "\u2264": "\uEFE0"
+  "\u2265": "\uEFDF"
+  "\u2320": "\uEFE1"
+  "\u2321": "\uEFE2"
+  "\u2500": "\uEFB1"
+  "\u2502": "\uEFA0"
+  "\u250C": "\uEFC7"
+  "\u2510": "\uEFAC"
+  "\u2514": "\uEFAD"
+  "\u2518": "\uEFC6"
+  "\u251C": "\uEFB0"
+  "\u2524": "\uEFA1"
+  "\u252C": "\uEFAF"
+  "\u2534": "\uEFAE"
+  "\u253C": "\uEFB2"
+  "\u2550": "\uEFBA"
+  "\u2551": "\uEFA7"
+  "\u2552": "\uEFC2"
+  "\u2553": "\uEFC3"
+  "\u2554": "\uEFB6"
+  "\u2555": "\uEFA5"
+  "\u2556": "\uEFA4"
+  "\u2557": "\uEFA8"
+  "\u2558": "\uEFC1"
+  "\u2559": "\uEFC0"
+  "\u255A": "\uEFB5"
+  "\u255B": "\uEFAB"
+  "\u255C": "\uEFAA"
+  "\u255D": "\uEFA9"
+  "\u255E": "\uEFB3"
+  "\u255F": "\uEFB4"
+  "\u2560": "\uEFB9"
+  "\u2561": "\uEFA2"
+  "\u2562": "\uEFA3"
+  "\u2563": "\uEFA6"
+  "\u2564": "\uEFBE"
+  "\u2565": "\uEFBF"
+  "\u2566": "\uEFB8"
+  "\u2567": "\uEFBC"
+  "\u2568": "\uEFBD"
+  "\u2569": "\uEFB7"
+  "\u256A": "\uEFC5"
+  "\u256B": "\uEFC4"
+  "\u256C": "\uEFBB"
+  "\u2580": "\uEFCC"
+  "\u2584": "\uEFC9"
+  "\u2588": "\uEFC8"
+  "\u258C": "\uEFCA"
+  "\u2590": "\uEFCB"
+  "\u2591": "\uEF9D"
+  "\u2592": "\uEF9E"
+  "\u2593": "\uEF9F"
+  "\u25A0": "\uEFEA"
+shaper_armor_trim_smithing_template.png:
+  chars:
+  - "\uE39E"
+sheaf_pottery_sherd.png:
+  chars:
+  - "\uE39F"
+shears.png:
+  chars:
+  - "\uE3A0"
+shelter_pottery_sherd.png:
+  chars:
+  - "\uE3A1"
+shulker_shell.png:
+  chars:
+  - "\uE3A2"
+silence_armor_trim_smithing_template.png:
+  chars:
+  - "\uE3A3"
+skull_banner_pattern.png:
+  chars:
+  - "\uE3A4"
+skull_pottery_sherd.png:
+  chars:
+  - "\uE3A5"
+slime_ball.png:
+  chars:
+  - "\uE3A6"
 slot/0:
-  '!': "\uE1C3"
-  '"': "\uE1C4"
-  '#': "\uE1C5"
-  $: "\uE1C6"
-  '%': "\uE1C7"
-  '&': "\uE1C8"
-  '''': "\uE1C9"
-  (: "\uE1CA"
-  ): "\uE1CB"
-  '*': "\uE1CC"
-  +: "\uE1CD"
-  ',': "\uE1CE"
-  '-': "\uE1CF"
-  .: "\uE1D0"
-  /: "\uE1D1"
-  '0': "\uE1D2"
-  '1': "\uE1D3"
-  '2': "\uE1D4"
-  '3': "\uE1D5"
-  '4': "\uE1D6"
-  '5': "\uE1D7"
-  '6': "\uE1D8"
-  '7': "\uE1D9"
-  '8': "\uE1DA"
-  '9': "\uE1DB"
-  ':': "\uE1DC"
-  ;: "\uE1DD"
-  <: "\uE1DE"
-  '=': "\uE1DF"
-  '>': "\uE1E0"
-  '?': "\uE1E1"
-  '@': "\uE1E2"
-  A: "\uE1E3"
-  B: "\uE1E4"
-  C: "\uE1E5"
-  D: "\uE1E6"
-  E: "\uE1E7"
-  F: "\uE1E8"
-  G: "\uE1E9"
-  H: "\uE1EA"
-  I: "\uE1EB"
-  J: "\uE1EC"
-  K: "\uE1ED"
-  L: "\uE1EE"
-  M: "\uE1EF"
-  N: "\uE1F0"
-  O: "\uE1F1"
-  P: "\uE1F2"
-  Q: "\uE1F3"
-  R: "\uE1F4"
-  S: "\uE1F5"
-  T: "\uE1F6"
-  U: "\uE1F7"
-  V: "\uE1F8"
-  W: "\uE1F9"
-  X: "\uE1FA"
-  Y: "\uE1FB"
-  Z: "\uE1FC"
-  '[': "\uE1FD"
-  \: "\uE1FE"
-  ']': "\uE1FF"
-  ^: "\uE200"
-  _: "\uE201"
-  '`': "\uE202"
-  a: "\uE203"
-  b: "\uE204"
-  c: "\uE205"
-  d: "\uE206"
-  e: "\uE207"
-  f: "\uE208"
-  g: "\uE209"
-  h: "\uE20A"
-  i: "\uE20B"
-  j: "\uE20C"
-  k: "\uE20D"
-  l: "\uE20E"
-  m: "\uE20F"
-  n: "\uE210"
-  o: "\uE211"
-  p: "\uE212"
-  q: "\uE213"
-  r: "\uE214"
-  s: "\uE215"
-  t: "\uE216"
-  u: "\uE217"
-  v: "\uE218"
-  w: "\uE219"
-  x: "\uE21A"
-  y: "\uE21B"
-  z: "\uE21C"
-  '{': "\uE21D"
-  '|': "\uE21E"
-  '}': "\uE21F"
-  '~': "\uE220"
-  "\xA3": "\uE232"
-  "\xAA": "\uE242"
-  "\xAB": "\uE245"
-  "\xAC": "\uE244"
-  "\xB0": "\uE29A"
-  "\xB1": "\uE293"
-  "\xB2": "\uE29E"
-  "\xBA": "\uE243"
-  "\xBB": "\uE246"
-  "\xF7": "\uE298"
-  "\u0192": "\uE233"
-  "\u207F": "\uE29D"
-  "\u2205": "\uE282"
-  "\u2208": "\uE283"
-  "\u2219": "\uE29B"
-  "\u221A": "\uE29C"
-  "\u2248": "\uE299"
-  "\u2261": "\uE292"
-  "\u2264": "\uE295"
-  "\u2265": "\uE294"
-  "\u2320": "\uE296"
-  "\u2321": "\uE297"
-  "\u2500": "\uE266"
-  "\u2502": "\uE255"
-  "\u250C": "\uE27C"
-  "\u2510": "\uE261"
-  "\u2514": "\uE262"
-  "\u2518": "\uE27B"
-  "\u251C": "\uE265"
-  "\u2524": "\uE256"
-  "\u252C": "\uE264"
-  "\u2534": "\uE263"
-  "\u253C": "\uE267"
-  "\u2550": "\uE26F"
-  "\u2551": "\uE25C"
-  "\u2552": "\uE277"
-  "\u2553": "\uE278"
-  "\u2554": "\uE26B"
-  "\u2555": "\uE25A"
-  "\u2556": "\uE259"
-  "\u2557": "\uE25D"
-  "\u2558": "\uE276"
-  "\u2559": "\uE275"
-  "\u255A": "\uE26A"
-  "\u255B": "\uE260"
-  "\u255C": "\uE25F"
-  "\u255D": "\uE25E"
-  "\u255E": "\uE268"
-  "\u255F": "\uE269"
-  "\u2560": "\uE26E"
-  "\u2561": "\uE257"
-  "\u2562": "\uE258"
-  "\u2563": "\uE25B"
-  "\u2564": "\uE273"
-  "\u2565": "\uE274"
-  "\u2566": "\uE26D"
-  "\u2567": "\uE271"
-  "\u2568": "\uE272"
-  "\u2569": "\uE26C"
-  "\u256A": "\uE27A"
-  "\u256B": "\uE279"
-  "\u256C": "\uE270"
-  "\u2580": "\uE281"
-  "\u2584": "\uE27E"
-  "\u2588": "\uE27D"
-  "\u258C": "\uE27F"
-  "\u2590": "\uE280"
-  "\u2591": "\uE252"
-  "\u2592": "\uE253"
-  "\u2593": "\uE254"
-  "\u25A0": "\uE29F"
+  '!': "\uE40E"
+  '"': "\uE40F"
+  '#': "\uE410"
+  $: "\uE411"
+  '%': "\uE412"
+  '&': "\uE413"
+  '''': "\uE414"
+  (: "\uE415"
+  ): "\uE416"
+  '*': "\uE417"
+  +: "\uE418"
+  ',': "\uE419"
+  '-': "\uE41A"
+  .: "\uE41B"
+  /: "\uE41C"
+  '0': "\uE41D"
+  '1': "\uE41E"
+  '2': "\uE41F"
+  '3': "\uE420"
+  '4': "\uE421"
+  '5': "\uE422"
+  '6': "\uE423"
+  '7': "\uE424"
+  '8': "\uE425"
+  '9': "\uE426"
+  ':': "\uE427"
+  ;: "\uE428"
+  <: "\uE429"
+  '=': "\uE42A"
+  '>': "\uE42B"
+  '?': "\uE42C"
+  '@': "\uE42D"
+  A: "\uE42E"
+  B: "\uE42F"
+  C: "\uE430"
+  D: "\uE431"
+  E: "\uE432"
+  F: "\uE433"
+  G: "\uE434"
+  H: "\uE435"
+  I: "\uE436"
+  J: "\uE437"
+  K: "\uE438"
+  L: "\uE439"
+  M: "\uE43A"
+  N: "\uE43B"
+  O: "\uE43C"
+  P: "\uE43D"
+  Q: "\uE43E"
+  R: "\uE43F"
+  S: "\uE440"
+  T: "\uE441"
+  U: "\uE442"
+  V: "\uE443"
+  W: "\uE444"
+  X: "\uE445"
+  Y: "\uE446"
+  Z: "\uE447"
+  '[': "\uE448"
+  \: "\uE449"
+  ']': "\uE44A"
+  ^: "\uE44B"
+  _: "\uE44C"
+  '`': "\uE44D"
+  a: "\uE44E"
+  b: "\uE44F"
+  c: "\uE450"
+  d: "\uE451"
+  e: "\uE452"
+  f: "\uE453"
+  g: "\uE454"
+  h: "\uE455"
+  i: "\uE456"
+  j: "\uE457"
+  k: "\uE458"
+  l: "\uE459"
+  m: "\uE45A"
+  n: "\uE45B"
+  o: "\uE45C"
+  p: "\uE45D"
+  q: "\uE45E"
+  r: "\uE45F"
+  s: "\uE460"
+  t: "\uE461"
+  u: "\uE462"
+  v: "\uE463"
+  w: "\uE464"
+  x: "\uE465"
+  y: "\uE466"
+  z: "\uE467"
+  '{': "\uE468"
+  '|': "\uE469"
+  '}': "\uE46A"
+  '~': "\uE46B"
+  "\xA3": "\uE47D"
+  "\xAA": "\uE48D"
+  "\xAB": "\uE490"
+  "\xAC": "\uE48F"
+  "\xB0": "\uE4E5"
+  "\xB1": "\uE4DE"
+  "\xB2": "\uE4E9"
+  "\xBA": "\uE48E"
+  "\xBB": "\uE491"
+  "\xF7": "\uE4E3"
+  "\u0192": "\uE47E"
+  "\u207F": "\uE4E8"
+  "\u2205": "\uE4CD"
+  "\u2208": "\uE4CE"
+  "\u2219": "\uE4E6"
+  "\u221A": "\uE4E7"
+  "\u2248": "\uE4E4"
+  "\u2261": "\uE4DD"
+  "\u2264": "\uE4E0"
+  "\u2265": "\uE4DF"
+  "\u2320": "\uE4E1"
+  "\u2321": "\uE4E2"
+  "\u2500": "\uE4B1"
+  "\u2502": "\uE4A0"
+  "\u250C": "\uE4C7"
+  "\u2510": "\uE4AC"
+  "\u2514": "\uE4AD"
+  "\u2518": "\uE4C6"
+  "\u251C": "\uE4B0"
+  "\u2524": "\uE4A1"
+  "\u252C": "\uE4AF"
+  "\u2534": "\uE4AE"
+  "\u253C": "\uE4B2"
+  "\u2550": "\uE4BA"
+  "\u2551": "\uE4A7"
+  "\u2552": "\uE4C2"
+  "\u2553": "\uE4C3"
+  "\u2554": "\uE4B6"
+  "\u2555": "\uE4A5"
+  "\u2556": "\uE4A4"
+  "\u2557": "\uE4A8"
+  "\u2558": "\uE4C1"
+  "\u2559": "\uE4C0"
+  "\u255A": "\uE4B5"
+  "\u255B": "\uE4AB"
+  "\u255C": "\uE4AA"
+  "\u255D": "\uE4A9"
+  "\u255E": "\uE4B3"
+  "\u255F": "\uE4B4"
+  "\u2560": "\uE4B9"
+  "\u2561": "\uE4A2"
+  "\u2562": "\uE4A3"
+  "\u2563": "\uE4A6"
+  "\u2564": "\uE4BE"
+  "\u2565": "\uE4BF"
+  "\u2566": "\uE4B8"
+  "\u2567": "\uE4BC"
+  "\u2568": "\uE4BD"
+  "\u2569": "\uE4B7"
+  "\u256A": "\uE4C5"
+  "\u256B": "\uE4C4"
+  "\u256C": "\uE4BB"
+  "\u2580": "\uE4CC"
+  "\u2584": "\uE4C9"
+  "\u2588": "\uE4C8"
+  "\u258C": "\uE4CA"
+  "\u2590": "\uE4CB"
+  "\u2591": "\uE49D"
+  "\u2592": "\uE49E"
+  "\u2593": "\uE49F"
+  "\u25A0": "\uE4EA"
 slot/1:
-  '!': "\uE3C3"
-  '"': "\uE3C4"
-  '#': "\uE3C5"
-  $: "\uE3C6"
-  '%': "\uE3C7"
-  '&': "\uE3C8"
-  '''': "\uE3C9"
-  (: "\uE3CA"
-  ): "\uE3CB"
-  '*': "\uE3CC"
-  +: "\uE3CD"
-  ',': "\uE3CE"
-  '-': "\uE3CF"
-  .: "\uE3D0"
-  /: "\uE3D1"
-  '0': "\uE3D2"
-  '1': "\uE3D3"
-  '2': "\uE3D4"
-  '3': "\uE3D5"
-  '4': "\uE3D6"
-  '5': "\uE3D7"
-  '6': "\uE3D8"
-  '7': "\uE3D9"
-  '8': "\uE3DA"
-  '9': "\uE3DB"
-  ':': "\uE3DC"
-  ;: "\uE3DD"
-  <: "\uE3DE"
-  '=': "\uE3DF"
-  '>': "\uE3E0"
-  '?': "\uE3E1"
-  '@': "\uE3E2"
-  A: "\uE3E3"
-  B: "\uE3E4"
-  C: "\uE3E5"
-  D: "\uE3E6"
-  E: "\uE3E7"
-  F: "\uE3E8"
-  G: "\uE3E9"
-  H: "\uE3EA"
-  I: "\uE3EB"
-  J: "\uE3EC"
-  K: "\uE3ED"
-  L: "\uE3EE"
-  M: "\uE3EF"
-  N: "\uE3F0"
-  O: "\uE3F1"
-  P: "\uE3F2"
-  Q: "\uE3F3"
-  R: "\uE3F4"
-  S: "\uE3F5"
-  T: "\uE3F6"
-  U: "\uE3F7"
-  V: "\uE3F8"
-  W: "\uE3F9"
-  X: "\uE3FA"
-  Y: "\uE3FB"
-  Z: "\uE3FC"
-  '[': "\uE3FD"
-  \: "\uE3FE"
-  ']': "\uE3FF"
-  ^: "\uE400"
-  _: "\uE401"
-  '`': "\uE402"
-  a: "\uE403"
-  b: "\uE404"
-  c: "\uE405"
-  d: "\uE406"
-  e: "\uE407"
-  f: "\uE408"
-  g: "\uE409"
-  h: "\uE40A"
-  i: "\uE40B"
-  j: "\uE40C"
-  k: "\uE40D"
-  l: "\uE40E"
-  m: "\uE40F"
-  n: "\uE410"
-  o: "\uE411"
-  p: "\uE412"
-  q: "\uE413"
-  r: "\uE414"
-  s: "\uE415"
-  t: "\uE416"
-  u: "\uE417"
-  v: "\uE418"
-  w: "\uE419"
-  x: "\uE41A"
-  y: "\uE41B"
-  z: "\uE41C"
-  '{': "\uE41D"
-  '|': "\uE41E"
-  '}': "\uE41F"
-  '~': "\uE420"
-  "\xA3": "\uE432"
-  "\xAA": "\uE442"
-  "\xAB": "\uE445"
-  "\xAC": "\uE444"
-  "\xB0": "\uE49A"
-  "\xB1": "\uE493"
-  "\xB2": "\uE49E"
-  "\xBA": "\uE443"
-  "\xBB": "\uE446"
-  "\xF7": "\uE498"
-  "\u0192": "\uE433"
-  "\u207F": "\uE49D"
-  "\u2205": "\uE482"
-  "\u2208": "\uE483"
-  "\u2219": "\uE49B"
-  "\u221A": "\uE49C"
-  "\u2248": "\uE499"
-  "\u2261": "\uE492"
-  "\u2264": "\uE495"
-  "\u2265": "\uE494"
-  "\u2320": "\uE496"
-  "\u2321": "\uE497"
-  "\u2500": "\uE466"
-  "\u2502": "\uE455"
-  "\u250C": "\uE47C"
-  "\u2510": "\uE461"
-  "\u2514": "\uE462"
-  "\u2518": "\uE47B"
-  "\u251C": "\uE465"
-  "\u2524": "\uE456"
-  "\u252C": "\uE464"
-  "\u2534": "\uE463"
-  "\u253C": "\uE467"
-  "\u2550": "\uE46F"
-  "\u2551": "\uE45C"
-  "\u2552": "\uE477"
-  "\u2553": "\uE478"
-  "\u2554": "\uE46B"
-  "\u2555": "\uE45A"
-  "\u2556": "\uE459"
-  "\u2557": "\uE45D"
-  "\u2558": "\uE476"
-  "\u2559": "\uE475"
-  "\u255A": "\uE46A"
-  "\u255B": "\uE460"
-  "\u255C": "\uE45F"
-  "\u255D": "\uE45E"
-  "\u255E": "\uE468"
-  "\u255F": "\uE469"
-  "\u2560": "\uE46E"
-  "\u2561": "\uE457"
-  "\u2562": "\uE458"
-  "\u2563": "\uE45B"
-  "\u2564": "\uE473"
-  "\u2565": "\uE474"
-  "\u2566": "\uE46D"
-  "\u2567": "\uE471"
-  "\u2568": "\uE472"
-  "\u2569": "\uE46C"
-  "\u256A": "\uE47A"
-  "\u256B": "\uE479"
-  "\u256C": "\uE470"
-  "\u2580": "\uE481"
-  "\u2584": "\uE47E"
-  "\u2588": "\uE47D"
-  "\u258C": "\uE47F"
-  "\u2590": "\uE480"
-  "\u2591": "\uE452"
-  "\u2592": "\uE453"
-  "\u2593": "\uE454"
-  "\u25A0": "\uE49F"
+  '!': "\uE60E"
+  '"': "\uE60F"
+  '#': "\uE610"
+  $: "\uE611"
+  '%': "\uE612"
+  '&': "\uE613"
+  '''': "\uE614"
+  (: "\uE615"
+  ): "\uE616"
+  '*': "\uE617"
+  +: "\uE618"
+  ',': "\uE619"
+  '-': "\uE61A"
+  .: "\uE61B"
+  /: "\uE61C"
+  '0': "\uE61D"
+  '1': "\uE61E"
+  '2': "\uE61F"
+  '3': "\uE620"
+  '4': "\uE621"
+  '5': "\uE622"
+  '6': "\uE623"
+  '7': "\uE624"
+  '8': "\uE625"
+  '9': "\uE626"
+  ':': "\uE627"
+  ;: "\uE628"
+  <: "\uE629"
+  '=': "\uE62A"
+  '>': "\uE62B"
+  '?': "\uE62C"
+  '@': "\uE62D"
+  A: "\uE62E"
+  B: "\uE62F"
+  C: "\uE630"
+  D: "\uE631"
+  E: "\uE632"
+  F: "\uE633"
+  G: "\uE634"
+  H: "\uE635"
+  I: "\uE636"
+  J: "\uE637"
+  K: "\uE638"
+  L: "\uE639"
+  M: "\uE63A"
+  N: "\uE63B"
+  O: "\uE63C"
+  P: "\uE63D"
+  Q: "\uE63E"
+  R: "\uE63F"
+  S: "\uE640"
+  T: "\uE641"
+  U: "\uE642"
+  V: "\uE643"
+  W: "\uE644"
+  X: "\uE645"
+  Y: "\uE646"
+  Z: "\uE647"
+  '[': "\uE648"
+  \: "\uE649"
+  ']': "\uE64A"
+  ^: "\uE64B"
+  _: "\uE64C"
+  '`': "\uE64D"
+  a: "\uE64E"
+  b: "\uE64F"
+  c: "\uE650"
+  d: "\uE651"
+  e: "\uE652"
+  f: "\uE653"
+  g: "\uE654"
+  h: "\uE655"
+  i: "\uE656"
+  j: "\uE657"
+  k: "\uE658"
+  l: "\uE659"
+  m: "\uE65A"
+  n: "\uE65B"
+  o: "\uE65C"
+  p: "\uE65D"
+  q: "\uE65E"
+  r: "\uE65F"
+  s: "\uE660"
+  t: "\uE661"
+  u: "\uE662"
+  v: "\uE663"
+  w: "\uE664"
+  x: "\uE665"
+  y: "\uE666"
+  z: "\uE667"
+  '{': "\uE668"
+  '|': "\uE669"
+  '}': "\uE66A"
+  '~': "\uE66B"
+  "\xA3": "\uE67D"
+  "\xAA": "\uE68D"
+  "\xAB": "\uE690"
+  "\xAC": "\uE68F"
+  "\xB0": "\uE6E5"
+  "\xB1": "\uE6DE"
+  "\xB2": "\uE6E9"
+  "\xBA": "\uE68E"
+  "\xBB": "\uE691"
+  "\xF7": "\uE6E3"
+  "\u0192": "\uE67E"
+  "\u207F": "\uE6E8"
+  "\u2205": "\uE6CD"
+  "\u2208": "\uE6CE"
+  "\u2219": "\uE6E6"
+  "\u221A": "\uE6E7"
+  "\u2248": "\uE6E4"
+  "\u2261": "\uE6DD"
+  "\u2264": "\uE6E0"
+  "\u2265": "\uE6DF"
+  "\u2320": "\uE6E1"
+  "\u2321": "\uE6E2"
+  "\u2500": "\uE6B1"
+  "\u2502": "\uE6A0"
+  "\u250C": "\uE6C7"
+  "\u2510": "\uE6AC"
+  "\u2514": "\uE6AD"
+  "\u2518": "\uE6C6"
+  "\u251C": "\uE6B0"
+  "\u2524": "\uE6A1"
+  "\u252C": "\uE6AF"
+  "\u2534": "\uE6AE"
+  "\u253C": "\uE6B2"
+  "\u2550": "\uE6BA"
+  "\u2551": "\uE6A7"
+  "\u2552": "\uE6C2"
+  "\u2553": "\uE6C3"
+  "\u2554": "\uE6B6"
+  "\u2555": "\uE6A5"
+  "\u2556": "\uE6A4"
+  "\u2557": "\uE6A8"
+  "\u2558": "\uE6C1"
+  "\u2559": "\uE6C0"
+  "\u255A": "\uE6B5"
+  "\u255B": "\uE6AB"
+  "\u255C": "\uE6AA"
+  "\u255D": "\uE6A9"
+  "\u255E": "\uE6B3"
+  "\u255F": "\uE6B4"
+  "\u2560": "\uE6B9"
+  "\u2561": "\uE6A2"
+  "\u2562": "\uE6A3"
+  "\u2563": "\uE6A6"
+  "\u2564": "\uE6BE"
+  "\u2565": "\uE6BF"
+  "\u2566": "\uE6B8"
+  "\u2567": "\uE6BC"
+  "\u2568": "\uE6BD"
+  "\u2569": "\uE6B7"
+  "\u256A": "\uE6C5"
+  "\u256B": "\uE6C4"
+  "\u256C": "\uE6BB"
+  "\u2580": "\uE6CC"
+  "\u2584": "\uE6C9"
+  "\u2588": "\uE6C8"
+  "\u258C": "\uE6CA"
+  "\u2590": "\uE6CB"
+  "\u2591": "\uE69D"
+  "\u2592": "\uE69E"
+  "\u2593": "\uE69F"
+  "\u25A0": "\uE6EA"
 slot/2:
-  '!': "\uE5C3"
-  '"': "\uE5C4"
-  '#': "\uE5C5"
-  $: "\uE5C6"
-  '%': "\uE5C7"
-  '&': "\uE5C8"
-  '''': "\uE5C9"
-  (: "\uE5CA"
-  ): "\uE5CB"
-  '*': "\uE5CC"
-  +: "\uE5CD"
-  ',': "\uE5CE"
-  '-': "\uE5CF"
-  .: "\uE5D0"
-  /: "\uE5D1"
-  '0': "\uE5D2"
-  '1': "\uE5D3"
-  '2': "\uE5D4"
-  '3': "\uE5D5"
-  '4': "\uE5D6"
-  '5': "\uE5D7"
-  '6': "\uE5D8"
-  '7': "\uE5D9"
-  '8': "\uE5DA"
-  '9': "\uE5DB"
-  ':': "\uE5DC"
-  ;: "\uE5DD"
-  <: "\uE5DE"
-  '=': "\uE5DF"
-  '>': "\uE5E0"
-  '?': "\uE5E1"
-  '@': "\uE5E2"
-  A: "\uE5E3"
-  B: "\uE5E4"
-  C: "\uE5E5"
-  D: "\uE5E6"
-  E: "\uE5E7"
-  F: "\uE5E8"
-  G: "\uE5E9"
-  H: "\uE5EA"
-  I: "\uE5EB"
-  J: "\uE5EC"
-  K: "\uE5ED"
-  L: "\uE5EE"
-  M: "\uE5EF"
-  N: "\uE5F0"
-  O: "\uE5F1"
-  P: "\uE5F2"
-  Q: "\uE5F3"
-  R: "\uE5F4"
-  S: "\uE5F5"
-  T: "\uE5F6"
-  U: "\uE5F7"
-  V: "\uE5F8"
-  W: "\uE5F9"
-  X: "\uE5FA"
-  Y: "\uE5FB"
-  Z: "\uE5FC"
-  '[': "\uE5FD"
-  \: "\uE5FE"
-  ']': "\uE5FF"
-  ^: "\uE600"
-  _: "\uE601"
-  '`': "\uE602"
-  a: "\uE603"
-  b: "\uE604"
-  c: "\uE605"
-  d: "\uE606"
-  e: "\uE607"
-  f: "\uE608"
-  g: "\uE609"
-  h: "\uE60A"
-  i: "\uE60B"
-  j: "\uE60C"
-  k: "\uE60D"
-  l: "\uE60E"
-  m: "\uE60F"
-  n: "\uE610"
-  o: "\uE611"
-  p: "\uE612"
-  q: "\uE613"
-  r: "\uE614"
-  s: "\uE615"
-  t: "\uE616"
-  u: "\uE617"
-  v: "\uE618"
-  w: "\uE619"
-  x: "\uE61A"
-  y: "\uE61B"
-  z: "\uE61C"
-  '{': "\uE61D"
-  '|': "\uE61E"
-  '}': "\uE61F"
-  '~': "\uE620"
-  "\xA3": "\uE632"
-  "\xAA": "\uE642"
-  "\xAB": "\uE645"
-  "\xAC": "\uE644"
-  "\xB0": "\uE69A"
-  "\xB1": "\uE693"
-  "\xB2": "\uE69E"
-  "\xBA": "\uE643"
-  "\xBB": "\uE646"
-  "\xF7": "\uE698"
-  "\u0192": "\uE633"
-  "\u207F": "\uE69D"
-  "\u2205": "\uE682"
-  "\u2208": "\uE683"
-  "\u2219": "\uE69B"
-  "\u221A": "\uE69C"
-  "\u2248": "\uE699"
-  "\u2261": "\uE692"
-  "\u2264": "\uE695"
-  "\u2265": "\uE694"
-  "\u2320": "\uE696"
-  "\u2321": "\uE697"
-  "\u2500": "\uE666"
-  "\u2502": "\uE655"
-  "\u250C": "\uE67C"
-  "\u2510": "\uE661"
-  "\u2514": "\uE662"
-  "\u2518": "\uE67B"
-  "\u251C": "\uE665"
-  "\u2524": "\uE656"
-  "\u252C": "\uE664"
-  "\u2534": "\uE663"
-  "\u253C": "\uE667"
-  "\u2550": "\uE66F"
-  "\u2551": "\uE65C"
-  "\u2552": "\uE677"
-  "\u2553": "\uE678"
-  "\u2554": "\uE66B"
-  "\u2555": "\uE65A"
-  "\u2556": "\uE659"
-  "\u2557": "\uE65D"
-  "\u2558": "\uE676"
-  "\u2559": "\uE675"
-  "\u255A": "\uE66A"
-  "\u255B": "\uE660"
-  "\u255C": "\uE65F"
-  "\u255D": "\uE65E"
-  "\u255E": "\uE668"
-  "\u255F": "\uE669"
-  "\u2560": "\uE66E"
-  "\u2561": "\uE657"
-  "\u2562": "\uE658"
-  "\u2563": "\uE65B"
-  "\u2564": "\uE673"
-  "\u2565": "\uE674"
-  "\u2566": "\uE66D"
-  "\u2567": "\uE671"
-  "\u2568": "\uE672"
-  "\u2569": "\uE66C"
-  "\u256A": "\uE67A"
-  "\u256B": "\uE679"
-  "\u256C": "\uE670"
-  "\u2580": "\uE681"
-  "\u2584": "\uE67E"
-  "\u2588": "\uE67D"
-  "\u258C": "\uE67F"
-  "\u2590": "\uE680"
-  "\u2591": "\uE652"
-  "\u2592": "\uE653"
-  "\u2593": "\uE654"
-  "\u25A0": "\uE69F"
+  '!': "\uE80E"
+  '"': "\uE80F"
+  '#': "\uE810"
+  $: "\uE811"
+  '%': "\uE812"
+  '&': "\uE813"
+  '''': "\uE814"
+  (: "\uE815"
+  ): "\uE816"
+  '*': "\uE817"
+  +: "\uE818"
+  ',': "\uE819"
+  '-': "\uE81A"
+  .: "\uE81B"
+  /: "\uE81C"
+  '0': "\uE81D"
+  '1': "\uE81E"
+  '2': "\uE81F"
+  '3': "\uE820"
+  '4': "\uE821"
+  '5': "\uE822"
+  '6': "\uE823"
+  '7': "\uE824"
+  '8': "\uE825"
+  '9': "\uE826"
+  ':': "\uE827"
+  ;: "\uE828"
+  <: "\uE829"
+  '=': "\uE82A"
+  '>': "\uE82B"
+  '?': "\uE82C"
+  '@': "\uE82D"
+  A: "\uE82E"
+  B: "\uE82F"
+  C: "\uE830"
+  D: "\uE831"
+  E: "\uE832"
+  F: "\uE833"
+  G: "\uE834"
+  H: "\uE835"
+  I: "\uE836"
+  J: "\uE837"
+  K: "\uE838"
+  L: "\uE839"
+  M: "\uE83A"
+  N: "\uE83B"
+  O: "\uE83C"
+  P: "\uE83D"
+  Q: "\uE83E"
+  R: "\uE83F"
+  S: "\uE840"
+  T: "\uE841"
+  U: "\uE842"
+  V: "\uE843"
+  W: "\uE844"
+  X: "\uE845"
+  Y: "\uE846"
+  Z: "\uE847"
+  '[': "\uE848"
+  \: "\uE849"
+  ']': "\uE84A"
+  ^: "\uE84B"
+  _: "\uE84C"
+  '`': "\uE84D"
+  a: "\uE84E"
+  b: "\uE84F"
+  c: "\uE850"
+  d: "\uE851"
+  e: "\uE852"
+  f: "\uE853"
+  g: "\uE854"
+  h: "\uE855"
+  i: "\uE856"
+  j: "\uE857"
+  k: "\uE858"
+  l: "\uE859"
+  m: "\uE85A"
+  n: "\uE85B"
+  o: "\uE85C"
+  p: "\uE85D"
+  q: "\uE85E"
+  r: "\uE85F"
+  s: "\uE860"
+  t: "\uE861"
+  u: "\uE862"
+  v: "\uE863"
+  w: "\uE864"
+  x: "\uE865"
+  y: "\uE866"
+  z: "\uE867"
+  '{': "\uE868"
+  '|': "\uE869"
+  '}': "\uE86A"
+  '~': "\uE86B"
+  "\xA3": "\uE87D"
+  "\xAA": "\uE88D"
+  "\xAB": "\uE890"
+  "\xAC": "\uE88F"
+  "\xB0": "\uE8E5"
+  "\xB1": "\uE8DE"
+  "\xB2": "\uE8E9"
+  "\xBA": "\uE88E"
+  "\xBB": "\uE891"
+  "\xF7": "\uE8E3"
+  "\u0192": "\uE87E"
+  "\u207F": "\uE8E8"
+  "\u2205": "\uE8CD"
+  "\u2208": "\uE8CE"
+  "\u2219": "\uE8E6"
+  "\u221A": "\uE8E7"
+  "\u2248": "\uE8E4"
+  "\u2261": "\uE8DD"
+  "\u2264": "\uE8E0"
+  "\u2265": "\uE8DF"
+  "\u2320": "\uE8E1"
+  "\u2321": "\uE8E2"
+  "\u2500": "\uE8B1"
+  "\u2502": "\uE8A0"
+  "\u250C": "\uE8C7"
+  "\u2510": "\uE8AC"
+  "\u2514": "\uE8AD"
+  "\u2518": "\uE8C6"
+  "\u251C": "\uE8B0"
+  "\u2524": "\uE8A1"
+  "\u252C": "\uE8AF"
+  "\u2534": "\uE8AE"
+  "\u253C": "\uE8B2"
+  "\u2550": "\uE8BA"
+  "\u2551": "\uE8A7"
+  "\u2552": "\uE8C2"
+  "\u2553": "\uE8C3"
+  "\u2554": "\uE8B6"
+  "\u2555": "\uE8A5"
+  "\u2556": "\uE8A4"
+  "\u2557": "\uE8A8"
+  "\u2558": "\uE8C1"
+  "\u2559": "\uE8C0"
+  "\u255A": "\uE8B5"
+  "\u255B": "\uE8AB"
+  "\u255C": "\uE8AA"
+  "\u255D": "\uE8A9"
+  "\u255E": "\uE8B3"
+  "\u255F": "\uE8B4"
+  "\u2560": "\uE8B9"
+  "\u2561": "\uE8A2"
+  "\u2562": "\uE8A3"
+  "\u2563": "\uE8A6"
+  "\u2564": "\uE8BE"
+  "\u2565": "\uE8BF"
+  "\u2566": "\uE8B8"
+  "\u2567": "\uE8BC"
+  "\u2568": "\uE8BD"
+  "\u2569": "\uE8B7"
+  "\u256A": "\uE8C5"
+  "\u256B": "\uE8C4"
+  "\u256C": "\uE8BB"
+  "\u2580": "\uE8CC"
+  "\u2584": "\uE8C9"
+  "\u2588": "\uE8C8"
+  "\u258C": "\uE8CA"
+  "\u2590": "\uE8CB"
+  "\u2591": "\uE89D"
+  "\u2592": "\uE89E"
+  "\u2593": "\uE89F"
+  "\u25A0": "\uE8EA"
 slot/3:
-  '!': "\uE7C3"
-  '"': "\uE7C4"
-  '#': "\uE7C5"
-  $: "\uE7C6"
-  '%': "\uE7C7"
-  '&': "\uE7C8"
-  '''': "\uE7C9"
-  (: "\uE7CA"
-  ): "\uE7CB"
-  '*': "\uE7CC"
-  +: "\uE7CD"
-  ',': "\uE7CE"
-  '-': "\uE7CF"
-  .: "\uE7D0"
-  /: "\uE7D1"
-  '0': "\uE7D2"
-  '1': "\uE7D3"
-  '2': "\uE7D4"
-  '3': "\uE7D5"
-  '4': "\uE7D6"
-  '5': "\uE7D7"
-  '6': "\uE7D8"
-  '7': "\uE7D9"
-  '8': "\uE7DA"
-  '9': "\uE7DB"
-  ':': "\uE7DC"
-  ;: "\uE7DD"
-  <: "\uE7DE"
-  '=': "\uE7DF"
-  '>': "\uE7E0"
-  '?': "\uE7E1"
-  '@': "\uE7E2"
-  A: "\uE7E3"
-  B: "\uE7E4"
-  C: "\uE7E5"
-  D: "\uE7E6"
-  E: "\uE7E7"
-  F: "\uE7E8"
-  G: "\uE7E9"
-  H: "\uE7EA"
-  I: "\uE7EB"
-  J: "\uE7EC"
-  K: "\uE7ED"
-  L: "\uE7EE"
-  M: "\uE7EF"
-  N: "\uE7F0"
-  O: "\uE7F1"
-  P: "\uE7F2"
-  Q: "\uE7F3"
-  R: "\uE7F4"
-  S: "\uE7F5"
-  T: "\uE7F6"
-  U: "\uE7F7"
-  V: "\uE7F8"
-  W: "\uE7F9"
-  X: "\uE7FA"
-  Y: "\uE7FB"
-  Z: "\uE7FC"
-  '[': "\uE7FD"
-  \: "\uE7FE"
-  ']': "\uE7FF"
-  ^: "\uE800"
-  _: "\uE801"
-  '`': "\uE802"
-  a: "\uE803"
-  b: "\uE804"
-  c: "\uE805"
-  d: "\uE806"
-  e: "\uE807"
-  f: "\uE808"
-  g: "\uE809"
-  h: "\uE80A"
-  i: "\uE80B"
-  j: "\uE80C"
-  k: "\uE80D"
-  l: "\uE80E"
-  m: "\uE80F"
-  n: "\uE810"
-  o: "\uE811"
-  p: "\uE812"
-  q: "\uE813"
-  r: "\uE814"
-  s: "\uE815"
-  t: "\uE816"
-  u: "\uE817"
-  v: "\uE818"
-  w: "\uE819"
-  x: "\uE81A"
-  y: "\uE81B"
-  z: "\uE81C"
-  '{': "\uE81D"
-  '|': "\uE81E"
-  '}': "\uE81F"
-  '~': "\uE820"
-  "\xA3": "\uE832"
-  "\xAA": "\uE842"
-  "\xAB": "\uE845"
-  "\xAC": "\uE844"
-  "\xB0": "\uE89A"
-  "\xB1": "\uE893"
-  "\xB2": "\uE89E"
-  "\xBA": "\uE843"
-  "\xBB": "\uE846"
-  "\xF7": "\uE898"
-  "\u0192": "\uE833"
-  "\u207F": "\uE89D"
-  "\u2205": "\uE882"
-  "\u2208": "\uE883"
-  "\u2219": "\uE89B"
-  "\u221A": "\uE89C"
-  "\u2248": "\uE899"
-  "\u2261": "\uE892"
-  "\u2264": "\uE895"
-  "\u2265": "\uE894"
-  "\u2320": "\uE896"
-  "\u2321": "\uE897"
-  "\u2500": "\uE866"
-  "\u2502": "\uE855"
-  "\u250C": "\uE87C"
-  "\u2510": "\uE861"
-  "\u2514": "\uE862"
-  "\u2518": "\uE87B"
-  "\u251C": "\uE865"
-  "\u2524": "\uE856"
-  "\u252C": "\uE864"
-  "\u2534": "\uE863"
-  "\u253C": "\uE867"
-  "\u2550": "\uE86F"
-  "\u2551": "\uE85C"
-  "\u2552": "\uE877"
-  "\u2553": "\uE878"
-  "\u2554": "\uE86B"
-  "\u2555": "\uE85A"
-  "\u2556": "\uE859"
-  "\u2557": "\uE85D"
-  "\u2558": "\uE876"
-  "\u2559": "\uE875"
-  "\u255A": "\uE86A"
-  "\u255B": "\uE860"
-  "\u255C": "\uE85F"
-  "\u255D": "\uE85E"
-  "\u255E": "\uE868"
-  "\u255F": "\uE869"
-  "\u2560": "\uE86E"
-  "\u2561": "\uE857"
-  "\u2562": "\uE858"
-  "\u2563": "\uE85B"
-  "\u2564": "\uE873"
-  "\u2565": "\uE874"
-  "\u2566": "\uE86D"
-  "\u2567": "\uE871"
-  "\u2568": "\uE872"
-  "\u2569": "\uE86C"
-  "\u256A": "\uE87A"
-  "\u256B": "\uE879"
-  "\u256C": "\uE870"
-  "\u2580": "\uE881"
-  "\u2584": "\uE87E"
-  "\u2588": "\uE87D"
-  "\u258C": "\uE87F"
-  "\u2590": "\uE880"
-  "\u2591": "\uE852"
-  "\u2592": "\uE853"
-  "\u2593": "\uE854"
-  "\u25A0": "\uE89F"
+  '!': "\uEA0E"
+  '"': "\uEA0F"
+  '#': "\uEA10"
+  $: "\uEA11"
+  '%': "\uEA12"
+  '&': "\uEA13"
+  '''': "\uEA14"
+  (: "\uEA15"
+  ): "\uEA16"
+  '*': "\uEA17"
+  +: "\uEA18"
+  ',': "\uEA19"
+  '-': "\uEA1A"
+  .: "\uEA1B"
+  /: "\uEA1C"
+  '0': "\uEA1D"
+  '1': "\uEA1E"
+  '2': "\uEA1F"
+  '3': "\uEA20"
+  '4': "\uEA21"
+  '5': "\uEA22"
+  '6': "\uEA23"
+  '7': "\uEA24"
+  '8': "\uEA25"
+  '9': "\uEA26"
+  ':': "\uEA27"
+  ;: "\uEA28"
+  <: "\uEA29"
+  '=': "\uEA2A"
+  '>': "\uEA2B"
+  '?': "\uEA2C"
+  '@': "\uEA2D"
+  A: "\uEA2E"
+  B: "\uEA2F"
+  C: "\uEA30"
+  D: "\uEA31"
+  E: "\uEA32"
+  F: "\uEA33"
+  G: "\uEA34"
+  H: "\uEA35"
+  I: "\uEA36"
+  J: "\uEA37"
+  K: "\uEA38"
+  L: "\uEA39"
+  M: "\uEA3A"
+  N: "\uEA3B"
+  O: "\uEA3C"
+  P: "\uEA3D"
+  Q: "\uEA3E"
+  R: "\uEA3F"
+  S: "\uEA40"
+  T: "\uEA41"
+  U: "\uEA42"
+  V: "\uEA43"
+  W: "\uEA44"
+  X: "\uEA45"
+  Y: "\uEA46"
+  Z: "\uEA47"
+  '[': "\uEA48"
+  \: "\uEA49"
+  ']': "\uEA4A"
+  ^: "\uEA4B"
+  _: "\uEA4C"
+  '`': "\uEA4D"
+  a: "\uEA4E"
+  b: "\uEA4F"
+  c: "\uEA50"
+  d: "\uEA51"
+  e: "\uEA52"
+  f: "\uEA53"
+  g: "\uEA54"
+  h: "\uEA55"
+  i: "\uEA56"
+  j: "\uEA57"
+  k: "\uEA58"
+  l: "\uEA59"
+  m: "\uEA5A"
+  n: "\uEA5B"
+  o: "\uEA5C"
+  p: "\uEA5D"
+  q: "\uEA5E"
+  r: "\uEA5F"
+  s: "\uEA60"
+  t: "\uEA61"
+  u: "\uEA62"
+  v: "\uEA63"
+  w: "\uEA64"
+  x: "\uEA65"
+  y: "\uEA66"
+  z: "\uEA67"
+  '{': "\uEA68"
+  '|': "\uEA69"
+  '}': "\uEA6A"
+  '~': "\uEA6B"
+  "\xA3": "\uEA7D"
+  "\xAA": "\uEA8D"
+  "\xAB": "\uEA90"
+  "\xAC": "\uEA8F"
+  "\xB0": "\uEAE5"
+  "\xB1": "\uEADE"
+  "\xB2": "\uEAE9"
+  "\xBA": "\uEA8E"
+  "\xBB": "\uEA91"
+  "\xF7": "\uEAE3"
+  "\u0192": "\uEA7E"
+  "\u207F": "\uEAE8"
+  "\u2205": "\uEACD"
+  "\u2208": "\uEACE"
+  "\u2219": "\uEAE6"
+  "\u221A": "\uEAE7"
+  "\u2248": "\uEAE4"
+  "\u2261": "\uEADD"
+  "\u2264": "\uEAE0"
+  "\u2265": "\uEADF"
+  "\u2320": "\uEAE1"
+  "\u2321": "\uEAE2"
+  "\u2500": "\uEAB1"
+  "\u2502": "\uEAA0"
+  "\u250C": "\uEAC7"
+  "\u2510": "\uEAAC"
+  "\u2514": "\uEAAD"
+  "\u2518": "\uEAC6"
+  "\u251C": "\uEAB0"
+  "\u2524": "\uEAA1"
+  "\u252C": "\uEAAF"
+  "\u2534": "\uEAAE"
+  "\u253C": "\uEAB2"
+  "\u2550": "\uEABA"
+  "\u2551": "\uEAA7"
+  "\u2552": "\uEAC2"
+  "\u2553": "\uEAC3"
+  "\u2554": "\uEAB6"
+  "\u2555": "\uEAA5"
+  "\u2556": "\uEAA4"
+  "\u2557": "\uEAA8"
+  "\u2558": "\uEAC1"
+  "\u2559": "\uEAC0"
+  "\u255A": "\uEAB5"
+  "\u255B": "\uEAAB"
+  "\u255C": "\uEAAA"
+  "\u255D": "\uEAA9"
+  "\u255E": "\uEAB3"
+  "\u255F": "\uEAB4"
+  "\u2560": "\uEAB9"
+  "\u2561": "\uEAA2"
+  "\u2562": "\uEAA3"
+  "\u2563": "\uEAA6"
+  "\u2564": "\uEABE"
+  "\u2565": "\uEABF"
+  "\u2566": "\uEAB8"
+  "\u2567": "\uEABC"
+  "\u2568": "\uEABD"
+  "\u2569": "\uEAB7"
+  "\u256A": "\uEAC5"
+  "\u256B": "\uEAC4"
+  "\u256C": "\uEABB"
+  "\u2580": "\uEACC"
+  "\u2584": "\uEAC9"
+  "\u2588": "\uEAC8"
+  "\u258C": "\uEACA"
+  "\u2590": "\uEACB"
+  "\u2591": "\uEA9D"
+  "\u2592": "\uEA9E"
+  "\u2593": "\uEA9F"
+  "\u25A0": "\uEAEA"
 slot/4:
-  '!': "\uE9C3"
-  '"': "\uE9C4"
-  '#': "\uE9C5"
-  $: "\uE9C6"
-  '%': "\uE9C7"
-  '&': "\uE9C8"
-  '''': "\uE9C9"
-  (: "\uE9CA"
-  ): "\uE9CB"
-  '*': "\uE9CC"
-  +: "\uE9CD"
-  ',': "\uE9CE"
-  '-': "\uE9CF"
-  .: "\uE9D0"
-  /: "\uE9D1"
-  '0': "\uE9D2"
-  '1': "\uE9D3"
-  '2': "\uE9D4"
-  '3': "\uE9D5"
-  '4': "\uE9D6"
-  '5': "\uE9D7"
-  '6': "\uE9D8"
-  '7': "\uE9D9"
-  '8': "\uE9DA"
-  '9': "\uE9DB"
-  ':': "\uE9DC"
-  ;: "\uE9DD"
-  <: "\uE9DE"
-  '=': "\uE9DF"
-  '>': "\uE9E0"
-  '?': "\uE9E1"
-  '@': "\uE9E2"
-  A: "\uE9E3"
-  B: "\uE9E4"
-  C: "\uE9E5"
-  D: "\uE9E6"
-  E: "\uE9E7"
-  F: "\uE9E8"
-  G: "\uE9E9"
-  H: "\uE9EA"
-  I: "\uE9EB"
-  J: "\uE9EC"
-  K: "\uE9ED"
-  L: "\uE9EE"
-  M: "\uE9EF"
-  N: "\uE9F0"
-  O: "\uE9F1"
-  P: "\uE9F2"
-  Q: "\uE9F3"
-  R: "\uE9F4"
-  S: "\uE9F5"
-  T: "\uE9F6"
-  U: "\uE9F7"
-  V: "\uE9F8"
-  W: "\uE9F9"
-  X: "\uE9FA"
-  Y: "\uE9FB"
-  Z: "\uE9FC"
-  '[': "\uE9FD"
-  \: "\uE9FE"
-  ']': "\uE9FF"
-  ^: "\uEA00"
-  _: "\uEA01"
-  '`': "\uEA02"
-  a: "\uEA03"
-  b: "\uEA04"
-  c: "\uEA05"
-  d: "\uEA06"
-  e: "\uEA07"
-  f: "\uEA08"
-  g: "\uEA09"
-  h: "\uEA0A"
-  i: "\uEA0B"
-  j: "\uEA0C"
-  k: "\uEA0D"
-  l: "\uEA0E"
-  m: "\uEA0F"
-  n: "\uEA10"
-  o: "\uEA11"
-  p: "\uEA12"
-  q: "\uEA13"
-  r: "\uEA14"
-  s: "\uEA15"
-  t: "\uEA16"
-  u: "\uEA17"
-  v: "\uEA18"
-  w: "\uEA19"
-  x: "\uEA1A"
-  y: "\uEA1B"
-  z: "\uEA1C"
-  '{': "\uEA1D"
-  '|': "\uEA1E"
-  '}': "\uEA1F"
-  '~': "\uEA20"
-  "\xA3": "\uEA32"
-  "\xAA": "\uEA42"
-  "\xAB": "\uEA45"
-  "\xAC": "\uEA44"
-  "\xB0": "\uEA9A"
-  "\xB1": "\uEA93"
-  "\xB2": "\uEA9E"
-  "\xBA": "\uEA43"
-  "\xBB": "\uEA46"
-  "\xF7": "\uEA98"
-  "\u0192": "\uEA33"
-  "\u207F": "\uEA9D"
-  "\u2205": "\uEA82"
-  "\u2208": "\uEA83"
-  "\u2219": "\uEA9B"
-  "\u221A": "\uEA9C"
-  "\u2248": "\uEA99"
-  "\u2261": "\uEA92"
-  "\u2264": "\uEA95"
-  "\u2265": "\uEA94"
-  "\u2320": "\uEA96"
-  "\u2321": "\uEA97"
-  "\u2500": "\uEA66"
-  "\u2502": "\uEA55"
-  "\u250C": "\uEA7C"
-  "\u2510": "\uEA61"
-  "\u2514": "\uEA62"
-  "\u2518": "\uEA7B"
-  "\u251C": "\uEA65"
-  "\u2524": "\uEA56"
-  "\u252C": "\uEA64"
-  "\u2534": "\uEA63"
-  "\u253C": "\uEA67"
-  "\u2550": "\uEA6F"
-  "\u2551": "\uEA5C"
-  "\u2552": "\uEA77"
-  "\u2553": "\uEA78"
-  "\u2554": "\uEA6B"
-  "\u2555": "\uEA5A"
-  "\u2556": "\uEA59"
-  "\u2557": "\uEA5D"
-  "\u2558": "\uEA76"
-  "\u2559": "\uEA75"
-  "\u255A": "\uEA6A"
-  "\u255B": "\uEA60"
-  "\u255C": "\uEA5F"
-  "\u255D": "\uEA5E"
-  "\u255E": "\uEA68"
-  "\u255F": "\uEA69"
-  "\u2560": "\uEA6E"
-  "\u2561": "\uEA57"
-  "\u2562": "\uEA58"
-  "\u2563": "\uEA5B"
-  "\u2564": "\uEA73"
-  "\u2565": "\uEA74"
-  "\u2566": "\uEA6D"
-  "\u2567": "\uEA71"
-  "\u2568": "\uEA72"
-  "\u2569": "\uEA6C"
-  "\u256A": "\uEA7A"
-  "\u256B": "\uEA79"
-  "\u256C": "\uEA70"
-  "\u2580": "\uEA81"
-  "\u2584": "\uEA7E"
-  "\u2588": "\uEA7D"
-  "\u258C": "\uEA7F"
-  "\u2590": "\uEA80"
-  "\u2591": "\uEA52"
-  "\u2592": "\uEA53"
-  "\u2593": "\uEA54"
-  "\u25A0": "\uEA9F"
+  '!': "\uEC0E"
+  '"': "\uEC0F"
+  '#': "\uEC10"
+  $: "\uEC11"
+  '%': "\uEC12"
+  '&': "\uEC13"
+  '''': "\uEC14"
+  (: "\uEC15"
+  ): "\uEC16"
+  '*': "\uEC17"
+  +: "\uEC18"
+  ',': "\uEC19"
+  '-': "\uEC1A"
+  .: "\uEC1B"
+  /: "\uEC1C"
+  '0': "\uEC1D"
+  '1': "\uEC1E"
+  '2': "\uEC1F"
+  '3': "\uEC20"
+  '4': "\uEC21"
+  '5': "\uEC22"
+  '6': "\uEC23"
+  '7': "\uEC24"
+  '8': "\uEC25"
+  '9': "\uEC26"
+  ':': "\uEC27"
+  ;: "\uEC28"
+  <: "\uEC29"
+  '=': "\uEC2A"
+  '>': "\uEC2B"
+  '?': "\uEC2C"
+  '@': "\uEC2D"
+  A: "\uEC2E"
+  B: "\uEC2F"
+  C: "\uEC30"
+  D: "\uEC31"
+  E: "\uEC32"
+  F: "\uEC33"
+  G: "\uEC34"
+  H: "\uEC35"
+  I: "\uEC36"
+  J: "\uEC37"
+  K: "\uEC38"
+  L: "\uEC39"
+  M: "\uEC3A"
+  N: "\uEC3B"
+  O: "\uEC3C"
+  P: "\uEC3D"
+  Q: "\uEC3E"
+  R: "\uEC3F"
+  S: "\uEC40"
+  T: "\uEC41"
+  U: "\uEC42"
+  V: "\uEC43"
+  W: "\uEC44"
+  X: "\uEC45"
+  Y: "\uEC46"
+  Z: "\uEC47"
+  '[': "\uEC48"
+  \: "\uEC49"
+  ']': "\uEC4A"
+  ^: "\uEC4B"
+  _: "\uEC4C"
+  '`': "\uEC4D"
+  a: "\uEC4E"
+  b: "\uEC4F"
+  c: "\uEC50"
+  d: "\uEC51"
+  e: "\uEC52"
+  f: "\uEC53"
+  g: "\uEC54"
+  h: "\uEC55"
+  i: "\uEC56"
+  j: "\uEC57"
+  k: "\uEC58"
+  l: "\uEC59"
+  m: "\uEC5A"
+  n: "\uEC5B"
+  o: "\uEC5C"
+  p: "\uEC5D"
+  q: "\uEC5E"
+  r: "\uEC5F"
+  s: "\uEC60"
+  t: "\uEC61"
+  u: "\uEC62"
+  v: "\uEC63"
+  w: "\uEC64"
+  x: "\uEC65"
+  y: "\uEC66"
+  z: "\uEC67"
+  '{': "\uEC68"
+  '|': "\uEC69"
+  '}': "\uEC6A"
+  '~': "\uEC6B"
+  "\xA3": "\uEC7D"
+  "\xAA": "\uEC8D"
+  "\xAB": "\uEC90"
+  "\xAC": "\uEC8F"
+  "\xB0": "\uECE5"
+  "\xB1": "\uECDE"
+  "\xB2": "\uECE9"
+  "\xBA": "\uEC8E"
+  "\xBB": "\uEC91"
+  "\xF7": "\uECE3"
+  "\u0192": "\uEC7E"
+  "\u207F": "\uECE8"
+  "\u2205": "\uECCD"
+  "\u2208": "\uECCE"
+  "\u2219": "\uECE6"
+  "\u221A": "\uECE7"
+  "\u2248": "\uECE4"
+  "\u2261": "\uECDD"
+  "\u2264": "\uECE0"
+  "\u2265": "\uECDF"
+  "\u2320": "\uECE1"
+  "\u2321": "\uECE2"
+  "\u2500": "\uECB1"
+  "\u2502": "\uECA0"
+  "\u250C": "\uECC7"
+  "\u2510": "\uECAC"
+  "\u2514": "\uECAD"
+  "\u2518": "\uECC6"
+  "\u251C": "\uECB0"
+  "\u2524": "\uECA1"
+  "\u252C": "\uECAF"
+  "\u2534": "\uECAE"
+  "\u253C": "\uECB2"
+  "\u2550": "\uECBA"
+  "\u2551": "\uECA7"
+  "\u2552": "\uECC2"
+  "\u2553": "\uECC3"
+  "\u2554": "\uECB6"
+  "\u2555": "\uECA5"
+  "\u2556": "\uECA4"
+  "\u2557": "\uECA8"
+  "\u2558": "\uECC1"
+  "\u2559": "\uECC0"
+  "\u255A": "\uECB5"
+  "\u255B": "\uECAB"
+  "\u255C": "\uECAA"
+  "\u255D": "\uECA9"
+  "\u255E": "\uECB3"
+  "\u255F": "\uECB4"
+  "\u2560": "\uECB9"
+  "\u2561": "\uECA2"
+  "\u2562": "\uECA3"
+  "\u2563": "\uECA6"
+  "\u2564": "\uECBE"
+  "\u2565": "\uECBF"
+  "\u2566": "\uECB8"
+  "\u2567": "\uECBC"
+  "\u2568": "\uECBD"
+  "\u2569": "\uECB7"
+  "\u256A": "\uECC5"
+  "\u256B": "\uECC4"
+  "\u256C": "\uECBB"
+  "\u2580": "\uECCC"
+  "\u2584": "\uECC9"
+  "\u2588": "\uECC8"
+  "\u258C": "\uECCA"
+  "\u2590": "\uECCB"
+  "\u2591": "\uEC9D"
+  "\u2592": "\uEC9E"
+  "\u2593": "\uEC9F"
+  "\u25A0": "\uECEA"
 slot/5:
-  '!': "\uEBC3"
-  '"': "\uEBC4"
-  '#': "\uEBC5"
-  $: "\uEBC6"
-  '%': "\uEBC7"
-  '&': "\uEBC8"
-  '''': "\uEBC9"
-  (: "\uEBCA"
-  ): "\uEBCB"
-  '*': "\uEBCC"
-  +: "\uEBCD"
-  ',': "\uEBCE"
-  '-': "\uEBCF"
-  .: "\uEBD0"
-  /: "\uEBD1"
-  '0': "\uEBD2"
-  '1': "\uEBD3"
-  '2': "\uEBD4"
-  '3': "\uEBD5"
-  '4': "\uEBD6"
-  '5': "\uEBD7"
-  '6': "\uEBD8"
-  '7': "\uEBD9"
-  '8': "\uEBDA"
-  '9': "\uEBDB"
-  ':': "\uEBDC"
-  ;: "\uEBDD"
-  <: "\uEBDE"
-  '=': "\uEBDF"
-  '>': "\uEBE0"
-  '?': "\uEBE1"
-  '@': "\uEBE2"
-  A: "\uEBE3"
-  B: "\uEBE4"
-  C: "\uEBE5"
-  D: "\uEBE6"
-  E: "\uEBE7"
-  F: "\uEBE8"
-  G: "\uEBE9"
-  H: "\uEBEA"
-  I: "\uEBEB"
-  J: "\uEBEC"
-  K: "\uEBED"
-  L: "\uEBEE"
-  M: "\uEBEF"
-  N: "\uEBF0"
-  O: "\uEBF1"
-  P: "\uEBF2"
-  Q: "\uEBF3"
-  R: "\uEBF4"
-  S: "\uEBF5"
-  T: "\uEBF6"
-  U: "\uEBF7"
-  V: "\uEBF8"
-  W: "\uEBF9"
-  X: "\uEBFA"
-  Y: "\uEBFB"
-  Z: "\uEBFC"
-  '[': "\uEBFD"
-  \: "\uEBFE"
-  ']': "\uEBFF"
-  ^: "\uEC00"
-  _: "\uEC01"
-  '`': "\uEC02"
-  a: "\uEC03"
-  b: "\uEC04"
-  c: "\uEC05"
-  d: "\uEC06"
-  e: "\uEC07"
-  f: "\uEC08"
-  g: "\uEC09"
-  h: "\uEC0A"
-  i: "\uEC0B"
-  j: "\uEC0C"
-  k: "\uEC0D"
-  l: "\uEC0E"
-  m: "\uEC0F"
-  n: "\uEC10"
-  o: "\uEC11"
-  p: "\uEC12"
-  q: "\uEC13"
-  r: "\uEC14"
-  s: "\uEC15"
-  t: "\uEC16"
-  u: "\uEC17"
-  v: "\uEC18"
-  w: "\uEC19"
-  x: "\uEC1A"
-  y: "\uEC1B"
-  z: "\uEC1C"
-  '{': "\uEC1D"
-  '|': "\uEC1E"
-  '}': "\uEC1F"
-  '~': "\uEC20"
-  "\xA3": "\uEC32"
-  "\xAA": "\uEC42"
-  "\xAB": "\uEC45"
-  "\xAC": "\uEC44"
-  "\xB0": "\uEC9A"
-  "\xB1": "\uEC93"
-  "\xB2": "\uEC9E"
-  "\xBA": "\uEC43"
-  "\xBB": "\uEC46"
-  "\xF7": "\uEC98"
-  "\u0192": "\uEC33"
-  "\u207F": "\uEC9D"
-  "\u2205": "\uEC82"
-  "\u2208": "\uEC83"
-  "\u2219": "\uEC9B"
-  "\u221A": "\uEC9C"
-  "\u2248": "\uEC99"
-  "\u2261": "\uEC92"
-  "\u2264": "\uEC95"
-  "\u2265": "\uEC94"
-  "\u2320": "\uEC96"
-  "\u2321": "\uEC97"
-  "\u2500": "\uEC66"
-  "\u2502": "\uEC55"
-  "\u250C": "\uEC7C"
-  "\u2510": "\uEC61"
-  "\u2514": "\uEC62"
-  "\u2518": "\uEC7B"
-  "\u251C": "\uEC65"
-  "\u2524": "\uEC56"
-  "\u252C": "\uEC64"
-  "\u2534": "\uEC63"
-  "\u253C": "\uEC67"
-  "\u2550": "\uEC6F"
-  "\u2551": "\uEC5C"
-  "\u2552": "\uEC77"
-  "\u2553": "\uEC78"
-  "\u2554": "\uEC6B"
-  "\u2555": "\uEC5A"
-  "\u2556": "\uEC59"
-  "\u2557": "\uEC5D"
-  "\u2558": "\uEC76"
-  "\u2559": "\uEC75"
-  "\u255A": "\uEC6A"
-  "\u255B": "\uEC60"
-  "\u255C": "\uEC5F"
-  "\u255D": "\uEC5E"
-  "\u255E": "\uEC68"
-  "\u255F": "\uEC69"
-  "\u2560": "\uEC6E"
-  "\u2561": "\uEC57"
-  "\u2562": "\uEC58"
-  "\u2563": "\uEC5B"
-  "\u2564": "\uEC73"
-  "\u2565": "\uEC74"
-  "\u2566": "\uEC6D"
-  "\u2567": "\uEC71"
-  "\u2568": "\uEC72"
-  "\u2569": "\uEC6C"
-  "\u256A": "\uEC7A"
-  "\u256B": "\uEC79"
-  "\u256C": "\uEC70"
-  "\u2580": "\uEC81"
-  "\u2584": "\uEC7E"
-  "\u2588": "\uEC7D"
-  "\u258C": "\uEC7F"
-  "\u2590": "\uEC80"
-  "\u2591": "\uEC52"
-  "\u2592": "\uEC53"
-  "\u2593": "\uEC54"
-  "\u25A0": "\uEC9F"
+  '!': "\uEE0E"
+  '"': "\uEE0F"
+  '#': "\uEE10"
+  $: "\uEE11"
+  '%': "\uEE12"
+  '&': "\uEE13"
+  '''': "\uEE14"
+  (: "\uEE15"
+  ): "\uEE16"
+  '*': "\uEE17"
+  +: "\uEE18"
+  ',': "\uEE19"
+  '-': "\uEE1A"
+  .: "\uEE1B"
+  /: "\uEE1C"
+  '0': "\uEE1D"
+  '1': "\uEE1E"
+  '2': "\uEE1F"
+  '3': "\uEE20"
+  '4': "\uEE21"
+  '5': "\uEE22"
+  '6': "\uEE23"
+  '7': "\uEE24"
+  '8': "\uEE25"
+  '9': "\uEE26"
+  ':': "\uEE27"
+  ;: "\uEE28"
+  <: "\uEE29"
+  '=': "\uEE2A"
+  '>': "\uEE2B"
+  '?': "\uEE2C"
+  '@': "\uEE2D"
+  A: "\uEE2E"
+  B: "\uEE2F"
+  C: "\uEE30"
+  D: "\uEE31"
+  E: "\uEE32"
+  F: "\uEE33"
+  G: "\uEE34"
+  H: "\uEE35"
+  I: "\uEE36"
+  J: "\uEE37"
+  K: "\uEE38"
+  L: "\uEE39"
+  M: "\uEE3A"
+  N: "\uEE3B"
+  O: "\uEE3C"
+  P: "\uEE3D"
+  Q: "\uEE3E"
+  R: "\uEE3F"
+  S: "\uEE40"
+  T: "\uEE41"
+  U: "\uEE42"
+  V: "\uEE43"
+  W: "\uEE44"
+  X: "\uEE45"
+  Y: "\uEE46"
+  Z: "\uEE47"
+  '[': "\uEE48"
+  \: "\uEE49"
+  ']': "\uEE4A"
+  ^: "\uEE4B"
+  _: "\uEE4C"
+  '`': "\uEE4D"
+  a: "\uEE4E"
+  b: "\uEE4F"
+  c: "\uEE50"
+  d: "\uEE51"
+  e: "\uEE52"
+  f: "\uEE53"
+  g: "\uEE54"
+  h: "\uEE55"
+  i: "\uEE56"
+  j: "\uEE57"
+  k: "\uEE58"
+  l: "\uEE59"
+  m: "\uEE5A"
+  n: "\uEE5B"
+  o: "\uEE5C"
+  p: "\uEE5D"
+  q: "\uEE5E"
+  r: "\uEE5F"
+  s: "\uEE60"
+  t: "\uEE61"
+  u: "\uEE62"
+  v: "\uEE63"
+  w: "\uEE64"
+  x: "\uEE65"
+  y: "\uEE66"
+  z: "\uEE67"
+  '{': "\uEE68"
+  '|': "\uEE69"
+  '}': "\uEE6A"
+  '~': "\uEE6B"
+  "\xA3": "\uEE7D"
+  "\xAA": "\uEE8D"
+  "\xAB": "\uEE90"
+  "\xAC": "\uEE8F"
+  "\xB0": "\uEEE5"
+  "\xB1": "\uEEDE"
+  "\xB2": "\uEEE9"
+  "\xBA": "\uEE8E"
+  "\xBB": "\uEE91"
+  "\xF7": "\uEEE3"
+  "\u0192": "\uEE7E"
+  "\u207F": "\uEEE8"
+  "\u2205": "\uEECD"
+  "\u2208": "\uEECE"
+  "\u2219": "\uEEE6"
+  "\u221A": "\uEEE7"
+  "\u2248": "\uEEE4"
+  "\u2261": "\uEEDD"
+  "\u2264": "\uEEE0"
+  "\u2265": "\uEEDF"
+  "\u2320": "\uEEE1"
+  "\u2321": "\uEEE2"
+  "\u2500": "\uEEB1"
+  "\u2502": "\uEEA0"
+  "\u250C": "\uEEC7"
+  "\u2510": "\uEEAC"
+  "\u2514": "\uEEAD"
+  "\u2518": "\uEEC6"
+  "\u251C": "\uEEB0"
+  "\u2524": "\uEEA1"
+  "\u252C": "\uEEAF"
+  "\u2534": "\uEEAE"
+  "\u253C": "\uEEB2"
+  "\u2550": "\uEEBA"
+  "\u2551": "\uEEA7"
+  "\u2552": "\uEEC2"
+  "\u2553": "\uEEC3"
+  "\u2554": "\uEEB6"
+  "\u2555": "\uEEA5"
+  "\u2556": "\uEEA4"
+  "\u2557": "\uEEA8"
+  "\u2558": "\uEEC1"
+  "\u2559": "\uEEC0"
+  "\u255A": "\uEEB5"
+  "\u255B": "\uEEAB"
+  "\u255C": "\uEEAA"
+  "\u255D": "\uEEA9"
+  "\u255E": "\uEEB3"
+  "\u255F": "\uEEB4"
+  "\u2560": "\uEEB9"
+  "\u2561": "\uEEA2"
+  "\u2562": "\uEEA3"
+  "\u2563": "\uEEA6"
+  "\u2564": "\uEEBE"
+  "\u2565": "\uEEBF"
+  "\u2566": "\uEEB8"
+  "\u2567": "\uEEBC"
+  "\u2568": "\uEEBD"
+  "\u2569": "\uEEB7"
+  "\u256A": "\uEEC5"
+  "\u256B": "\uEEC4"
+  "\u256C": "\uEEBB"
+  "\u2580": "\uEECC"
+  "\u2584": "\uEEC9"
+  "\u2588": "\uEEC8"
+  "\u258C": "\uEECA"
+  "\u2590": "\uEECB"
+  "\u2591": "\uEE9D"
+  "\u2592": "\uEE9E"
+  "\u2593": "\uEE9F"
+  "\u25A0": "\uEEEA"
 slot/blank:
   chars:
   - "\uE001"
@@ -2012,6 +3572,24 @@ slot/grid:
   - "\uE00A"
   - "\uE00B"
   - "\uE00C"
+sniffer_egg.png:
+  chars:
+  - "\uE3A7"
+snort_pottery_sherd.png:
+  chars:
+  - "\uE3A8"
+snout_armor_trim_smithing_template.png:
+  chars:
+  - "\uE3A9"
+snowball.png:
+  chars:
+  - "\uE3AA"
+soul_campfire.png:
+  chars:
+  - "\uE3AB"
+soul_lantern.png:
+  chars:
+  - "\uE3AC"
 space/negative:
   chars:
   - "\uE00D"
@@ -2416,3 +3994,186 @@ space/positive:
   - "\uE19A"
   - "\uE19B"
   - "\uE19C"
+spawn_egg.png:
+  chars:
+  - "\uE3AD"
+spawn_egg_overlay.png:
+  chars:
+  - "\uE3AE"
+spectral_arrow.png:
+  chars:
+  - "\uE3AF"
+spider_eye.png:
+  chars:
+  - "\uE3B0"
+spire_armor_trim_smithing_template.png:
+  chars:
+  - "\uE3B1"
+splash_potion.png:
+  chars:
+  - "\uE3B2"
+spruce_boat.png:
+  chars:
+  - "\uE3B3"
+spruce_chest_boat.png:
+  chars:
+  - "\uE3B4"
+spruce_door.png:
+  chars:
+  - "\uE3B5"
+spruce_hanging_sign.png:
+  chars:
+  - "\uE3B6"
+spruce_sign.png:
+  chars:
+  - "\uE3B7"
+spyglass.png:
+  chars:
+  - "\uE3B8"
+spyglass_model.png:
+  chars:
+  - "\uE3B9"
+stick.png:
+  chars:
+  - "\uE3BA"
+stone_axe.png:
+  chars:
+  - "\uE3BB"
+stone_hoe.png:
+  chars:
+  - "\uE3BC"
+stone_pickaxe.png:
+  chars:
+  - "\uE3BD"
+stone_shovel.png:
+  chars:
+  - "\uE3BE"
+stone_sword.png:
+  chars:
+  - "\uE3BF"
+string.png:
+  chars:
+  - "\uE3C0"
+structure_void.png:
+  chars:
+  - "\uE3C1"
+sugar.png:
+  chars:
+  - "\uE3C2"
+sugar_cane.png:
+  chars:
+  - "\uE3C3"
+suspicious_stew.png:
+  chars:
+  - "\uE3C4"
+sweet_berries.png:
+  chars:
+  - "\uE3C5"
+tadpole_bucket.png:
+  chars:
+  - "\uE3C6"
+tide_armor_trim_smithing_template.png:
+  chars:
+  - "\uE3C7"
+tipped_arrow_base.png:
+  chars:
+  - "\uE3C8"
+tipped_arrow_head.png:
+  chars:
+  - "\uE3C9"
+tnt_minecart.png:
+  chars:
+  - "\uE3CA"
+torchflower_seeds.png:
+  chars:
+  - "\uE3CB"
+totem_of_undying.png:
+  chars:
+  - "\uE3CC"
+trial_key.png:
+  chars:
+  - "\uE3CD"
+trident.png:
+  chars:
+  - "\uE3CE"
+tropical_fish.png:
+  chars:
+  - "\uE3CF"
+tropical_fish_bucket.png:
+  chars:
+  - "\uE3D0"
+turtle_egg.png:
+  chars:
+  - "\uE3D1"
+turtle_helmet.png:
+  chars:
+  - "\uE3D2"
+vex_armor_trim_smithing_template.png:
+  chars:
+  - "\uE3D3"
+ward_armor_trim_smithing_template.png:
+  chars:
+  - "\uE3D4"
+warped_door.png:
+  chars:
+  - "\uE3D5"
+warped_fungus_on_a_stick.png:
+  chars:
+  - "\uE3D6"
+warped_hanging_sign.png:
+  chars:
+  - "\uE3D7"
+warped_sign.png:
+  chars:
+  - "\uE3D8"
+water_bucket.png:
+  chars:
+  - "\uE3D9"
+wayfinder_armor_trim_smithing_template.png:
+  chars:
+  - "\uE3DA"
+weathered_copper_door.png:
+  chars:
+  - "\uE3DB"
+wheat.png:
+  chars:
+  - "\uE3DC"
+wheat_seeds.png:
+  chars:
+  - "\uE3DD"
+white_candle.png:
+  chars:
+  - "\uE3DE"
+white_dye.png:
+  chars:
+  - "\uE3DF"
+wild_armor_trim_smithing_template.png:
+  chars:
+  - "\uE3E0"
+wooden_axe.png:
+  chars:
+  - "\uE3E1"
+wooden_hoe.png:
+  chars:
+  - "\uE3E2"
+wooden_pickaxe.png:
+  chars:
+  - "\uE3E3"
+wooden_shovel.png:
+  chars:
+  - "\uE3E4"
+wooden_sword.png:
+  chars:
+  - "\uE3E5"
+writable_book.png:
+  chars:
+  - "\uE3E6"
+written_book.png:
+  chars:
+  - "\uE3E7"
+yellow_candle.png:
+  chars:
+  - "\uE3E8"
+yellow_dye.png:
+  chars:
+  - "\uE3E9"
